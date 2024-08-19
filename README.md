@@ -40,40 +40,40 @@ Alignments were also generated using minimap2[^17] and gofasta[^18] against the 
 
 Finally, gene presence absence and struct GWAS analyses were performed using pyseer with the core genome K matrix and LMM mode.
 
-[^1] Petit III, Robert A., and Timothy D. Read. "Bactopia: a flexible pipeline for complete analysis of bacterial genomes." Msystems 5.4 (2020): 10-1128.
+[^1]: Petit III, Robert A., and Timothy D. Read. "Bactopia: a flexible pipeline for complete analysis of bacterial genomes." Msystems 5.4 (2020): 10-1128.
 
-[^2] Chen, Shifu, et al. "fastp: an ultra-fast all-in-one FASTQ preprocessor." Bioinformatics 34.17 (2018): i884-i890.
+[^2]: Chen, Shifu, et al. "fastp: an ultra-fast all-in-one FASTQ preprocessor." Bioinformatics 34.17 (2018): i884-i890.
 
-[^3] https://github.com/tseemann/shovill
+[^3]:  https://github.com/tseemann/shovill
 
-[^4] Seemann, Torsten. "Prokka: rapid prokaryotic genome annotation." Bioinformatics 30.14 (2014): 2068-2069.
+[^4]: Seemann, Torsten. "Prokka: rapid prokaryotic genome annotation." Bioinformatics 30.14 (2014): 2068-2069.
 
-[^5] Feldgarden, Michael, et al. "AMRFinderPlus and the Reference Gene Catalog facilitate examination of the genomic links among antimicrobial resistance, stress response, and virulence." Scientific reports 11.1 (2021): 12728.
+[^5]: Feldgarden, Michael, et al. "AMRFinderPlus and the Reference Gene Catalog facilitate examination of the genomic links among antimicrobial resistance, stress response, and virulence." Scientific reports 11.1 (2021): 12728.
 
-[^6] https://github.com/tseemann/mlst
+[^6]: https://github.com/tseemann/mlst
 
-[^7] Enright, Mark C., et al. "Multilocus sequence typing of Streptococcus pyogenes and the relationships between emm type and clone." Infection and immunity 69.4 (2001): 2416-2427.
+[^7]: Enright, Mark C., et al. "Multilocus sequence typing of Streptococcus pyogenes and the relationships between emm type and clone." Infection and immunity 69.4 (2001): 2416-2427.
 
-[^8] https://github.com/MDU-PHL/emmtyper
+[^8]: https://github.com/MDU-PHL/emmtyper
 
-[^9] Tonkin-Hill, Gerry, et al. "Producing polished prokaryotic pangenomes with the Panaroo pipeline." Genome biology 21 (2020): 1-21.
+[^9]: Tonkin-Hill, Gerry, et al. "Producing polished prokaryotic pangenomes with the Panaroo pipeline." Genome biology 21 (2020): 1-21.
 
-[^10] Didelot, Xavier, and Daniel J. Wilson. "ClonalFrameML: efficient inference of recombination in whole bacterial genomes." PLoS computational biology 11.2 (2015): e1004041.
+[^10]: Didelot, Xavier, and Daniel J. Wilson. "ClonalFrameML: efficient inference of recombination in whole bacterial genomes." PLoS computational biology 11.2 (2015): e1004041.
 
-[^11] Minh, Bui Quang, et al. "IQ-TREE 2: new models and efficient methods for phylogenetic inference in the genomic era." Molecular biology and evolution 37.5 (2020): 1530-1534.
+[^11]: Minh, Bui Quang, et al. "IQ-TREE 2: new models and efficient methods for phylogenetic inference in the genomic era." Molecular biology and evolution 37.5 (2020): 1530-1534.
 
-[^12] Lees, John A., et al. "Fast and flexible bacterial genomic epidemiology with PopPUNK." Genome research 29.2 (2019): 304-316.
+[^12]: Lees, John A., et al. "Fast and flexible bacterial genomic epidemiology with PopPUNK." Genome research 29.2 (2019): 304-316.
 
-[^13] Argimón, Silvia, et al. "Microreact: visualizing and sharing data for genomic epidemiology and phylogeography." Microbial genomics 2.11 (2016): e000093.
+[^13]: Argimón, Silvia, et al. "Microreact: visualizing and sharing data for genomic epidemiology and phylogeography." Microbial genomics 2.11 (2016): e000093.
 
-[^14] Liu, Bo, et al. "VFDB 2022: a general classification scheme for bacterial virulence factors." Nucleic acids research 50.D1 (2022): D912-D917.
+[^14]: Liu, Bo, et al. "VFDB 2022: a general classification scheme for bacterial virulence factors." Nucleic acids research 50.D1 (2022): D912-D917.
 
-[^15] O'Leary, Nuala A., et al. "Reference sequence (RefSeq) database at NCBI: current status, taxonomic expansion, and functional annotation." Nucleic acids research 44.D1 (2016): D733-D745.
+[^15]: O'Leary, Nuala A., et al. "Reference sequence (RefSeq) database at NCBI: current status, taxonomic expansion, and functional annotation." Nucleic acids research 44.D1 (2016): D733-D745.
 
-[^16] Camacho, Christiam, et al. "BLAST+: architecture and applications." BMC bioinformatics 10 (2009): 1-9.
+[^16]: Camacho, Christiam, et al. "BLAST+: architecture and applications." BMC bioinformatics 10 (2009): 1-9.
 
-[^17] Li, Heng. "Minimap2: pairwise alignment for nucleotide sequences." Bioinformatics 34.18 (2018): 3094-3100.
+[^17]: Li, Heng. "Minimap2: pairwise alignment for nucleotide sequences." Bioinformatics 34.18 (2018): 3094-3100.
 
-[^18] Jackson, Ben. "gofasta: command-line utilities for genomic epidemiology research." Bioinformatics 38.16 (2022): 4033-4035.
+[^18]: Jackson, Ben. "gofasta: command-line utilities for genomic epidemiology research." Bioinformatics 38.16 (2022): 4033-4035.
 
-[^19] Davies, Mark R., et al. "Atlas of group A streptococcal vaccine candidates compiled using large-scale comparative genomics." Nature genetics 51.6 (2019): 1035-1043.
+[^19]: Davies, Mark R., et al. "Atlas of group A streptococcal vaccine candidates compiled using large-scale comparative genomics." Nature genetics 51.6 (2019): 1035-1043.
