@@ -1,0 +1,410 @@
+IQ-TREE multicore version 2.2.2.7 COVID-edition for Linux 64-bit built Jun  7 2023
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    56ca88943ed0 (AVX, 125 GB RAM)
+Command: iqtree -m HKY -bb 1000 -alrt 1000 -wbt -wbtl -alninfo -s core-genome.masked.aln.gz -nt 4 -ntmax 4 -pre core-genome
+Seed:    236519 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sun Jun 16 11:30:54 2024
+Kernel:  AVX - 4 threads (12 CPU cores detected)
+
+Reading alignment file core-genome.masked.aln.gz ... Fasta format detected
+Reading fasta file: done in 5.04212 secs using 92.36% CPU
+Alignment most likely contains DNA/RNA sequences
+Constructing alignment: done in 1.76611 secs using 69.47% CPU
+WARNING: 534 sites contain only gaps or ambiguous characters.
+Alignment has 155 sequences with 1376223 columns, 34672 distinct patterns
+31793 parsimony-informative, 13600 singleton sites, 1330830 constant sites
+                   Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.0127593 secs using 406.1% CPU
+   1  23SC_083M0072_S18    2.42%    passed     99.19%
+   2  R196_S13             3.17%    passed     99.95%
+   3  R210_S21             3.14%    passed     99.96%
+   4  R198_S15             2.22%    passed     95.29%
+   5  R42_S11              3.16%    passed     99.99%
+   6  R215_S30             3.14%    passed     99.98%
+   7  23SH_065M0295_S16    2.87%    passed     99.59%
+   8  R100_S34             3.05%    passed     99.70%
+   9  R188_S7              2.63%    passed     97.74%
+  10  R201_S17             3.13%    passed     99.96%
+  11  R157_S7              3.21%    passed     99.92%
+  12  R72_S10              3.17%    passed     99.95%
+  13  R76_S13              3.17%    passed     99.92%
+  14  R68_S7               3.16%    passed     99.94%
+  15  R181_S25             2.88%    passed     99.53%
+  16  R81_S18              3.12%    passed     99.96%
+  17  R94_S30              2.88%    passed     99.34%
+  18  R184_S3              2.96%    passed     98.50%
+  19  R151_S1              3.14%    passed     99.96%
+  20  R90_S25              3.38%    passed     97.49%
+  21  R165_S14             3.14%    passed     99.96%
+  22  R62_S5               2.81%    passed     99.92%
+  23  R166_S15             2.75%    passed     99.49%
+  24  R214_S29             3.14%    passed     99.98%
+  25  R95_S31              3.45%    passed     99.59%
+  26  R41_S10              3.15%    passed     99.96%
+  27  23SH_071M0020_S18    3.21%    passed     99.99%
+  28  R48_S14              3.15%    passed     99.95%
+  29  R168_S17             3.15%    passed     99.96%
+  30  R51_S16              3.32%    passed     96.83%
+  31  R44_S13              3.20%    passed     99.88%
+  32  R60_S21              3.17%    passed     99.94%
+  33  23SH_090M0134_S22    3.08%    passed     60.23%
+  34  R101_S35             3.14%    passed     99.96%
+  35  23SG_145M0015_S3     3.15%    passed     99.95%
+  36  R182_S1              3.14%    passed     99.96%
+  37  R92_S27              3.14%    passed     99.95%
+  38  R191_S9              2.19%    passed     94.43%
+  39  R167_S16             3.23%    passed     99.99%
+  40  R49_S15              3.17%    passed     99.94%
+  41  R189_S1              2.72%    passed     99.83%
+  42  R208_S20             2.76%    passed     99.77%
+  43  R164_S13             3.94%    passed     98.32%
+  44  R227_S11             3.17%    passed     99.95%
+  45  23SC_014M0062_S3     3.15%    passed     99.86%
+  46  R85_S21              3.17%    passed     99.97%
+  47  R155_S5              3.45%    passed     99.54%
+  48  R104_S2              3.17%    passed     99.95%
+  49  R162_S11             3.12%    passed     99.95%
+  50  R213_S28             3.18%    passed     99.90%
+  51  R43_S12              3.14%    passed     99.96%
+  52  23SH_077M0027_S17    4.53%    passed     95.33%
+  53  23SH_134M0555_S9     2.19%    passed     94.69%
+  54  R229_S12             2.20%    passed     93.90%
+  55  R82_S19              3.14%    passed     99.96%
+  56  R226_S36             3.16%    passed     99.99%
+  57  23SB_143M0036_S5     3.17%    passed     99.92%
+  58  23SH_038M1879_S10    3.24%    passed    100.00%
+  59  R197_S14             3.19%    passed     99.95%
+  60  R77_S14              3.13%    passed     99.96%
+  61  R220_S33             3.21%    passed     99.85%
+  62  R152_S2              3.41%    passed     98.44%
+  63  R203_S4              3.15%    passed     99.96%
+  64  R59_S20              3.17%    passed     99.95%
+  65  R178_S22             3.38%    passed     96.50%
+  66  R78_S15              3.16%    passed     99.95%
+  67  R93_S29              3.16%    passed     99.95%
+  68  R224_S35             3.14%    passed     99.97%
+  69  R228_S37             4.27%    passed     99.58%
+  70  R153_S3              3.17%    passed     99.95%
+  71  R87_S23              3.79%    passed     88.35%
+  72  R223_S9              3.17%    passed     99.95%
+  73  R79_S16              2.22%    passed     95.57%
+  74  R219_S7              3.23%    passed     99.99%
+  75  R185_S4              3.30%    passed     99.47%
+  76  R54_S18              2.24%    passed     95.28%
+  77  R69_S8               3.13%    passed     99.95%
+  78  R105_S3              3.14%    passed     99.96%
+  79  R73_S11              3.17%    passed     99.95%
+  80  R212_S6              3.13%    passed     99.95%
+  81  R52_S17              3.19%    passed     97.99%
+  82  R158_S8              3.14%    passed     99.95%
+  83  R98_S33              3.14%    passed     99.96%
+  84  R154_S4              3.03%    passed     98.75%
+  85  23SB_106M0036_S15    2.18%    passed     95.12%
+  86  R217_S32             3.19%    passed     99.95%
+  87  23SH_066M0152_S17    3.20%    passed    100.00%
+  88  R193_S10             3.14%    passed     99.97%
+  89  R207_S19             3.28%    passed     87.81%
+  90  R67_S6               3.14%    passed     99.95%
+  91  23SH_149M0289_S4     3.57%    passed     99.99%
+  92  23SH_030M2179_S6     2.76%    passed     99.50%
+  93  R192_S2              3.18%    passed     99.97%
+  94  R190_S8              3.17%    passed     99.86%
+  95  R103_S1              3.16%    passed     99.94%
+  96  R195_S12             3.16%    passed     99.99%
+  97  23SH_029M0358_S5     3.19%    passed    100.00%
+  98  R209_S5              3.17%    passed     99.95%
+  99  R174_S19             3.15%    passed     99.98%
+ 100  R102_S36             3.14%    passed     99.96%
+ 101  R202_S3              3.14%    passed     99.95%
+ 102  R216_S31             3.17%    passed     99.94%
+ 103  23SH_141M0012_S7     3.27%    passed     99.96%
+ 104  23SH_005M1638_S1     3.67%    passed     99.88%
+ 105  R96_S32              3.15%    passed     99.97%
+ 106  23SH_053M1623_S13    5.95%    failed      0.02%
+ 107  23SC_035M0015_S9     3.22%    passed    100.00%
+ 108  R187_S6              3.17%    passed    100.00%
+ 109  R180_S24             3.09%    passed     99.36%
+ 110  R80_S17              3.17%    passed     99.95%
+ 111  R88_S24              2.83%    passed     94.12%
+ 112  R199_S16             2.23%    passed     95.20%
+ 113  R163_S12             3.30%    passed     99.22%
+ 114  23SG_024M0143_S4     3.16%    passed    100.00%
+ 115  R84_S20              3.14%    passed     99.95%
+ 116  23SG_130M0102_S10    3.34%    passed     99.35%
+ 117  R156_S6              3.17%    passed     99.95%
+ 118  R183_S2              3.15%    passed     99.96%
+ 119  23SC_088M0045_S21    3.18%    passed     99.82%
+ 120  23SH_084M0850_S19    2.19%    passed     95.20%
+ 121  R176_S20             2.74%    passed     99.55%
+ 122  R70_S9               2.20%    passed     94.02%
+ 123  R177_S21             3.17%    passed     99.92%
+ 124  R86_S22              3.17%    passed     99.95%
+ 125  R206_S18             3.14%    passed     99.97%
+ 126  R61_S22              2.50%    passed     99.64%
+ 127  23SC_121M0012_S12    4.42%    passed     96.17%
+ 128  R222_S8              3.12%    passed     99.95%
+ 129  R58_S19              3.21%    passed     99.77%
+ 130  R221_S34             3.17%    passed     98.15%
+ 131  R91_S26              3.15%    passed     99.97%
+ 132  23SH_113M0067_S13    3.59%    passed     89.33%
+ 133  23SH_089M0615_S20    3.12%    passed     99.95%
+ 134  23SH_063M0013_S15    3.20%    passed     99.93%
+ 135  23SH_108M0271_S14    3.45%    passed     98.96%
+ 136  R186_S5              3.17%    passed     99.93%
+ 137  23SH_103M0533_S19    3.16%    passed    100.00%
+ 138  R225_S10             3.18%    passed     99.95%
+ 139  23SH_126M0162_S11    3.21%    passed     99.83%
+ 140  23SH_033M1095_S7     3.20%    passed    100.00%
+ 141  23SH_139M0292_S8     2.23%    passed     95.64%
+ 142  R179_S23             2.81%    passed     99.93%
+ 143  23SH_009M1094_S2     3.18%    passed     98.30%
+ 144  23SC_140M0057_S6     2.23%    passed     93.79%
+ 145  R161_S10             3.15%    passed     99.95%
+ 146  23SH_049M0198_S11    3.25%    passed    100.00%
+ 147  23SG_074M0109_S16    3.20%    passed    100.00%
+ 148  R211_S22             2.86%    passed     95.63%
+ 149  R160_S9              2.98%    passed     95.48%
+ 150  R205_S27             3.23%    passed     99.99%
+ 151  23SH_050M1003_S12    3.02%    passed     99.92%
+ 152  R204_S26             3.16%    passed     99.97%
+ 153  R169_S18             2.92%    passed     98.01%
+ 154  23SG_034M0106_S8     3.02%    passed     89.85%
+ 155  R194_S11             4.24%    passed     99.49%
+****  TOTAL                3.12%  1 sequences failed composition chi2 test (p-value<5%; df=3)
+Alignment sites statistics printed to core-genome.alninfo
+NOTE: minimal branch length is reduced to 0.000000072663 for long alignment
+NOTE: R104_S2 is identical to R72_S10 but kept for subsequent analysis
+NOTE: R205_S27 is identical to R167_S16 but kept for subsequent analysis
+NOTE: R153_S3 is identical to R227_S11 but kept for subsequent analysis
+NOTE: R156_S6 is identical to R59_S20 but kept for subsequent analysis
+NOTE: R93_S29 is identical to R78_S15 but kept for subsequent analysis
+NOTE: R84_S20 is identical to R158_S8 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.0301462 secs using 180.1% CPU
+Identifying sites to remove: done in 0.999916 secs using 98.25% CPU
+NOTE: 4 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: R73_S11 (identical to R227_S11) is ignored but added at the end
+NOTE: R209_S5 (identical to R227_S11) is ignored but added at the end
+NOTE: R80_S17 (identical to R227_S11) is ignored but added at the end
+NOTE: R86_S22 (identical to R227_S11) is ignored but added at the end
+Alignment was printed to core-genome.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to core-genome.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.569 seconds
+Generating 1000 samples for ultrafast bootstrap (seed: 236519)...
+
+NOTE: 302 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -2727455.660
+2. Current log-likelihood: -2709022.606
+3. Current log-likelihood: -2705006.113
+4. Current log-likelihood: -2698896.070
+5. Current log-likelihood: -2686854.321
+6. Current log-likelihood: -2682387.223
+7. Current log-likelihood: -2677510.624
+Optimal log-likelihood: -2677510.537
+Rate parameters:  A-C: 1.00000  A-G: 8.14398  A-T: 1.00000  C-G: 1.00000  C-T: 8.14398  G-T: 1.00000
+Base frequencies:  A: 0.308  C: 0.183  G: 0.209  T: 0.299
+Parameters optimization took 7 rounds (2.568 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.326083 secs using 400.2% CPU
+Computing ML distances took 0.340381 sec (of wall-clock time) 1.359823 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000301525 secs using 310.4% CPU
+Constructing RapidNJ tree: done in 0.029585 secs using 116.6% CPU
+Computing RapidNJ tree took 0.029979 sec (of wall-clock time) 0.035647 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -2680567.914
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 86.926 second
+Computing log-likelihood of 98 initial trees ... 24.948 seconds
+Current best score: -2677185.058
+
+Do NNI search on 20 best initial trees
+Optimizing NNI: done in 3.62254 secs using 398.3% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -2677165.525
+Optimizing NNI: done in 3.69928 secs using 398.6% CPU
+BETTER TREE FOUND at iteration 2: -2677165.525
+Optimizing NNI: done in 3.7382 secs using 397.8% CPU
+BETTER TREE FOUND at iteration 3: -2677165.525
+Optimizing NNI: done in 3.77023 secs using 398.1% CPU
+Optimizing NNI: done in 3.78842 secs using 398.4% CPU
+Optimizing NNI: done in 3.549 secs using 398.5% CPU
+Optimizing NNI: done in 3.6753 secs using 398.3% CPU
+Optimizing NNI: done in 3.51417 secs using 398.1% CPU
+BETTER TREE FOUND at iteration 8: -2677165.525
+Optimizing NNI: done in 3.6358 secs using 398% CPU
+BETTER TREE FOUND at iteration 9: -2677165.525
+Optimizing NNI: done in 3.72169 secs using 398.5% CPU
+Iteration 10 / LogL: -2677165.525 / Time: 0h:2m:37s
+Optimizing NNI: done in 3.7557 secs using 398.3% CPU
+Optimizing NNI: done in 3.6569 secs using 398.2% CPU
+Optimizing NNI: done in 3.63905 secs using 398% CPU
+Optimizing NNI: done in 3.88642 secs using 398.6% CPU
+Optimizing NNI: done in 3.77119 secs using 397.9% CPU
+Optimizing NNI: done in 3.8136 secs using 398.1% CPU
+Optimizing NNI: done in 3.66535 secs using 397.7% CPU
+Optimizing NNI: done in 3.74446 secs using 398.3% CPU
+Optimizing NNI: done in 3.66478 secs using 397.9% CPU
+Optimizing NNI: done in 3.90112 secs using 398.6% CPU
+Iteration 20 / LogL: -2677165.633 / Time: 0h:3m:15s
+Finish initializing candidate tree set (20)
+Current best tree score: -2677165.525 / CPU time: 187.735
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Optimizing NNI: done in 3.23426 secs using 398.2% CPU
+Optimizing NNI: done in 3.53443 secs using 398.1% CPU
+Optimizing NNI: done in 2.68329 secs using 398.8% CPU
+Optimizing NNI: done in 2.62119 secs using 397.7% CPU
+Optimizing NNI: done in 3.57308 secs using 398% CPU
+Optimizing NNI: done in 3.57779 secs using 398.1% CPU
+Optimizing NNI: done in 3.42265 secs using 397.5% CPU
+Optimizing NNI: done in 2.93384 secs using 398% CPU
+Optimizing NNI: done in 3.04259 secs using 398.6% CPU
+Optimizing NNI: done in 3.56788 secs using 398.6% CPU
+Iteration 30 / LogL: -2677166.324 / Time: 0h:3m:48s (0h:10m:19s left)
+Optimizing NNI: done in 3.34286 secs using 398.4% CPU
+Optimizing NNI: done in 3.37227 secs using 398.2% CPU
+Optimizing NNI: done in 3.06699 secs using 398.3% CPU
+Optimizing NNI: done in 3.89453 secs using 398.2% CPU
+Optimizing NNI: done in 3.26543 secs using 398.2% CPU
+Optimizing NNI: done in 3.26469 secs using 398% CPU
+Optimizing NNI: done in 2.62216 secs using 398% CPU
+Optimizing NNI: done in 3.00379 secs using 398.9% CPU
+Optimizing NNI: done in 3.96508 secs using 398.2% CPU
+Optimizing NNI: done in 2.87996 secs using 398.1% CPU
+Iteration 40 / LogL: -2677687.592 / Time: 0h:4m:21s (0h:7m:41s left)
+Optimizing NNI: done in 3.06632 secs using 398.3% CPU
+Optimizing NNI: done in 3.54557 secs using 398.8% CPU
+Optimizing NNI: done in 2.41697 secs using 398.7% CPU
+Optimizing NNI: done in 3.00724 secs using 398.6% CPU
+Optimizing NNI: done in 2.78873 secs using 398.2% CPU
+Optimizing NNI: done in 2.51086 secs using 398.1% CPU
+Optimizing NNI: done in 3.43368 secs using 398.2% CPU
+Optimizing NNI: done in 3.21625 secs using 398.9% CPU
+Optimizing NNI: done in 2.12516 secs using 397.5% CPU
+Optimizing NNI: done in 3.28406 secs using 398.2% CPU
+Iteration 50 / LogL: -2677219.060 / Time: 0h:4m:51s (0h:5m:50s left)
+Log-likelihood cutoff on original alignment: -2677447.819
+UFBoot trees printed to core-genome.ufboot
+Optimizing NNI: done in 3.02701 secs using 398.2% CPU
+Optimizing NNI: done in 2.56746 secs using 398.5% CPU
+Optimizing NNI: done in 3.48987 secs using 398.1% CPU
+Optimizing NNI: done in 3.30097 secs using 398% CPU
+Optimizing NNI: done in 4.54814 secs using 398.3% CPU
+Optimizing NNI: done in 3.25897 secs using 398.9% CPU
+Optimizing NNI: done in 3.95193 secs using 398.2% CPU
+Optimizing NNI: done in 3.05281 secs using 397.9% CPU
+Optimizing NNI: done in 3.07467 secs using 397.8% CPU
+Optimizing NNI: done in 3.62793 secs using 398.7% CPU
+Iteration 60 / LogL: -2677169.447 / Time: 0h:5m:27s (0h:4m:31s left)
+Optimizing NNI: done in 3.06716 secs using 397.9% CPU
+Optimizing NNI: done in 3.50963 secs using 398.5% CPU
+Optimizing NNI: done in 2.82138 secs using 397.8% CPU
+Optimizing NNI: done in 2.6895 secs using 398.3% CPU
+Optimizing NNI: done in 3.3228 secs using 398.8% CPU
+Optimizing NNI: done in 3.21618 secs using 398.2% CPU
+Optimizing NNI: done in 3.42429 secs using 397.9% CPU
+Optimizing NNI: done in 2.66496 secs using 398.1% CPU
+Optimizing NNI: done in 3.11245 secs using 398.4% CPU
+Optimizing NNI: done in 3.10677 secs using 397.9% CPU
+Iteration 70 / LogL: -2677166.950 / Time: 0h:5m:58s (0h:3m:22s left)
+Optimizing NNI: done in 2.96186 secs using 398.5% CPU
+Optimizing NNI: done in 2.63754 secs using 398.8% CPU
+Optimizing NNI: done in 2.91302 secs using 398.4% CPU
+Optimizing NNI: done in 3.44456 secs using 398.3% CPU
+Optimizing NNI: done in 2.86588 secs using 398.2% CPU
+Optimizing NNI: done in 2.65147 secs using 398.6% CPU
+Optimizing NNI: done in 3.40549 secs using 398.6% CPU
+Optimizing NNI: done in 3.20155 secs using 398.6% CPU
+Optimizing NNI: done in 2.822 secs using 398.4% CPU
+Optimizing NNI: done in 2.80958 secs using 397.8% CPU
+Iteration 80 / LogL: -2677167.657 / Time: 0h:6m:29s (0h:2m:22s left)
+Optimizing NNI: done in 2.89395 secs using 398.3% CPU
+Optimizing NNI: done in 3.46845 secs using 397.9% CPU
+Optimizing NNI: done in 3.02886 secs using 398.1% CPU
+Optimizing NNI: done in 3.26241 secs using 398.5% CPU
+Optimizing NNI: done in 2.27748 secs using 398% CPU
+Optimizing NNI: done in 2.35876 secs using 397.9% CPU
+Optimizing NNI: done in 3.18624 secs using 398.3% CPU
+Optimizing NNI: done in 2.8499 secs using 398.4% CPU
+Optimizing NNI: done in 2.87845 secs using 397.1% CPU
+Optimizing NNI: done in 3.91736 secs using 398.6% CPU
+Iteration 90 / LogL: -2677166.906 / Time: 0h:7m:0s (0h:1m:29s left)
+Optimizing NNI: done in 3.32415 secs using 398.4% CPU
+Optimizing NNI: done in 3.18901 secs using 398% CPU
+Optimizing NNI: done in 3.2616 secs using 398.5% CPU
+Optimizing NNI: done in 2.96842 secs using 398.1% CPU
+Optimizing NNI: done in 2.59942 secs using 398.8% CPU
+Optimizing NNI: done in 2.29933 secs using 398.6% CPU
+Optimizing NNI: done in 2.72911 secs using 398% CPU
+Optimizing NNI: done in 2.98824 secs using 398.5% CPU
+Optimizing NNI: done in 3.24371 secs using 398.2% CPU
+Optimizing NNI: done in 3.2819 secs using 397.9% CPU
+Iteration 100 / LogL: -2678601.590 / Time: 0h:7m:30s (0h:0m:40s left)
+Log-likelihood cutoff on original alignment: -2677447.806
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.992
+UFBoot trees printed to core-genome.ufboot
+Optimizing NNI: done in 2.88183 secs using 397.8% CPU
+Optimizing NNI: done in 3.04626 secs using 397.8% CPU
+Optimizing NNI: done in 3.08034 secs using 397.9% CPU
+Optimizing NNI: done in 3.10731 secs using 398.3% CPU
+Optimizing NNI: done in 4.0596 secs using 398.4% CPU
+Optimizing NNI: done in 3.07259 secs using 398.1% CPU
+Optimizing NNI: done in 3.477 secs using 398.3% CPU
+Optimizing NNI: done in 3.08369 secs using 398.5% CPU
+Optimizing NNI: done in 3.54503 secs using 398.5% CPU
+Optimizing NNI: done in 3.04133 secs using 398.4% CPU
+Iteration 110 / LogL: -2677204.946 / Time: 0h:8m:4s (0h:6m:39s left)
+TREE SEARCH COMPLETED AFTER 110 ITERATIONS / Time: 0h:8m:4s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -2677165.525
+Optimal log-likelihood: -2677165.525
+Rate parameters:  A-C: 1.00000  A-G: 8.15966  A-T: 1.00000  C-G: 1.00000  C-T: 8.15966  G-T: 1.00000
+Base frequencies:  A: 0.308  C: 0.183  G: 0.209  T: 0.299
+Parameters optimization took 1 rounds (0.355 sec)
+BEST SCORE FOUND : -2677165.525
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+95.956 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file core-genome.splits.nex
+Total tree length: 0.078
+
+Total number of iterations: 110
+CPU time used for tree search: 1647.320 sec (0h:27m:27s)
+Wall-clock time used for tree search: 477.502 sec (0h:7m:57s)
+Total CPU time used: 2052.641 sec (0h:34m:12s)
+Total wall-clock time used: 581.784 sec (0h:9m:41s)
+UFBoot trees printed to core-genome.ufboot
+
+Computing bootstrap consensus tree...
+Reading input file core-genome.splits.nex...
+151 taxa and 912 splits.
+Consensus tree written to core-genome.contree
+Reading input trees file core-genome.contree
+Log-likelihood of consensus tree: -2677181.277
+
+Analysis results written to: 
+  IQ-TREE report:                core-genome.iqtree
+  Maximum-likelihood tree:       core-genome.treefile
+  Likelihood distances:          core-genome.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          core-genome.splits.nex
+  Consensus tree:                core-genome.contree
+  UFBoot trees:                  core-genome.ufboot
+  Screen log file:               core-genome.log
+
+Date and Time: Sun Jun 16 11:40:56 2024
