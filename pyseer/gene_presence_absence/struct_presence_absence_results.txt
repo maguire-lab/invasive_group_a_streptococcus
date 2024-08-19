@@ -1,0 +1,1475 @@
+variant	af	filter-pvalue	lrt-pvalue	beta	beta-std-err	variant_h2	notes
+group_291-yabA-rsmI	1.94E-01	2.81E-02	9.00E-01	-2.10E-02	1.68E-01	1.01E-02	
+group_801-yabA-rsmI	8.06E-01	2.81E-02	9.00E-01	2.10E-02	1.68E-01	1.01E-02	
+group_270-mtnN-group_343	5.94E-01	1.82E-06	5.00E-01	-2.20E-01	3.25E-01	5.45E-02	
+group_343-mtnN-group_791	4.06E-01	1.82E-06	5.00E-01	2.20E-01	3.25E-01	5.45E-02	
+group_469-group_2096-group_935	2.65E-01	7.66E-04	3.12E-01	-1.66E-01	1.64E-01	8.18E-02	
+group_563-group_2096-group_935	8.39E-02	2.22E-01	2.52E-01	2.18E-01	1.90E-01	9.25E-02	
+group_280-whiA-group_281	4.45E-01	2.62E-02	2.92E-01	8.02E-02	7.58E-02	8.52E-02	
+group_280-whiA-group_761	4.13E-01	9.24E-05	9.88E-01	1.34E-03	8.65E-02	1.25E-03	
+group_544-rplS-group_867	2.58E-02	2.30E-01	1.17E-01	4.25E-01	2.70E-01	1.26E-01	bad-chisq
+gph_2-rplS-group_867	9.61E-01	1.39E-01	2.44E-01	-2.56E-01	2.19E-01	9.41E-02	bad-chisq
+group_1600-eno-group_2137	1.10E-01	2.74E-01	6.62E-01	9.51E-02	2.17E-01	3.54E-02	
+group_1600-eno-group_200	8.84E-01	1.32E-01	3.47E-01	-1.90E-01	2.02E-01	7.61E-02	
+group_739-group_2137-eno	1.10E-01	2.74E-01	6.62E-01	9.51E-02	2.17E-01	3.54E-02	
+group_739-group_2137-group_1054	8.90E-01	2.74E-01	6.62E-01	-9.51E-02	2.17E-01	3.54E-02	
+group_1812-rplU-capA	9.61E-01	1.39E-01	7.25E-01	-9.75E-02	2.77E-01	2.85E-02	bad-chisq
+group_1812-rplU-group_1097	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_1812-rpmA-group_809	8.58E-01	8.33E-01	5.29E-01	1.08E-01	1.71E-01	5.09E-02	
+group_1812-rpmA-group_757	1.42E-01	8.33E-01	5.29E-01	-1.08E-01	1.71E-01	5.09E-02	
+rpmA-group_809-lspA	8.58E-01	8.33E-01	5.29E-01	1.08E-01	1.71E-01	5.09E-02	
+lspA-group_809-group_757	1.42E-01	8.33E-01	5.29E-01	-1.08E-01	1.71E-01	5.09E-02	
+group_1475-group_1380-group_254	9.48E-01	4.17E-01	5.78E-01	1.89E-01	3.40E-01	4.50E-02	bad-chisq
+group_1475-group_1380-ide	5.16E-02	4.17E-01	5.78E-01	-1.89E-01	3.40E-01	4.50E-02	bad-chisq
+fni-group_337-group_450	4.06E-01	1.82E-06	5.00E-01	2.20E-01	3.25E-01	5.45E-02	
+group_450-group_337-group_207	4.71E-01	8.58E-06	1.42E-01	-1.28E-01	8.65E-02	1.19E-01	
+group_450-group_337-group_505	3.87E-02	1.55E-01	3.46E-01	-1.37E-01	1.45E-01	7.63E-02	bad-chisq
+plsY-parE-parC	9.48E-01	9.79E-02	2.42E-02	4.98E-01	2.19E-01	1.81E-01	bad-chisq
+plsY-parE-group_1038	5.16E-02	9.79E-02	2.42E-02	-4.98E-01	2.19E-01	1.81E-01	bad-chisq
+parE-parC-ilvE	9.48E-01	9.79E-02	2.42E-02	4.98E-01	2.19E-01	1.81E-01	bad-chisq
+ilvE-parC-group_1038	5.16E-02	9.79E-02	2.42E-02	-4.98E-01	2.19E-01	1.81E-01	bad-chisq
+rfbC-rfbB-mutX	2.90E-01	1.41E-02	8.24E-01	2.52E-02	1.13E-01	1.80E-02	
+rfbC-rfbB-group_250	7.03E-01	1.93E-02	9.25E-01	-1.02E-02	1.08E-01	7.59E-03	
+rfbB-mutX-cozEb	2.90E-01	1.41E-02	8.24E-01	2.52E-02	1.13E-01	1.80E-02	
+cozEb-mutX-speH~~~seq_2	6.58E-01	1.15E-01	3.33E-01	1.10E-01	1.13E-01	7.83E-02	
+cozEb-mutX-group_1276	4.52E-02	1.23E-01	2.97E-02	-4.96E-01	2.26E-01	1.75E-01	bad-chisq
+group_633-group_230-sthA	9.03E-01	4.04E-01	3.93E-01	1.38E-01	1.62E-01	6.91E-02	
+group_633-group_230-group_655	9.68E-02	4.04E-01	3.93E-01	-1.38E-01	1.62E-01	6.91E-02	
+group_230-sthA-hysA	8.90E-01	6.19E-01	2.88E-01	1.51E-01	1.42E-01	8.59E-02	
+hysA-sthA-group_655	9.03E-02	3.07E-01	7.55E-01	-4.80E-02	1.54E-01	2.52E-02	
+lepA-group_1446-group_363	5.81E-02	8.69E-01	2.29E-01	-2.42E-01	2.00E-01	9.73E-02	
+group_363-group_1446-group_647	9.03E-02	8.24E-07	3.86E-01	1.89E-01	2.18E-01	7.00E-02	
+group_363-group_1446-cas9~~~cas9_2~~~cas9_1	8.26E-01	3.87E-06	6.94E-01	-6.77E-02	1.72E-01	3.18E-02	
+group_1446-lepA-group_646	3.87E-02	6.09E-01	1.00E+00	-1.10E-04	1.97E-01	4.50E-05	bad-chisq
+group_646-lepA-group_647	1.29E-01	6.84E-04	5.80E-01	8.40E-02	1.52E-01	4.47E-02	
+group_646-lepA-csn2	1.29E-02	3.99E-01	8.55E-01	6.29E-02	3.44E-01	1.48E-02	bad-chisq
+group_1383-group_245-uvrC	9.03E-02	2.01E-02	3.14E-01	2.83E-01	2.80E-01	8.13E-02	
+uvrC-group_245-group_779	9.10E-01	2.01E-02	3.14E-01	-2.83E-01	2.80E-01	8.13E-02	
+rplJ-rplL-group_412	8.77E-01	3.91E-09	7.43E-02	-3.41E-01	1.90E-01	1.44E-01	
+rplJ-rplL-group_756	1.16E-01	6.82E-10	1.94E-02	4.62E-01	1.95E-01	1.88E-01	
+group_1565-xerS-group_163	9.87E-01	4.17E-01	7.23E-01	8.71E-02	2.45E-01	2.87E-02	bad-chisq
+group_163-xerS-group_1120	1.29E-02	4.17E-01	7.23E-01	-8.71E-02	2.45E-01	2.87E-02	bad-chisq
+group_120-group_1464-group_367	7.61E-01	2.41E-03	1.53E-01	1.76E-01	1.23E-01	1.15E-01	
+group_367-group_1464-group_808	7.74E-02	5.10E-01	2.69E-01	-2.00E-01	1.80E-01	8.94E-02	
+group_367-group_1464-group_900	1.48E-01	1.12E-05	9.69E-01	6.10E-03	1.57E-01	3.14E-03	
+group_262-group_1457-yidA_3	9.74E-01	2.48E-01	2.69E-01	3.89E-01	3.50E-01	8.93E-02	bad-chisq
+yidA_3-group_1457-lacD_1~~~lacD_2	2.58E-02	2.48E-01	2.69E-01	-3.89E-01	3.50E-01	8.93E-02	bad-chisq
+nusA-rimP-group_2106	5.42E-01	1.35E-02	1.89E-01	1.08E-01	8.21E-02	1.06E-01	
+nusA-rimP-trmB	3.87E-01	1.48E-03	7.07E-01	-3.88E-02	1.03E-01	3.05E-02	
+group_452-group_416-group_2195	4.39E-01	1.67E-01	4.68E-01	5.91E-02	8.13E-02	5.87E-02	
+group_452-group_416-group_2087	1.61E-01	1.86E-03	8.59E-02	-1.60E-01	9.25E-02	1.38E-01	bad-chisq
+group_2195-group_2087-group_1852	4.39E-01	1.67E-01	4.68E-01	5.91E-02	8.13E-02	5.87E-02	
+group_1852-group_2087-group_416	1.61E-01	1.86E-03	8.59E-02	-1.60E-01	9.25E-02	1.38E-01	bad-chisq
+group_463-group_2070-group_1130	6.06E-01	5.46E-04	8.56E-01	-1.93E-02	1.06E-01	1.47E-02	
+group_941-group_2070-group_1130	2.58E-02	9.82E-01	8.04E-02	-4.86E-01	2.76E-01	1.41E-01	bad-chisq
+group_533-trmB-group_1112	5.74E-01	3.15E-03	3.27E-01	9.08E-02	9.23E-02	7.93E-02	
+group_1112-trmB-rimP	3.87E-01	1.48E-03	7.07E-01	-3.88E-02	1.03E-01	3.05E-02	
+group_1500-gatC-gatA	9.55E-01	2.48E-01	8.69E-01	-4.25E-02	2.57E-01	1.34E-02	bad-chisq
+group_816-gatC-gatA	4.52E-02	2.48E-01	8.69E-01	4.25E-02	2.57E-01	1.34E-02	bad-chisq
+gatC-group_1500-codY	9.55E-01	2.48E-01	8.69E-01	-4.25E-02	2.57E-01	1.34E-02	bad-chisq
+codY-group_1500-group_816	4.52E-02	2.48E-01	8.69E-01	4.25E-02	2.57E-01	1.34E-02	bad-chisq
+group_993-isdF-isdE~~~btuF	2.58E-02	1.74E-02	2.34E-01	2.91E-01	2.44E-01	9.61E-02	bad-chisq
+group_993-isdF-isdE	9.74E-01	1.74E-02	2.34E-01	-2.91E-01	2.44E-01	9.61E-02	bad-chisq
+group_1901-rpsD-slmA	8.00E-01	5.13E-01	6.89E-01	-6.96E-02	1.73E-01	3.25E-02	
+group_1901-rpsD-group_810	8.39E-02	9.00E-01	3.81E-01	1.76E-01	2.01E-01	7.09E-02	
+group_2147-group_1813-group_732	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+nudL-group_1813-group_732	9.87E-01	3.99E-01	9.32E-01	-3.48E-02	4.08E-01	6.90E-03	bad-chisq
+argS-argR_1-group_625	3.10E-01	1.18E-02	9.74E-01	6.30E-03	1.90E-01	2.68E-03	
+argS-argR_1-mutS	6.84E-01	1.62E-02	8.72E-01	2.68E-02	1.67E-01	1.30E-02	
+group_1525-recX-rlmD_1	9.87E-01	3.99E-01	7.53E-01	-1.07E-01	3.41E-01	2.54E-02	bad-chisq
+group_1525-recX-group_458	1.29E-02	3.99E-01	7.53E-01	1.07E-01	3.41E-01	2.54E-02	bad-chisq
+recX-rlmD_1-group_260	9.87E-01	3.99E-01	7.53E-01	-1.07E-01	3.41E-01	2.54E-02	bad-chisq
+group_260-rlmD_1-group_1276	1.29E-02	3.99E-01	7.53E-01	1.07E-01	3.41E-01	2.54E-02	bad-chisq
+group_1938-group_1249-aroB	8.65E-01	5.31E-01	2.48E-01	2.19E-01	1.89E-01	9.33E-02	
+group_1449-group_1249-aroB	1.29E-02	1.25E-02	2.06E-01	5.12E-01	4.03E-01	1.02E-01	bad-chisq
+rhaR_3-group_1249-aroB	7.10E-02	2.17E-01	3.92E-01	-1.76E-01	2.06E-01	6.92E-02	bad-chisq
+group_1249-group_1938-group_905	8.65E-01	5.31E-01	2.48E-01	2.19E-01	1.89E-01	9.33E-02	
+group_1449-group_1938-group_905	1.29E-02	1.25E-02	2.06E-01	5.12E-01	4.03E-01	1.02E-01	bad-chisq
+group_487-group_1938-group_905	2.58E-02	2.48E-01	2.54E-01	-3.43E-01	2.99E-01	9.23E-02	bad-chisq
+cas2_2-group_1376-resA	9.35E-01	7.00E-03	6.10E-02	-3.76E-01	1.99E-01	1.51E-01	
+group_265-group_1376-resA	5.81E-02	2.57E-02	5.84E-01	1.30E-01	2.37E-01	4.43E-02	bad-chisq
+group_440-group_1894-group_441	3.35E-01	2.77E-01	1.48E-01	-1.17E-01	8.03E-02	1.17E-01	
+group_441-group_1894-group_902	6.52E-01	3.80E-01	1.90E-01	1.04E-01	7.89E-02	1.06E-01	
+group_1717-group_1918-group_440	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_1704-group_1918-group_250	1.94E-02	8.66E-02	4.13E-01	2.29E-01	2.80E-01	6.61E-02	bad-chisq
+group_1717-group_1900-group_2151	6.45E-02	6.77E-01	1.67E-02	-5.32E-01	2.20E-01	1.92E-01	
+group_1717-group_1900-group_2072	1.29E-02	1.25E-02	8.72E-03	6.81E-01	2.56E-01	2.10E-01	bad-chisq
+group_1900-group_2151-group_2072	6.45E-02	6.77E-01	1.67E-02	-5.32E-01	2.20E-01	1.92E-01	
+group_2072-group_2151-group_1748	5.81E-02	3.35E-01	9.79E-01	3.19E-03	1.22E-01	2.12E-03	bad-chisq
+group_2151-group_2072-group_933	1.23E-01	7.08E-01	2.67E-01	-1.19E-01	1.07E-01	8.98E-02	
+group_1748-group_2072-group_933	5.81E-02	5.26E-01	5.05E-01	1.17E-01	1.75E-01	5.40E-02	
+group_1900-group_2072-group_933	1.29E-02	1.25E-02	8.72E-03	6.81E-01	2.56E-01	2.10E-01	bad-chisq
+group_1071-group_1919-group_933	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_1071-group_1919-group_1335	5.68E-01	1.29E-05	7.43E-01	5.14E-02	1.57E-01	2.65E-02	
+group_465-group_2088-group_775	1.10E-01	2.74E-01	9.82E-02	-3.20E-01	1.92E-01	1.33E-01	
+group_775-group_2088-group_1016	6.45E-02	2.70E-01	2.74E-01	-2.41E-01	2.20E-01	8.84E-02	bad-chisq
+group_775-group_2088-group_1191	1.29E-02	3.99E-01	8.79E-01	5.09E-02	3.34E-01	1.23E-02	bad-chisq
+group_52-group_1692-group_1029	7.10E-02	9.40E-02	4.45E-01	2.00E-01	2.61E-01	6.18E-02	
+group_346-group_1752-group_1710	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_346-group_1752-group_1297	1.10E-01	2.20E-02	6.87E-01	8.38E-02	2.07E-01	3.26E-02	
+group_202-group_2000-group_454	1.35E-01	1.37E-06	1.59E-01	2.52E-01	1.79E-01	1.14E-01	
+group_202-group_2000-group_1026	1.94E-02	7.20E-01	4.61E-01	-2.14E-01	2.89E-01	5.97E-02	bad-chisq
+group_2022-group_234-group_679	1.29E-02	1.25E-02	7.45E-02	6.09E-01	3.39E-01	1.44E-01	bad-chisq
+group_679-group_234-group_1026	1.42E-01	4.71E-05	9.88E-01	2.47E-03	1.71E-01	1.17E-03	
+comEC-group_1420-plsC	1.94E-02	8.66E-02	1.05E-02	5.30E-01	2.05E-01	2.05E-01	bad-chisq
+plsC-group_1420-comEC_1~~~comEC_2~~~comEC	9.81E-01	8.66E-02	1.05E-02	-5.30E-01	2.05E-01	2.05E-01	bad-chisq
+holA-group_1468-group_813	9.42E-01	5.83E-08	1.29E-01	-5.35E-01	3.51E-01	1.22E-01	bad-chisq
+holA-group_1468-group_988	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+group_792-group_1389-group_794	1.94E-01	4.37E-01	1.80E-01	-1.84E-01	1.37E-01	1.08E-01	
+group_792-group_1389-group_1017	1.35E-01	6.42E-01	8.64E-01	-1.78E-02	1.03E-01	1.39E-02	
+group_792-group_1389-group_534	1.29E-02	3.99E-01	6.07E-01	1.73E-01	3.36E-01	4.16E-02	bad-chisq
+nrdE_2-group_718-group_534	7.29E-01	7.68E-01	4.21E-01	5.76E-02	7.14E-02	6.50E-02	
+group_534-group_718-group_636	2.65E-01	6.88E-01	5.10E-01	-4.76E-02	7.21E-02	5.33E-02	
+group_718-nrdE_2-nrdH	7.29E-01	7.68E-01	4.21E-01	5.76E-02	7.14E-02	6.50E-02	
+nrdH-nrdE_2-group_636	2.65E-01	6.88E-01	5.10E-01	-4.76E-02	7.21E-02	5.33E-02	
+group_526-udk-group_302	9.81E-01	8.66E-02	2.39E-01	-3.31E-01	2.80E-01	9.51E-02	bad-chisq
+group_526-udk-group_543	1.94E-02	8.66E-02	2.39E-01	3.31E-01	2.80E-01	9.51E-02	bad-chisq
+metK-group_362-group_504	6.45E-02	6.77E-01	6.73E-01	-8.94E-02	2.11E-01	3.42E-02	
+metK-group_362-group_704	8.52E-01	8.79E-07	3.51E-01	-1.58E-01	1.69E-01	7.54E-02	
+group_1737-group_1359-group_794	2.58E-02	2.30E-01	7.87E-01	8.51E-02	3.15E-01	2.19E-02	bad-chisq
+group_1737-group_1359-group_1051	1.29E-02	1.25E-02	2.06E-01	5.12E-01	4.03E-01	1.02E-01	bad-chisq
+group_1737-group_1359-group_608	5.16E-02	9.79E-02	2.53E-01	-1.79E-01	1.56E-01	9.23E-02	bad-chisq
+group_1737-group_1359-group_196	2.58E-02	1.74E-02	2.27E-01	3.26E-01	2.68E-01	9.77E-02	bad-chisq
+group_1372-adcR-ispE_2~~~ispE	8.32E-01	9.18E-02	3.00E-01	9.66E-02	9.29E-02	8.37E-02	
+group_1372-adcR-ispE_1~~~ispE	1.68E-01	9.18E-02	3.00E-01	-9.66E-02	9.29E-02	8.37E-02	
+dusB-hslO-group_175	9.68E-02	3.92E-09	4.94E-02	4.57E-01	2.31E-01	1.58E-01	
+dusB-hslO-group_174	9.03E-01	3.92E-09	4.94E-02	-4.57E-01	2.31E-01	1.58E-01	
+group_103-perR-group_193	9.68E-01	6.08E-02	7.73E-01	-7.59E-02	2.62E-01	2.34E-02	bad-chisq
+group_103-perR-group_236	2.58E-02	1.74E-02	3.17E-01	2.83E-01	2.82E-01	8.09E-02	bad-chisq
+nadC-group_310-group_198	1.48E-01	2.20E-02	5.29E-01	1.08E-01	1.72E-01	5.09E-02	
+nadC-group_310-group_1051	5.81E-02	8.69E-01	8.35E-01	-4.25E-02	2.04E-01	1.69E-02	
+nadC-group_310-group_534	5.81E-02	5.26E-01	2.76E-01	2.34E-01	2.14E-01	8.81E-02	
+nadC-group_310-group_1017	5.16E-02	9.74E-01	7.77E-01	-7.19E-02	2.53E-01	2.30E-02	
+group_1051-group_310-group_534	5.16E-02	9.74E-01	9.40E-01	-1.92E-02	2.53E-01	6.14E-03	
+group_1051-group_310-group_1017	4.52E-02	7.99E-01	7.04E-01	1.11E-01	2.91E-01	3.07E-02	bad-chisq
+group_534-group_310-group_1017	4.52E-02	7.99E-01	7.04E-01	1.11E-01	2.91E-01	3.07E-02	bad-chisq
+group_2073-group_159-group_669	7.03E-01	1.17E-05	2.07E-01	-2.18E-01	1.72E-01	1.02E-01	
+group_2073-group_159-group_672	9.68E-02	8.39E-01	9.95E-01	-1.21E-03	1.77E-01	5.56E-04	
+group_550-group_159-group_669	3.23E-02	4.13E-01	2.89E-01	2.44E-01	2.29E-01	8.57E-02	bad-chisq
+group_550-group_159-group_672	1.61E-01	6.69E-06	9.19E-01	1.71E-02	1.67E-01	8.24E-03	
+rpsI-group_1850-lacA_2	1.94E-02	2.15E-03	5.80E-02	5.69E-01	2.98E-01	1.53E-01	bad-chisq
+lacA_2-group_1850-group_318	9.81E-01	2.15E-03	5.80E-02	-5.69E-01	2.98E-01	1.53E-01	bad-chisq
+rplM-rpsI-group_1850	1.94E-02	2.15E-03	5.80E-02	5.69E-01	2.98E-01	1.53E-01	bad-chisq
+rplM-rpsI-xerC	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+rplM-rpsI-group_406	9.68E-01	6.08E-02	3.12E-01	-2.56E-01	2.52E-01	8.17E-02	bad-chisq
+glgX-group_1768-group_332	9.74E-01	2.48E-01	1.85E-01	3.96E-01	2.97E-01	1.07E-01	bad-chisq
+group_332-group_1768-group_414	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_589-group_142-group_1436	3.87E-02	6.48E-01	3.87E-01	-2.40E-01	2.77E-01	7.00E-02	bad-chisq
+group_589-group_142-group_161	8.77E-01	4.45E-01	7.40E-01	-5.70E-02	1.72E-01	2.68E-02	
+group_589-group_142-seq~~~seq_1~~~seq_3~~~seq_2	8.39E-02	2.22E-01	3.10E-01	2.04E-01	2.00E-01	8.21E-02	
+deoC-group_456-group_1529	7.68E-01	3.01E-04	6.97E-01	-7.10E-02	1.82E-01	3.16E-02	
+deoC-group_456-group_140	1.16E-01	1.13E-03	7.21E-01	-5.18E-02	1.45E-01	2.89E-02	
+deoC-group_456-group_499	1.10E-01	9.06E-02	3.33E-01	1.33E-01	1.37E-01	7.82E-02	
+group_456-group_1529-dinG_2~~~dinG_1	7.68E-01	3.01E-04	6.97E-01	-7.10E-02	1.82E-01	3.16E-02	
+group_1563-group_1529-dinG_2~~~dinG_1	2.32E-01	3.01E-04	6.97E-01	7.10E-02	1.82E-01	3.16E-02	
+group_1425-group_744-uvrA	8.77E-01	7.08E-01	2.34E-01	1.18E-01	9.86E-02	9.61E-02	
+group_1425-group_744-group_388	6.45E-02	2.39E-01	9.65E-01	-5.90E-03	1.33E-01	3.57E-03	
+group_744-uvrA-group_624	8.77E-01	7.08E-01	2.34E-01	1.18E-01	9.86E-02	9.61E-02	
+group_624-uvrA-group_776	6.45E-02	2.39E-01	9.65E-01	-5.90E-03	1.33E-01	3.57E-03	
+group_2163-group_1148-group_1002	9.68E-02	4.04E-01	3.09E-02	-4.80E-01	2.20E-01	1.73E-01	
+group_2163-group_1148-group_1087	2.58E-02	9.82E-01	5.64E-01	-1.57E-01	2.71E-01	4.67E-02	bad-chisq
+group_2163-group_1148-group_1222	1.29E-02	3.99E-01	8.79E-01	5.09E-02	3.34E-01	1.23E-02	bad-chisq
+group_2040-group_2055-group_1702	1.03E-01	2.02E-01	1.04E-01	-3.26E-01	2.00E-01	1.31E-01	
+group_796-group_2055-group_1516	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_2055-group_1702-group_2041	1.03E-01	2.02E-01	1.04E-01	-3.26E-01	2.00E-01	1.31E-01	
+group_2041-group_1702-group_1987	6.45E-02	2.70E-01	2.74E-01	-2.41E-01	2.20E-01	8.84E-02	bad-chisq
+group_258-group_994-purR_1~~~purR_2	2.84E-01	9.30E-01	9.99E-03	-4.25E-01	1.63E-01	2.06E-01	
+group_258-group_994-group_984	6.26E-01	7.04E-04	4.82E-01	1.18E-01	1.68E-01	5.68E-02	
+group_258-group_994-group_1097	1.94E-02	2.15E-03	1.08E-01	5.03E-01	3.11E-01	1.30E-01	bad-chisq
+group_258-group_994-group_1161	2.58E-02	2.30E-01	7.63E-01	8.03E-02	2.66E-01	2.44E-02	bad-chisq
+mltF-group_1312-group_186	3.81E-01	9.17E-06	8.87E-01	3.25E-02	2.30E-01	1.15E-02	
+mltF-group_1312-group_514	5.10E-01	3.85E-06	1.38E-01	-1.47E-01	9.88E-02	1.20E-01	
+mltF-group_1312-group_943	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_53-adhE-group_104	9.68E-01	4.13E-01	5.08E-01	-1.49E-01	2.24E-01	5.36E-02	bad-chisq
+group_53-adhE-adhP_2~~~adhP_1~~~adhP	3.23E-02	4.13E-01	5.08E-01	1.49E-01	2.24E-01	5.36E-02	bad-chisq
+group_212-purB-group_694	6.45E-02	9.64E-09	4.54E-02	5.73E-01	2.84E-01	1.61E-01	bad-chisq
+group_233-purB-group_694	1.16E-01	8.10E-01	5.70E-01	-1.11E-01	1.95E-01	4.59E-02	
+group_577-purB-group_694	6.77E-01	1.99E-03	2.84E-01	2.06E-01	1.92E-01	8.65E-02	
+group_694-purB-group_695	1.35E-01	6.42E-01	1.11E-01	-3.39E-01	2.12E-01	1.29E-01	
+recO-plsX-acpP	9.74E-01	9.82E-01	8.80E-01	-4.58E-02	3.03E-01	1.22E-02	bad-chisq
+acpP-plsX-group_1058	1.29E-02	3.99E-01	5.69E-01	1.75E-01	3.07E-01	4.61E-02	bad-chisq
+plsX-recO-group_717	9.74E-01	9.82E-01	8.80E-01	-4.58E-02	3.03E-01	1.22E-02	bad-chisq
+group_717-recO-group_524	1.29E-02	3.99E-01	5.69E-01	1.75E-01	3.07E-01	4.61E-02	bad-chisq
+speC_1~~~seq_2-group_269-group_512	2.52E-01	1.37E-03	7.03E-01	3.82E-02	9.99E-02	3.09E-02	
+group_512-group_269-group_688	7.48E-01	1.37E-03	7.03E-01	-3.82E-02	9.99E-02	3.09E-02	
+group_480-group_395-tadA	5.81E-02	5.83E-08	1.18E-01	3.01E-01	1.91E-01	1.26E-01	bad-chisq
+speC_1~~~seq_2-group_395-tadA	9.16E-01	1.42E-07	2.84E-01	-2.23E-01	2.07E-01	8.67E-02	
+group_1032-group_1639-group_1202	5.03E-01	3.27E-05	4.77E-01	-7.25E-02	1.02E-01	5.76E-02	
+group_1169-group_1639-group_1202	9.03E-02	3.51E-01	6.05E-01	5.44E-02	1.05E-01	4.18E-02	
+group_2046-group_1438-group_1340	3.55E-01	3.49E-03	5.82E-01	-4.68E-02	8.48E-02	4.46E-02	
+group_927-group_1438-group_1340	1.29E-02	3.99E-01	9.63E-01	1.62E-02	3.45E-01	3.79E-03	bad-chisq
+group_1438-group_2046-group_1264	3.55E-01	3.49E-03	5.82E-01	-4.68E-02	8.48E-02	4.46E-02	
+group_1574-group_2046-group_1264	3.87E-02	6.09E-01	5.59E-01	-1.35E-01	2.30E-01	4.73E-02	bad-chisq
+group_2089-group_1954-group_1344	3.35E-01	7.62E-03	6.98E-01	-3.38E-02	8.69E-02	3.14E-02	
+group_2177-group_1954-group_1344	1.81E-01	4.42E-03	2.60E-01	-1.03E-01	9.07E-02	9.10E-02	bad-chisq
+group_2176-group_1882-group_1254	4.06E-01	3.30E-04	6.08E-01	-3.85E-02	7.48E-02	4.16E-02	
+group_883-group_1882-group_1254	1.23E-01	8.00E-03	6.54E-02	-1.71E-01	9.22E-02	1.48E-01	bad-chisq
+group_596-group_1363-group_220	6.19E-01	9.17E-06	7.68E-01	-6.83E-02	2.31E-01	2.39E-02	
+group_591-group_1363-group_220	6.45E-02	9.64E-09	6.57E-02	5.30E-01	2.86E-01	1.48E-01	bad-chisq
+group_572-group_1363-group_220	1.29E-02	1.25E-02	1.01E-01	5.55E-01	3.37E-01	1.32E-01	bad-chisq
+group_599-group_1363-group_220	1.29E-02	1.25E-02	2.06E-01	5.12E-01	4.03E-01	1.02E-01	bad-chisq
+group_574-group_1363-group_220	5.81E-02	8.69E-01	5.05E-01	-1.83E-01	2.73E-01	5.39E-02	
+group_578-group_1363-group_220	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_220-group_1363-group_336	5.81E-02	3.35E-01	2.53E-01	-3.22E-01	2.80E-01	9.24E-02	bad-chisq
+group_220-rhaR_2-group_711	3.87E-02	1.44E-02	2.62E-01	3.06E-01	2.73E-01	9.06E-02	bad-chisq
+group_220-rhaR_2-group_1183	8.13E-01	4.80E-03	3.59E-01	-1.58E-01	1.72E-01	7.42E-02	
+group_1233-speC_1-group_2175	2.58E-02	2.48E-01	2.59E-02	-4.18E-01	1.86E-01	1.79E-01	bad-chisq
+group_1233-speC_1-group_466	5.81E-02	3.35E-01	4.08E-01	-2.08E-01	2.51E-01	6.69E-02	bad-chisq
+group_1233-speC_1-group_1266	1.29E-02	1.25E-02	7.45E-02	6.09E-01	3.39E-01	1.44E-01	bad-chisq
+group_1233-speC_1-group_1282	5.55E-01	1.52E-04	9.00E-01	1.12E-02	8.90E-02	1.02E-02	
+speC_1-group_1233-group_761	4.45E-01	2.62E-02	2.92E-01	8.02E-02	7.58E-02	8.52E-02	
+speC_1-group_1233-group_776	2.58E-02	2.48E-01	2.59E-02	-4.18E-01	1.86E-01	1.79E-01	bad-chisq
+speC_1-group_1233-group_808	7.74E-02	4.60E-01	4.57E-01	1.42E-01	1.91E-01	6.02E-02	
+group_1702-group_1987-group_460	6.45E-02	2.70E-01	2.74E-01	-2.41E-01	2.20E-01	8.84E-02	bad-chisq
+group_1335-group_1987-lexA	5.68E-01	1.29E-05	7.43E-01	5.14E-02	1.57E-01	2.65E-02	
+group_2193-group_812-group_759	2.97E-01	2.94E-03	5.24E-01	-4.52E-02	7.07E-02	5.16E-02	
+group_759-group_812-group_1122	2.84E-01	1.66E-02	8.84E-01	-1.01E-02	6.91E-02	1.18E-02	
+group_759-group_812-group_1274	6.45E-02	2.70E-01	2.74E-01	-2.41E-01	2.20E-01	8.84E-02	bad-chisq
+group_1997-group_2090-group_673	1.94E-02	7.20E-01	9.33E-01	2.65E-02	3.17E-01	6.77E-03	bad-chisq
+group_673-group_2090-group_1291	6.45E-01	1.47E-08	1.71E-02	-2.62E-01	1.08E-01	1.91E-01	
+group_1979-group_1593-group_831	5.35E-01	7.80E-08	4.33E-03	-2.74E-01	9.47E-02	2.28E-01	
+group_831-group_1593-group_832	4.52E-02	7.99E-01	1.94E-01	-2.58E-01	1.98E-01	1.05E-01	bad-chisq
+group_2159-group_2091-group_1278	5.42E-01	4.53E-08	1.38E-03	-3.01E-01	9.23E-02	2.55E-01	
+group_1160-group_2091-group_1278	6.45E-02	2.70E-01	2.74E-01	-2.41E-01	2.20E-01	8.84E-02	bad-chisq
+group_2074-group_1836-group_2123	1.94E-02	8.66E-02	4.13E-01	2.29E-01	2.80E-01	6.61E-02	bad-chisq
+group_2123-group_1836-group_2036	3.23E-02	4.13E-01	7.80E-01	-8.90E-02	3.18E-01	2.26E-02	bad-chisq
+group_1854-group_462-group_1308	2.58E-02	9.82E-01	8.04E-02	-4.86E-01	2.76E-01	1.41E-01	bad-chisq
+group_722-group_462-group_1308	8.39E-02	2.22E-01	3.72E-01	1.51E-01	1.69E-01	7.22E-02	
+group_2155-group_1902-group_1021	6.45E-02	5.28E-02	3.13E-01	1.77E-01	1.75E-01	8.15E-02	bad-chisq
+group_1021-group_1902-group_1130	2.58E-02	9.82E-01	1.89E-01	3.51E-01	2.66E-01	1.06E-01	bad-chisq
+group_2056-group_1675-group_846	1.29E-01	4.53E-03	8.95E-01	2.85E-02	2.16E-01	1.07E-02	
+group_845-group_1675-group_846	5.16E-02	8.53E-02	4.91E-01	1.42E-01	2.06E-01	5.57E-02	bad-chisq
+group_1244-group_1543-group_250	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_1244-group_1543-group_440	2.06E-01	7.61E-02	5.15E-01	-5.58E-02	8.56E-02	5.27E-02	
+group_2028-group_2177-group_1954	1.81E-01	4.42E-03	2.60E-01	-1.03E-01	9.07E-02	9.10E-02	bad-chisq
+group_2028-group_2177-group_465	7.10E-02	1.09E-07	1.49E-01	2.58E-01	1.77E-01	1.17E-01	bad-chisq
+group_1718-group_1748-group_2072	5.81E-02	5.26E-01	5.05E-01	1.17E-01	1.75E-01	5.40E-02	
+group_1718-group_1748-group_2151	5.81E-02	3.35E-01	9.79E-01	3.19E-03	1.22E-01	2.12E-03	bad-chisq
+group_551-group_1533-group_949	4.52E-02	4.00E-02	1.47E-01	2.50E-01	1.71E-01	1.17E-01	bad-chisq
+group_551-group_1533-group_1259	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1907-group_1467-group_811	1.29E-02	4.17E-01	1.91E-01	-3.93E-01	2.99E-01	1.06E-01	bad-chisq
+group_811-group_1467-group_913	3.16E-01	2.26E-01	7.28E-01	2.50E-02	7.17E-02	2.81E-02	
+group_1582-group_397-group_674	2.39E-01	3.64E-01	3.86E-01	6.92E-02	7.97E-02	7.01E-02	
+group_1589-group_397-group_674	9.03E-02	3.51E-01	1.88E-01	-1.67E-01	1.26E-01	1.06E-01	
+group_1732-group_1637-noc	1.94E-02	3.19E-01	1.04E-02	-7.23E-01	2.79E-01	2.05E-01	bad-chisq
+group_63-group_1637-group_201	1.94E-02	3.19E-01	1.35E-02	-5.52E-01	2.21E-01	1.98E-01	bad-chisq
+group_201-group_1637-group_398	1.94E-02	7.20E-01	9.33E-01	2.65E-02	3.17E-01	6.77E-03	bad-chisq
+group_398-group_1637-noc	5.81E-02	5.26E-01	4.03E-01	1.10E-01	1.31E-01	6.77E-02	
+noc-group_1637-group_1192	1.61E-01	1.86E-03	7.36E-02	-1.65E-01	9.17E-02	1.44E-01	bad-chisq
+group_1192-group_1637-group_1290	2.58E-02	2.48E-01	8.43E-02	-4.46E-01	2.57E-01	1.39E-01	bad-chisq
+group_2112-group_2007-group_1275	5.16E-02	3.46E-07	2.54E-01	2.41E-01	2.11E-01	9.22E-02	bad-chisq
+group_1936-group_2007-group_1785	1.94E-02	3.19E-01	1.33E-01	-4.82E-01	3.19E-01	1.21E-01	bad-chisq
+sel26_3~~~sel26~~~sel26_1-group_1555-group_1284	5.16E-02	4.17E-01	5.78E-01	-1.89E-01	3.40E-01	4.50E-02	bad-chisq
+group_1024-group_1555-group_1284	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+group_2056-group_2047-group_1198	1.29E-01	4.53E-03	8.95E-01	2.85E-02	2.16E-01	1.07E-02	
+group_1198-group_2047-group_1199	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_2047-group_1198-group_2139	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_2047-group_1198-group_1044	1.29E-01	4.53E-03	8.95E-01	2.85E-02	2.16E-01	1.07E-02	
+group_1797-group_1436-group_142	3.87E-02	6.48E-01	3.87E-01	-2.40E-01	2.77E-01	7.00E-02	bad-chisq
+group_1797-group_1436-group_161	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+ssb_3~~~ssb_4-group_2011-group_1317	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+ssb_3~~~ssb_4-group_2011-group_1323	1.29E-02	1.25E-02	1.10E-01	5.33E-01	3.32E-01	1.29E-01	bad-chisq
+regX_2-scnA_1-scnA_2	2.58E-02	3.77E-04	6.77E-01	9.16E-02	2.19E-01	3.37E-02	bad-chisq
+regX_2-scnA_1-group_2146	1.29E-02	1.25E-02	7.98E-01	6.89E-02	2.69E-01	2.07E-02	bad-chisq
+scnA_2-group_2146-group_132	3.23E-02	6.65E-05	6.10E-01	1.10E-01	2.15E-01	4.13E-02	bad-chisq
+scnA_1-group_2146-group_132	1.29E-02	1.25E-02	7.98E-01	6.89E-02	2.69E-01	2.07E-02	bad-chisq
+group_1574-group_2156-group_891	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_1574-group_2156-group_1294	1.94E-02	7.20E-01	6.51E-01	1.16E-01	2.57E-01	3.66E-02	bad-chisq
+group_2156-group_1574-group_2046	3.87E-02	6.09E-01	5.59E-01	-1.35E-01	2.30E-01	4.73E-02	bad-chisq
+group_2156-group_1574-group_616	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_66-group_2186-group_949	1.29E-02	1.25E-02	1.10E-01	5.33E-01	3.32E-01	1.29E-01	bad-chisq
+group_66-group_2186-group_1282	2.00E-01	3.18E-02	3.44E-01	-7.89E-02	8.31E-02	7.66E-02	
+group_1344-group_1981-group_1350	2.58E-02	9.82E-01	2.47E-01	-3.68E-01	3.17E-01	9.35E-02	bad-chisq
+group_470-group_2099-group_1277	2.58E-02	9.82E-01	2.47E-01	-3.68E-01	3.17E-01	9.35E-02	bad-chisq
+group_62-group_1678-group_1280	1.94E-02	7.20E-01	4.60E-01	1.55E-01	2.09E-01	5.98E-02	bad-chisq
+sel26-group_496-group_2205	2.58E-02	2.48E-01	2.59E-02	-4.18E-01	1.86E-01	1.79E-01	bad-chisq
+sel26-group_496-group_551	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+sel26-group_496-group_1257	2.19E-01	4.25E-03	7.79E-02	-1.51E-01	8.48E-02	1.42E-01	
+group_496-sel26-group_2175	2.58E-02	2.48E-01	2.59E-02	-4.18E-01	1.86E-01	1.79E-01	bad-chisq
+group_496-sel26-group_808	2.32E-01	2.54E-03	5.39E-02	-1.62E-01	8.33E-02	1.55E-01	
+group_1558-group_2009-group_374	2.58E-02	2.48E-01	5.25E-02	-4.17E-01	2.13E-01	1.56E-01	bad-chisq
+group_1558-group_2009-group_683	3.23E-02	4.13E-01	6.39E-01	1.02E-01	2.16E-01	3.80E-02	bad-chisq
+group_2094-group_2020-group_1274	1.29E-02	1.25E-02	1.09E-01	5.55E-01	3.45E-01	1.29E-01	bad-chisq
+group_897-group_2020-group_1274	1.29E-02	1.25E-02	1.84E-04	8.98E-01	2.34E-01	2.96E-01	bad-chisq
+group_2021-group_1948-group_473	2.58E-02	2.48E-01	3.66E-01	-1.68E-01	1.85E-01	7.31E-02	bad-chisq
+group_2021-group_1948-group_933	4.52E-02	7.99E-01	3.96E-01	1.21E-01	1.42E-01	6.87E-02	bad-chisq
+satA-group_1107-group_313	2.58E-02	9.82E-01	1.88E-01	-3.19E-01	2.42E-01	1.06E-01	bad-chisq
+group_1158-group_2205-group_1259	1.29E-02	1.25E-02	1.87E-01	4.25E-01	3.21E-01	1.06E-01	bad-chisq
+group_496-group_2205-group_949	2.58E-02	2.48E-01	2.59E-02	-4.18E-01	1.86E-01	1.79E-01	bad-chisq
+group_308-group_2205-group_949	3.87E-02	6.48E-01	6.21E-01	7.37E-02	1.49E-01	4.00E-02	bad-chisq
+group_2205-group_1158-group_1493	1.29E-02	1.25E-02	1.87E-01	4.25E-01	3.21E-01	1.06E-01	bad-chisq
+group_1493-group_1158-group_551	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1960-group_185-group_169	3.87E-02	6.48E-01	6.26E-01	-1.76E-01	3.61E-01	3.94E-02	bad-chisq
+group_169-group_185-group_1258	1.94E-02	7.20E-01	6.70E-01	-1.68E-01	3.93E-01	3.45E-02	bad-chisq
+group_1955-group_1774-group_1730	7.74E-02	5.10E-01	4.82E-01	1.51E-01	2.14E-01	5.69E-02	
+group_1913-group_1995-group_1730	7.74E-02	5.10E-01	4.82E-01	1.51E-01	2.14E-01	5.69E-02	
+group_1836-group_2036-group_2130	3.23E-02	4.13E-01	7.80E-01	-8.90E-02	3.18E-01	2.26E-02	bad-chisq
+group_2042-group_2167-group_1504	3.23E-02	1.95E-01	1.80E-02	-6.65E-01	2.78E-01	1.90E-01	bad-chisq
+sel26_3~~~sel26~~~sel26_1-group_2167-group_946	5.81E-02	8.69E-01	8.84E-01	3.99E-02	2.74E-01	1.18E-02	
+clbS_1-group_1495-group_1295	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1656-clbS_2-rlmD_1~~~rlmD_2	4.52E-02	1.23E-01	1.66E-02	-6.33E-01	2.61E-01	1.92E-01	bad-chisq
+group_1589-group_1723-noc	8.39E-02	4.24E-01	2.40E-01	-1.50E-01	1.27E-01	9.49E-02	
+group_2125-group_1551-group_1122	1.29E-02	4.17E-01	5.72E-01	-1.79E-01	3.16E-01	4.58E-02	bad-chisq
+group_2125-group_1551-group_1360	2.58E-02	9.82E-01	4.35E-01	1.72E-01	2.20E-01	6.31E-02	bad-chisq
+group_2117-group_2116-group_846	6.45E-02	6.24E-02	1.47E-02	-5.35E-01	2.17E-01	1.96E-01	bad-chisq
+group_2117-group_1616-group_457	6.45E-02	6.24E-02	1.47E-02	-5.35E-01	2.17E-01	1.96E-01	bad-chisq
+group_1604-group_1623-group_1032	1.94E-02	3.19E-01	1.95E-01	-3.37E-01	2.59E-01	1.05E-01	bad-chisq
+group_428-group_1846-group_891	2.58E-02	2.30E-01	6.45E-01	-1.14E-01	2.47E-01	3.73E-02	bad-chisq
+group_440-group_1846-group_891	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1840-group_1757-group_863	2.58E-02	9.82E-01	8.88E-01	-3.30E-02	2.33E-01	1.14E-02	bad-chisq
+group_863-group_1757-group_1940	1.94E-02	3.19E-01	1.35E-02	-5.52E-01	2.21E-01	1.98E-01	bad-chisq
+recX-group_458-group_231	1.29E-02	3.99E-01	7.53E-01	1.07E-01	3.41E-01	2.54E-02	bad-chisq
+group_1479-group_1374-speC	1.29E-02	3.99E-01	7.52E-01	1.05E-01	3.33E-01	2.56E-02	bad-chisq
+group_1535-ermA1-group_333	1.94E-02	3.19E-01	1.95E-01	-4.15E-01	3.19E-01	1.05E-01	bad-chisq
+group_1623-group_1604-group_1619	1.94E-02	3.19E-01	1.95E-01	-3.37E-01	2.59E-01	1.05E-01	bad-chisq
+group_1619-group_1604-group_595	1.29E-02	4.17E-01	3.44E-01	-2.70E-01	2.85E-01	7.66E-02	bad-chisq
+group_1576-group_1409-group_386	4.52E-02	1.23E-01	6.80E-03	-5.98E-01	2.18E-01	2.17E-01	bad-chisq
+group_1576-group_1409-group_1343	1.94E-02	3.19E-01	1.95E-01	-4.15E-01	3.19E-01	1.05E-01	bad-chisq
+group_2162-group_1225-group_616	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1497-group_1384-group_790	2.58E-02	2.48E-01	5.25E-02	-4.17E-01	2.13E-01	1.56E-01	bad-chisq
+btuD_2-group_1384-group_790	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_952-group_51-group_1283	5.68E-01	1.29E-05	9.43E-01	9.90E-03	1.38E-01	5.78E-03	
+group_951-group_51-group_1061	1.29E-02	4.17E-01	2.47E-02	-7.70E-01	3.39E-01	1.80E-01	bad-chisq
+group_1061-group_51-group_1283	4.52E-02	1.23E-01	1.66E-02	-6.33E-01	2.61E-01	1.92E-01	bad-chisq
+group_1692-group_52-group_602	7.10E-02	9.40E-02	4.45E-01	2.00E-01	2.61E-01	6.18E-02	
+group_602-group_52-group_1168	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_602-group_52-group_1209	5.16E-02	9.74E-01	5.65E-01	7.87E-02	1.37E-01	4.66E-02	
+group_476-group_55-group_602	1.03E-01	7.16E-07	3.55E-02	3.24E-01	1.53E-01	1.69E-01	
+group_602-group_55-group_1028	8.39E-02	4.24E-01	7.28E-01	-3.75E-02	1.08E-01	2.82E-02	
+group_2191-group_56-group_953	2.06E-01	2.54E-02	2.94E-01	-9.00E-02	8.54E-02	8.49E-02	
+group_949-group_56-group_953	1.29E-02	3.99E-01	3.79E-01	2.69E-01	3.05E-01	7.12E-02	bad-chisq
+group_953-group_56-group_959	2.58E-02	9.82E-01	1.89E-01	3.51E-01	2.66E-01	1.06E-01	bad-chisq
+group_953-group_56-group_1259	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1895-group_57-group_1259	7.10E-02	3.43E-01	1.40E-01	-3.85E-01	2.60E-01	1.19E-01	
+group_1895-group_57-group_1265	1.29E-02	4.17E-01	2.47E-02	-7.70E-01	3.39E-01	1.80E-01	bad-chisq
+group_1895-group_57-group_1282	3.29E-01	9.76E-03	6.30E-01	-3.94E-02	8.17E-02	3.90E-02	
+group_953-group_57-group_1266	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_953-group_57-group_1282	1.29E-02	1.25E-02	1.84E-04	8.98E-01	2.34E-01	2.96E-01	bad-chisq
+group_65-group_58-group_959	1.94E-02	3.19E-01	1.04E-02	-7.23E-01	2.79E-01	2.05E-01	bad-chisq
+group_959-group_58-group_1060	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_2041-group_59-group_1294	9.03E-02	9.44E-02	7.06E-01	-9.10E-02	2.41E-01	3.05E-02	
+group_2041-group_59-group_1340	7.10E-02	2.17E-01	1.12E-01	-3.07E-01	1.92E-01	1.28E-01	bad-chisq
+group_1294-group_61-lexA	1.10E-01	9.06E-02	9.71E-01	6.60E-03	1.83E-01	2.92E-03	
+group_1678-group_62-group_1254	1.29E-02	4.17E-01	6.69E-01	-1.06E-01	2.46E-01	3.46E-02	bad-chisq
+group_833-group_62-group_1254	3.23E-02	1.95E-01	3.87E-01	-1.37E-01	1.58E-01	6.99E-02	bad-chisq
+group_954-group_62-group_955	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_954-group_62-group_1254	1.81E-01	8.64E-04	6.36E-02	-1.68E-01	8.97E-02	1.49E-01	bad-chisq
+group_1599-group_63-group_274	1.94E-02	3.19E-01	5.06E-01	-1.35E-01	2.03E-01	5.39E-02	bad-chisq
+group_1599-group_63-group_1122	2.71E-01	2.61E-02	4.93E-01	5.66E-02	8.23E-02	5.55E-02	
+group_1637-group_63-group_1317	1.94E-02	3.19E-01	1.35E-02	-5.52E-01	2.21E-01	1.98E-01	bad-chisq
+group_1274-group_63-group_1323	6.45E-02	2.70E-01	2.74E-01	-2.41E-01	2.20E-01	8.84E-02	bad-chisq
+group_2186-group_66-group_957	1.68E-01	7.24E-03	1.35E-01	-1.34E-01	8.93E-02	1.21E-01	bad-chisq
+group_2186-group_66-group_479	4.52E-02	4.00E-02	1.00E-01	2.69E-01	1.63E-01	1.33E-01	bad-chisq
+group_957-group_66-group_959	1.94E-02	8.66E-02	6.06E-02	4.65E-01	2.46E-01	1.51E-01	bad-chisq
+group_1798-group_72-group_1192	1.81E-01	8.64E-04	3.14E-02	-1.90E-01	8.74E-02	1.73E-01	bad-chisq
+group_1996-group_72-group_1192	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_1192-group_72-group_1263	5.16E-02	2.12E-05	7.42E-01	6.97E-02	2.11E-01	2.66E-02	bad-chisq
+group_2196-group_75-group_951	1.94E-02	7.20E-01	6.70E-01	-1.68E-01	3.93E-01	3.45E-02	bad-chisq
+group_2196-group_75-group_1283	1.29E-02	1.25E-02	7.45E-02	6.09E-01	3.39E-01	1.44E-01	bad-chisq
+group_478-group_76-group_961	9.03E-02	2.87E-04	1.51E-01	-2.26E-01	1.57E-01	1.16E-01	
+group_478-group_76-group_1332	7.10E-02	3.43E-01	5.32E-01	7.48E-02	1.19E-01	5.06E-02	
+group_703-group_82-group_1108	2.58E-02	2.30E-01	2.22E-02	5.13E-01	2.22E-01	1.84E-01	bad-chisq
+group_1866-group_109-leuS	3.23E-02	8.11E-01	6.18E-01	1.14E-01	2.27E-01	4.03E-02	bad-chisq
+group_1864-group_109-leuS	1.29E-02	1.25E-02	9.93E-02	6.33E-01	3.82E-01	1.33E-01	bad-chisq
+group_1881-group_109-leuS	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+leuS-group_109-group_966	6.45E-02	9.64E-09	4.64E-02	5.66E-01	2.82E-01	1.60E-01	bad-chisq
+leuS-group_109-group_967	3.23E-02	8.11E-01	5.29E-01	-1.63E-01	2.58E-01	5.10E-02	bad-chisq
+leuS-group_109-group_969	2.58E-02	1.74E-02	1.92E-01	3.54E-01	2.70E-01	1.05E-01	bad-chisq
+leuS-group_109-group_970	1.29E-02	4.17E-01	3.68E-01	-2.99E-01	3.30E-01	7.29E-02	bad-chisq
+leuS-group_109-group_972	2.58E-02	2.48E-01	8.33E-02	-3.92E-01	2.25E-01	1.40E-01	bad-chisq
+leuS-group_109-group_1211	7.55E-01	1.64E-04	8.96E-01	-2.08E-02	1.59E-01	1.06E-02	
+rpsD-slmA-group_971	9.10E-01	7.12E-01	4.27E-02	-3.60E-01	1.76E-01	1.63E-01	
+group_1913-slmA-group_971	8.39E-02	9.00E-01	9.95E-02	3.12E-01	1.88E-01	1.33E-01	
+group_1464-group_120-glgP~~~malP	7.61E-01	2.41E-03	1.53E-01	1.76E-01	1.23E-01	1.15E-01	
+group_428-group_120-glgP~~~malP	2.00E-01	8.82E-05	8.61E-01	1.92E-02	1.10E-01	1.42E-02	
+rplS-gph_2-gyrB	9.61E-01	1.39E-01	2.44E-01	-2.56E-01	2.19E-01	9.41E-02	bad-chisq
+gyrB-gph_2-group_2192	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_70-btuD_2-group_1384	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_70-btuD_2-IntTn	1.94E-02	3.19E-01	2.45E-02	-6.18E-01	2.72E-01	1.81E-01	bad-chisq
+group_142-group_161-group_1436	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+group_142-group_161-seq~~~seq_1~~~seq_3~~~seq_2	8.13E-01	2.08E-05	1.84E-01	-2.10E-01	1.58E-01	1.07E-01	
+group_1768-glgX-group_724	9.74E-01	2.48E-01	1.85E-01	3.96E-01	2.97E-01	1.07E-01	bad-chisq
+group_724-glgX-group_979	1.29E-02	4.17E-01	3.50E-01	-2.85E-01	3.04E-01	7.56E-02	bad-chisq
+hslO-group_174-group_27	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+hslO-group_174-group_74	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+hslO-group_174-group_1157	2.90E-01	9.72E-02	5.49E-01	-4.19E-02	6.97E-02	4.85E-02	
+group_1312-group_186-celB_2~~~chbC	3.81E-01	9.17E-06	8.87E-01	3.25E-02	2.30E-01	1.15E-02	
+group_514-group_186-celB_2~~~chbC	5.61E-01	2.02E-05	7.11E-01	5.40E-02	1.45E-01	3.00E-02	
+group_269-speC_1~~~seq_2-group_395	1.94E-01	7.60E-01	7.84E-01	-2.85E-02	1.04E-01	2.21E-02	
+group_269-speC_1~~~seq_2-group_2052	5.16E-02	3.46E-07	2.07E-01	2.65E-01	2.10E-01	1.02E-01	bad-chisq
+group_395-speC_1~~~seq_2-group_688	7.23E-01	4.20E-04	7.95E-01	-2.70E-02	1.04E-01	2.11E-02	
+group_466-seq_2~~~seq_1-speH~~~seq_2	5.68E-01	3.08E-04	4.63E-01	8.09E-02	1.10E-01	5.93E-02	
+speH~~~seq_2-seq_2~~~seq_1-group_1282	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+obgE-group_196-group_606	4.52E-02	4.00E-02	8.12E-01	4.79E-02	2.01E-01	1.92E-02	bad-chisq
+obgE-group_196-group_1359	2.58E-02	1.74E-02	2.27E-01	3.26E-01	2.68E-01	9.77E-02	bad-chisq
+obgE-group_196-group_608	2.58E-02	2.48E-01	2.69E-01	-3.89E-01	3.50E-01	8.93E-02	bad-chisq
+group_310-group_198-group_559	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_310-group_198-group_1051	9.03E-02	3.07E-01	1.15E-01	-2.71E-01	1.71E-01	1.27E-01	
+group_1637-group_201-group_982	4.52E-02	7.99E-01	5.46E-01	-1.00E-01	1.65E-01	4.88E-02	bad-chisq
+group_759-group_201-group_982	5.35E-01	2.15E-05	8.52E-01	-2.14E-02	1.14E-01	1.51E-02	
+group_323-group_203-group_243	6.45E-02	7.31E-01	2.38E-01	-2.98E-01	2.51E-01	9.53E-02	
+group_323-group_203-icaA~~~pgaC~~~arnC	9.16E-01	2.22E-01	6.75E-01	-8.72E-02	2.07E-01	3.40E-02	
+group_330-group_205-group_516	6.45E-02	6.77E-01	6.73E-01	-8.94E-02	2.11E-01	3.42E-02	
+group_330-group_205-group_704	8.71E-01	6.49E-06	3.60E-01	-1.42E-01	1.55E-01	7.40E-02	
+dltD-group_218-group_509	2.84E-01	9.30E-01	9.99E-03	-4.25E-01	1.63E-01	2.06E-01	
+dltD-group_218-group_984	6.32E-01	5.16E-02	9.30E-01	-9.09E-03	1.03E-01	7.15E-03	
+dltD-group_218-group_1097	4.52E-02	1.17E-04	2.09E-03	4.66E-01	1.49E-01	2.45E-01	bad-chisq
+dhaK_2-group_235-group_990	3.87E-02	1.39E-01	7.32E-01	8.43E-02	2.46E-01	2.77E-02	bad-chisq
+group_708-group_235-group_990	9.61E-01	1.39E-01	7.32E-01	-8.43E-02	2.46E-01	2.77E-02	bad-chisq
+tgt-group_236-perR	2.58E-02	1.74E-02	3.17E-01	2.83E-01	2.82E-01	8.09E-02	bad-chisq
+tgt-group_236-group_608	5.81E-02	5.26E-01	9.56E-01	-7.84E-03	1.40E-01	4.51E-03	
+tgt-group_236-group_606	5.16E-02	4.17E-01	5.40E-01	-1.06E-01	1.73E-01	4.96E-02	bad-chisq
+group_203-group_243-recF	6.45E-02	7.31E-01	2.38E-01	-2.98E-01	2.51E-01	9.53E-02	
+recF-group_243-galU_1~~~galU_2	8.97E-01	5.71E-01	2.69E-01	1.49E-01	1.35E-01	8.92E-02	
+rfbB-group_250-group_1918	1.94E-02	8.66E-02	4.13E-01	2.29E-01	2.80E-01	6.61E-02	bad-chisq
+rfbB-group_250-group_1543	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+rfbB-group_250-group_925	3.23E-02	4.13E-01	7.80E-01	-8.90E-02	3.18E-01	2.26E-02	bad-chisq
+rfbB-group_250-group_1400	3.87E-02	1.55E-01	6.30E-02	-4.69E-01	2.51E-01	1.50E-01	bad-chisq
+rfbB-group_250-group_324	5.61E-01	2.02E-05	6.46E-01	6.62E-02	1.44E-01	3.71E-02	
+isdF-isdE~~~btuF-group_6	1.94E-02	8.66E-02	4.34E-01	2.23E-01	2.84E-01	6.33E-02	bad-chisq
+group_6-isdE~~~btuF-isdE	9.74E-01	1.74E-02	2.34E-01	-2.91E-01	2.44E-01	9.61E-02	bad-chisq
+group_1380-group_254-group_1412	3.87E-02	6.48E-01	1.29E-01	-3.37E-01	2.21E-01	1.22E-01	bad-chisq
+group_1380-group_254-ide	9.10E-01	3.51E-01	9.97E-02	3.20E-01	1.93E-01	1.33E-01	
+manA-gmuE-group_17	6.45E-02	9.64E-09	4.35E-02	6.43E-01	3.16E-01	1.62E-01	bad-chisq
+manA-gmuE-group_995	9.29E-01	1.56E-09	1.09E-03	-7.82E-01	2.35E-01	2.60E-01	bad-chisq
+group_769-group_270-mtnN	5.94E-01	1.82E-06	5.00E-01	-2.20E-01	3.25E-01	5.45E-02	
+group_769-group_270-group_791	4.06E-01	1.82E-06	5.00E-01	2.20E-01	3.25E-01	5.45E-02	
+group_63-group_274-group_996	1.94E-02	3.19E-01	5.06E-01	-1.35E-01	2.03E-01	5.39E-02	bad-chisq
+group_996-group_274-group_1317	1.94E-02	7.20E-01	1.25E-01	3.68E-01	2.39E-01	1.24E-01	bad-chisq
+group_996-group_274-group_1360	1.61E-01	9.22E-03	3.63E-01	-8.02E-02	8.79E-02	7.36E-02	bad-chisq
+whiA-group_281-group_1743	7.10E-02	3.43E-01	4.83E-02	2.25E-01	1.13E-01	1.59E-01	
+whiA-group_281-group_1515	3.55E-01	3.49E-03	5.82E-01	-4.68E-02	8.48E-02	4.46E-02	
+group_906-recF-group_243	9.68E-01	8.11E-01	7.76E-01	4.72E-02	1.66E-01	2.30E-02	bad-chisq
+group_906-recF-galU_1~~~galU_2	3.23E-02	8.11E-01	7.76E-01	-4.72E-02	1.66E-01	2.30E-02	bad-chisq
+fakB2_2-group_293-group_1894	1.29E-02	3.99E-01	6.90E-01	1.15E-01	2.88E-01	3.23E-02	bad-chisq
+fakB2_2-group_293-group_441	9.87E-01	3.99E-01	6.90E-01	-1.15E-01	2.88E-01	3.23E-02	bad-chisq
+group_2205-group_308-group_1108	3.87E-02	6.48E-01	6.21E-01	7.37E-02	1.49E-01	4.00E-02	bad-chisq
+group_551-group_308-group_1108	1.94E-02	2.15E-03	6.12E-02	5.18E-01	2.75E-01	1.51E-01	bad-chisq
+group_921-group_308-group_1108	3.87E-02	1.55E-01	5.27E-02	-4.86E-01	2.49E-01	1.56E-01	bad-chisq
+group_1108-group_308-group_1259	8.39E-02	2.22E-01	3.73E-01	-2.55E-01	2.85E-01	7.21E-02	
+group_250-group_324-lexA	5.48E-01	4.77E-05	5.48E-01	7.62E-02	1.27E-01	4.86E-02	
+group_428-group_324-lexA	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_440-group_324-lexA	3.23E-02	4.13E-01	8.81E-01	3.25E-02	2.17E-01	1.21E-02	bad-chisq
+group_338-group_1972-nisB	7.61E-01	6.20E-11	8.36E-03	-4.73E-01	1.77E-01	2.11E-01	
+group_338-group_1972-group_1004	1.10E-01	9.06E-02	7.22E-01	-8.36E-02	2.35E-01	2.88E-02	
+group_1528-group_385-group_794	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1528-group_385-group_1017	2.65E-01	3.62E-02	4.51E-01	-7.67E-02	1.01E-01	6.10E-02	
+group_1528-group_385-group_1051	7.74E-02	1.50E-01	4.23E-01	1.36E-01	1.69E-01	6.48E-02	
+group_744-group_388-group_1658	4.52E-02	5.20E-01	4.68E-02	-3.08E-01	1.53E-01	1.60E-01	bad-chisq
+group_744-group_388-group_1327	1.94E-02	2.15E-03	2.48E-03	7.19E-01	2.34E-01	2.41E-01	bad-chisq
+pheT-group_388-group_1327	1.94E-02	3.19E-01	5.32E-01	-1.26E-01	2.01E-01	5.06E-02	bad-chisq
+msrB_1~~~msrB_2-group_388-group_1327	1.29E-02	4.17E-01	6.50E-01	-1.53E-01	3.36E-01	3.67E-02	bad-chisq
+group_1636-ruvB-group_2207	8.97E-01	1.23E-02	2.22E-01	-2.16E-01	1.76E-01	9.86E-02	
+group_1636-ruvB-group_2202	9.68E-02	6.34E-03	1.15E-01	2.85E-01	1.80E-01	1.27E-01	
+group_1859-group_398-group_1637	8.39E-02	5.84E-01	5.04E-01	8.11E-02	1.21E-01	5.41E-02	
+group_1859-group_398-group_1122	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+rpsI-group_406-group_318	9.68E-01	6.08E-02	3.12E-01	-2.56E-01	2.52E-01	8.17E-02	bad-chisq
+group_318-group_406-group_399	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1711-group_410-group_1497	2.58E-02	2.48E-01	5.25E-02	-4.17E-01	2.13E-01	1.56E-01	bad-chisq
+group_1711-group_410-group_13	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1807-group_418-group_430	7.74E-02	5.10E-01	2.80E-01	-2.00E-01	1.85E-01	8.73E-02	
+group_1807-group_418-group_433	1.29E-02	1.25E-02	1.09E-01	5.55E-01	3.45E-01	1.29E-01	bad-chisq
+group_1813-nudL-group_1011	9.87E-01	3.99E-01	9.32E-01	-3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_2147-nudL-group_1011	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_1003-group_425-group_1014	7.94E-01	1.29E-09	4.01E-02	-3.71E-01	1.79E-01	1.65E-01	
+group_1003-group_425-group_1357	8.39E-02	5.81E-02	5.28E-01	2.03E-01	3.21E-01	5.10E-02	
+group_541-group_426-group_558	3.87E-02	6.09E-01	8.58E-01	-3.99E-02	2.23E-01	1.44E-02	bad-chisq
+group_558-group_426-group_1013	9.61E-01	6.09E-01	8.58E-01	3.99E-02	2.23E-01	1.44E-02	bad-chisq
+group_1846-group_428-group_120	1.94E-02	8.66E-02	7.21E-01	9.41E-02	2.63E-01	2.89E-02	bad-chisq
+group_120-group_428-group_839	9.03E-02	9.44E-02	7.15E-01	-6.89E-02	1.88E-01	2.96E-02	
+group_120-group_428-group_2148	4.52E-02	5.20E-01	8.40E-01	-3.61E-02	1.78E-01	1.64E-02	bad-chisq
+group_120-group_428-group_324	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_418-group_430-group_1016	7.74E-02	5.10E-01	2.80E-01	-2.00E-01	1.85E-01	8.73E-02	
+group_2197-group_430-group_1191	1.29E-02	3.99E-01	8.79E-01	5.09E-02	3.34E-01	1.23E-02	bad-chisq
+group_1877-group_436-group_1018	8.90E-01	4.92E-04	5.21E-02	-4.10E-01	2.09E-01	1.56E-01	
+group_1877-group_436-group_1040	1.03E-01	1.83E-03	1.03E-01	3.77E-01	2.30E-01	1.32E-01	
+yidA_1-ybjI-group_554	9.23E-01	1.50E-01	6.21E-01	-8.96E-02	1.81E-01	4.01E-02	
+yidA_1-ybjI-group_1012	4.52E-02	7.99E-01	7.27E-01	1.03E-01	2.96E-01	2.82E-02	bad-chisq
+yidA_1-ybjI-group_1047	2.58E-02	2.30E-01	7.71E-01	7.81E-02	2.68E-01	2.35E-02	bad-chisq
+group_1894-group_440-group_1918	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_1894-group_440-group_1543	2.06E-01	7.61E-02	5.15E-01	-5.58E-02	8.56E-02	5.27E-02	
+group_1894-group_440-group_1846	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1894-group_440-group_324	3.87E-02	6.09E-01	5.59E-01	-1.35E-01	2.30E-01	4.73E-02	bad-chisq
+group_451-group_447-group_1284	5.87E-01	3.04E-06	7.72E-01	-6.93E-02	2.39E-01	2.35E-02	
+group_607-group_447-group_1284	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_447-group_451-group_1024	5.87E-01	3.04E-06	7.72E-01	-6.93E-02	2.39E-01	2.35E-02	
+group_1023-group_451-group_1024	4.52E-02	5.20E-01	1.72E-01	-3.47E-01	2.53E-01	1.10E-01	bad-chisq
+group_1024-group_451-group_1261	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_1915-group_457-group_1050	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_1616-group_457-group_1050	7.10E-02	2.17E-01	3.43E-01	-2.46E-01	2.58E-01	7.67E-02	bad-chisq
+group_2160-group_457-group_846	1.29E-02	3.99E-01	4.66E-01	2.49E-01	3.40E-01	5.90E-02	bad-chisq
+group_562-group_457-group_846	6.45E-02	9.64E-09	4.35E-02	6.43E-01	3.16E-01	1.62E-01	bad-chisq
+group_846-group_457-group_1050	3.87E-02	1.39E-01	8.08E-01	4.93E-02	2.03E-01	1.96E-02	bad-chisq
+group_2029-group_459-group_1027	7.10E-02	6.12E-01	2.26E-01	-1.66E-01	1.37E-01	9.78E-02	
+group_2021-group_459-group_1027	7.10E-02	6.12E-01	8.99E-01	1.45E-02	1.15E-01	1.02E-02	
+group_2040-group_460-group_1002	9.03E-02	3.07E-01	7.50E-02	-4.39E-01	2.45E-01	1.43E-01	
+group_1987-group_460-group_1264	6.45E-02	2.70E-01	2.74E-01	-2.41E-01	2.20E-01	8.84E-02	bad-chisq
+group_2177-group_465-group_1029	7.10E-02	1.09E-07	1.49E-01	2.58E-01	1.77E-01	1.17E-01	bad-chisq
+group_2088-group_465-group_1029	1.10E-01	2.74E-01	9.82E-02	-3.20E-01	1.92E-01	1.33E-01	
+group_1764-group_465-group_1344	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_775-group_465-group_1029	3.87E-01	1.01E-02	2.46E-01	9.34E-02	8.03E-02	9.37E-02	
+speC_1-group_466-group_1265	5.81E-02	3.35E-01	4.08E-01	-2.08E-01	2.51E-01	6.69E-02	bad-chisq
+seq_2~~~seq_1-group_466-group_1256	5.48E-01	4.77E-05	6.05E-01	6.03E-02	1.16E-01	4.19E-02	
+seq_2~~~seq_1-group_466-group_1265	1.94E-02	8.66E-02	4.80E-01	2.27E-01	3.21E-01	5.72E-02	bad-chisq
+group_2096-group_469-group_563	2.71E-01	1.21E-03	1.63E-01	-2.27E-01	1.62E-01	1.13E-01	
+group_539-group_469-group_563	1.94E-02	8.66E-02	4.75E-01	2.25E-01	3.14E-01	5.77E-02	bad-chisq
+group_2099-group_470-group_2068	1.94E-02	3.19E-01	1.04E-02	-7.23E-01	2.79E-01	2.05E-01	bad-chisq
+group_2121-group_472-group_1292	1.29E-02	4.17E-01	6.69E-01	-1.06E-01	2.46E-01	3.46E-02	bad-chisq
+group_2121-group_472-group_1306	5.61E-01	5.29E-07	5.72E-03	-2.38E-01	8.49E-02	2.21E-01	
+group_2127-group_473-group_564	7.10E-02	6.12E-01	2.26E-01	-1.66E-01	1.37E-01	9.78E-02	
+group_1948-group_473-group_564	2.58E-02	2.48E-01	3.66E-01	-1.68E-01	1.85E-01	7.31E-02	bad-chisq
+group_1555-sel26_3~~~sel26~~~sel26_1-group_2167	5.16E-02	4.17E-01	5.78E-01	-1.89E-01	3.40E-01	4.50E-02	bad-chisq
+group_607-sel26_3~~~sel26~~~sel26_1-group_1262	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_55-group_476-group_309	5.81E-02	2.57E-02	3.55E-02	4.30E-01	2.03E-01	1.69E-01	bad-chisq
+group_55-group_476-group_1031	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_1116-group_476-group_944	5.61E-01	3.50E-06	4.19E-01	-1.16E-01	1.44E-01	6.54E-02	
+group_944-group_476-group_1031	1.29E-02	3.99E-01	8.80E-01	5.46E-02	3.63E-01	1.22E-02	bad-chisq
+group_76-group_478-group_949	1.42E-01	4.08E-04	8.63E-01	-1.80E-02	1.05E-01	1.39E-02	
+group_76-group_478-group_1282	1.29E-02	4.17E-01	1.91E-01	-3.93E-01	2.99E-01	1.06E-01	bad-chisq
+group_957-group_479-group_1173	1.61E-01	9.22E-03	1.65E-01	-1.28E-01	9.21E-02	1.12E-01	bad-chisq
+group_1173-group_479-group_1250	1.94E-02	7.20E-01	6.22E-01	1.16E-01	2.34E-01	3.99E-02	bad-chisq
+group_1173-group_479-group_66	3.87E-02	1.39E-01	3.53E-01	1.71E-01	1.83E-01	7.50E-02	bad-chisq
+group_90-group_481-group_802	5.68E-01	1.23E-03	7.55E-01	2.83E-02	9.05E-02	2.52E-02	
+group_90-group_481-group_1285	4.52E-02	7.99E-01	5.06E-01	-1.45E-01	2.18E-01	5.39E-02	bad-chisq
+group_145-group_484-group_964	9.42E-01	2.57E-02	5.84E-01	-1.30E-01	2.37E-01	4.43E-02	bad-chisq
+group_535-group_485-group_965	2.58E-02	3.77E-04	2.00E-02	6.92E-01	2.94E-01	1.87E-01	bad-chisq
+group_104-adhP_2~~~adhP_1~~~adhP-yeeO	9.68E-01	4.13E-01	5.08E-01	-1.49E-01	2.24E-01	5.36E-02	bad-chisq
+yeeO-adhP_2~~~adhP_1~~~adhP-adhE	3.23E-02	4.13E-01	5.08E-01	1.49E-01	2.24E-01	5.36E-02	bad-chisq
+group_139-group_499-group_456	1.10E-01	9.06E-02	3.33E-01	1.33E-01	1.37E-01	7.82E-02	
+group_139-group_499-group_140	1.16E-01	1.13E-03	7.21E-01	-5.18E-02	1.45E-01	2.89E-02	
+group_150-nag3_1~~~nag3_2~~~nag3-group_1033	3.87E-02	1.39E-01	7.79E-01	6.94E-02	2.47E-01	2.28E-02	bad-chisq
+group_2189-nag3_1~~~nag3_2~~~nag3-group_1033	2.58E-02	2.48E-01	2.69E-01	-3.89E-01	3.50E-01	8.93E-02	bad-chisq
+seq_2~~~seq_1-speH~~~seq_2-mutX	6.39E-01	9.69E-02	2.74E-01	1.24E-01	1.13E-01	8.85E-02	
+mutX-speH~~~seq_2-group_1875	1.94E-02	7.20E-01	6.70E-01	-1.68E-01	3.93E-01	3.45E-02	bad-chisq
+group_1797-group_517-group_766	9.68E-02	6.52E-05	7.88E-01	6.26E-02	2.32E-01	2.18E-02	
+seq~~~seq_1~~~seq_3~~~seq_2-group_517-group_766	8.39E-01	5.41E-07	1.84E-01	-2.37E-01	1.77E-01	1.07E-01	
+group_243-galU_1~~~galU_2-hasB~~~ugd_2~~~ugd_3	8.97E-01	5.71E-01	2.69E-01	1.49E-01	1.35E-01	8.92E-02	
+recF-galU_1~~~galU_2-hasB~~~ugd_2~~~ugd_3	3.23E-02	8.11E-01	7.76E-01	-4.72E-02	1.66E-01	2.30E-02	bad-chisq
+lacC_1~~~lacC_2-lacD_1~~~lacD_2-group_262	9.35E-01	6.77E-01	6.72E-01	8.24E-02	1.94E-01	3.43E-02	
+lacC_1~~~lacC_2-lacD_1~~~lacD_2-group_1457	2.58E-02	2.48E-01	2.69E-01	-3.89E-01	3.50E-01	8.93E-02	bad-chisq
+group_262-lacD_1~~~lacD_2-lacC_1	2.58E-02	2.30E-01	8.43E-01	5.33E-02	2.69E-01	1.60E-02	bad-chisq
+group_262-lacD_1~~~lacD_2-lacB_1	1.29E-02	3.99E-01	9.39E-01	2.59E-02	3.38E-01	6.18E-03	bad-chisq
+group_718-group_534-group_1389	1.29E-02	3.99E-01	6.07E-01	1.73E-01	3.36E-01	4.16E-02	bad-chisq
+group_718-group_534-group_559	8.39E-02	5.84E-01	6.76E-03	-4.63E-01	1.69E-01	2.17E-01	
+group_718-group_534-group_310	5.81E-02	5.26E-01	2.76E-01	2.34E-01	2.14E-01	8.81E-02	
+group_718-group_534-group_1017	5.16E-02	3.81E-01	3.97E-01	2.13E-01	2.51E-01	6.85E-02	bad-chisq
+group_718-group_534-group_1051	9.03E-02	7.78E-01	8.25E-01	-2.90E-02	1.31E-01	1.79E-02	
+group_718-group_534-group_794	3.23E-02	1.95E-01	2.27E-01	-3.39E-01	2.80E-01	9.76E-02	bad-chisq
+group_310-group_534-group_1017	4.52E-02	7.99E-01	7.04E-01	1.11E-01	2.91E-01	3.07E-02	bad-chisq
+group_310-group_534-group_1051	5.16E-02	9.74E-01	9.40E-01	-1.92E-02	2.53E-01	6.14E-03	
+group_1017-group_534-group_1051	4.52E-02	7.99E-01	7.04E-01	1.11E-01	2.91E-01	3.07E-02	bad-chisq
+group_265-group_535-group_485	2.58E-02	3.77E-04	2.00E-02	6.92E-01	2.94E-01	1.87E-01	bad-chisq
+group_265-group_535-group_965	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_469-group_539-rppH	1.94E-02	8.66E-02	4.75E-01	2.25E-01	3.14E-01	5.77E-02	bad-chisq
+group_1980-group_539-rppH	1.29E-02	3.99E-01	9.86E-01	5.67E-03	3.30E-01	1.39E-03	bad-chisq
+group_563-group_539-rppH	5.94E-01	1.82E-06	5.00E-01	-2.20E-01	3.25E-01	5.45E-02	
+rppH-group_539-group_935	3.42E-01	3.92E-04	9.17E-01	-1.68E-02	1.61E-01	8.45E-03	
+group_426-group_541-group_1041	3.87E-02	6.09E-01	8.58E-01	-3.99E-02	2.23E-01	1.44E-02	bad-chisq
+group_1013-group_541-group_1041	9.55E-01	2.48E-01	7.07E-01	-7.69E-02	2.04E-01	3.04E-02	bad-chisq
+group_302-group_543-group_303	9.81E-01	8.66E-02	2.39E-01	-3.31E-01	2.80E-01	9.51E-02	bad-chisq
+group_303-group_543-udk	1.94E-02	8.66E-02	2.39E-01	3.31E-01	2.80E-01	9.51E-02	bad-chisq
+group_675-group_545-scpA	5.81E-02	5.26E-01	1.52E-01	-2.93E-01	2.04E-01	1.16E-01	
+group_1691-group_545-scpA	4.13E-01	2.38E-04	4.77E-01	-5.44E-02	7.63E-02	5.75E-02	
+group_373-group_550-group_2073	8.00E-01	1.21E-06	2.71E-01	-1.65E-01	1.50E-01	8.90E-02	
+group_373-group_550-group_159	1.94E-01	5.16E-06	4.39E-01	1.15E-01	1.48E-01	6.25E-02	
+mdrP-mutL-mutS	8.00E-01	5.52E-04	7.41E-01	-5.37E-02	1.62E-01	2.68E-02	
+mdrP-mutL-group_1044	1.61E-01	6.45E-05	8.90E-01	1.95E-02	1.40E-01	1.12E-02	
+group_496-group_551-group_1533	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1533-group_551-group_1158	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1533-group_551-group_1374	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_1533-group_551-group_308	1.94E-02	2.15E-03	6.12E-02	5.18E-01	2.75E-01	1.51E-01	bad-chisq
+group_563-group_553-group_1045	4.52E-02	7.99E-01	8.50E-01	5.55E-02	2.93E-01	1.53E-02	bad-chisq
+group_580-group_553-lafA	1.74E-01	8.08E-03	2.28E-01	-2.18E-01	1.80E-01	9.74E-02	
+group_1045-group_553-lafA	7.23E-01	2.28E-02	4.95E-02	3.58E-01	1.81E-01	1.58E-01	
+lafA-group_553-group_1057	2.58E-02	2.48E-01	2.69E-01	-3.89E-01	3.50E-01	8.93E-02	bad-chisq
+group_426-group_558-group_557	2.71E-01	8.81E-07	3.23E-01	1.68E-01	1.69E-01	7.99E-02	
+group_426-group_558-hisZ	6.97E-01	4.38E-08	9.75E-02	-3.19E-01	1.91E-01	1.34E-01	
+group_426-group_558-group_1012	2.58E-02	2.30E-01	8.41E-01	5.36E-02	2.67E-01	1.62E-02	bad-chisq
+group_80-group_559-group_534	1.29E-02	4.17E-01	2.47E-02	-7.70E-01	3.39E-01	1.80E-01	bad-chisq
+group_198-group_559-group_1051	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_794-group_559-group_534	6.45E-02	6.77E-01	1.67E-02	-5.32E-01	2.20E-01	1.92E-01	
+group_469-group_563-group_553	5.16E-02	3.81E-01	4.92E-01	1.75E-01	2.54E-01	5.56E-02	bad-chisq
+group_469-group_563-group_2001	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_469-group_563-lafA	2.26E-01	9.22E-04	9.29E-02	-2.75E-01	1.62E-01	1.35E-01	
+group_2096-group_563-lafA	8.39E-02	2.22E-01	2.52E-01	2.18E-01	1.90E-01	9.25E-02	
+group_539-group_563-lafA	5.94E-01	1.82E-06	5.00E-01	-2.20E-01	3.25E-01	5.45E-02	
+group_1214-group_564-group_473	2.58E-02	2.48E-01	2.59E-02	-4.18E-01	1.86E-01	1.79E-01	bad-chisq
+group_473-group_564-group_933	7.10E-02	6.12E-01	7.88E-01	-3.68E-02	1.37E-01	2.17E-02	
+group_157-slo-group_1053	9.55E-01	3.15E-03	9.92E-02	-4.08E-01	2.46E-01	1.33E-01	bad-chisq
+group_157-slo-group_1175	4.52E-02	3.15E-03	9.92E-02	4.08E-01	2.46E-01	1.33E-01	bad-chisq
+group_980-group_573-group_981	9.61E-01	6.48E-01	6.26E-01	1.76E-01	3.61E-01	3.94E-02	bad-chisq
+dcuS-group_573-group_981	3.87E-02	6.48E-01	6.26E-01	-1.76E-01	3.61E-01	3.94E-02	bad-chisq
+group_553-group_580-group_585	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_553-group_580-group_1057	1.68E-01	4.93E-03	3.98E-01	-1.49E-01	1.76E-01	6.84E-02	
+group_1045-group_580-group_1057	6.26E-01	7.04E-04	9.93E-02	3.25E-01	1.96E-01	1.33E-01	
+group_898-group_583-group_585	1.94E-02	7.20E-01	2.32E-01	-3.62E-01	3.02E-01	9.66E-02	bad-chisq
+group_898-group_583-group_1056	9.74E-01	9.82E-01	1.55E-01	3.64E-01	2.54E-01	1.15E-01	bad-chisq
+group_580-group_585-group_1056	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_583-group_585-group_1057	1.94E-02	7.20E-01	2.32E-01	-3.62E-01	3.02E-01	9.66E-02	bad-chisq
+group_1056-group_585-group_1057	9.61E-01	1.39E-01	7.32E-01	7.49E-02	2.18E-01	2.77E-02	bad-chisq
+group_997-group_588-group_776	1.29E-02	4.17E-01	1.91E-01	-3.93E-01	2.99E-01	1.06E-01	bad-chisq
+group_1545-group_588-group_1058	2.58E-02	9.82E-01	1.89E-01	3.51E-01	2.66E-01	1.06E-01	bad-chisq
+group_949-group_588-group_1058	1.94E-02	3.19E-01	1.04E-02	-7.23E-01	2.79E-01	2.05E-01	bad-chisq
+group_1604-group_595-group_1032	1.29E-02	4.17E-01	3.44E-01	-2.70E-01	2.85E-01	7.66E-02	bad-chisq
+group_951-group_600-group_1305	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_1060-group_600-group_1061	5.16E-02	3.81E-01	8.75E-03	4.00E-01	1.51E-01	2.10E-01	bad-chisq
+group_1060-group_600-group_1330	3.23E-02	6.08E-02	3.00E-01	2.15E-01	2.06E-01	8.38E-02	bad-chisq
+group_2030-group_602-group_55	3.23E-02	1.95E-01	2.12E-01	-2.09E-01	1.67E-01	1.01E-01	bad-chisq
+group_52-group_602-group_55	1.68E-01	1.39E-04	2.48E-01	1.27E-01	1.10E-01	9.33E-02	
+group_236-group_608-group_606	3.23E-02	6.08E-02	4.27E-01	1.88E-01	2.36E-01	6.43E-02	bad-chisq
+group_1359-group_608-group_196	2.58E-02	2.48E-01	2.69E-01	-3.89E-01	3.50E-01	8.93E-02	bad-chisq
+nadC-group_606-group_608	5.16E-02	1.03E-02	1.43E-01	2.68E-01	1.82E-01	1.18E-01	bad-chisq
+nadC-group_606-group_196	3.87E-02	1.44E-02	3.24E-01	2.21E-01	2.23E-01	7.98E-02	bad-chisq
+nadC-group_606-group_236	4.52E-02	5.20E-01	9.52E-01	-1.15E-02	1.91E-01	4.84E-03	bad-chisq
+group_196-group_606-group_236	1.29E-02	4.17E-01	1.89E-01	-3.95E-01	3.00E-01	1.06E-01	bad-chisq
+group_342-group_607-group_1329	1.29E-02	1.25E-02	1.07E-01	5.35E-01	3.30E-01	1.30E-01	bad-chisq
+group_447-group_607-sel26_3~~~sel26~~~sel26_1	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_1406-group_616-group_1264	1.29E-02	1.25E-02	1.09E-01	5.55E-01	3.45E-01	1.29E-01	bad-chisq
+group_1574-group_616-group_1264	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_1621-group_617-group_1483	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+group_1687-group_617-group_1534	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_1579-group_617-group_1066	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1066-group_617-group_1202	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_635-rbfA-infB	1.94E-01	7.63E-03	6.30E-01	-8.30E-02	1.72E-01	3.90E-02	
+infB-rbfA-group_1069	8.06E-01	7.63E-03	6.30E-01	8.30E-02	1.72E-01	3.90E-02	
+group_1701-group_628-group_900	1.94E-02	3.19E-01	5.32E-01	-1.26E-01	2.01E-01	5.06E-02	bad-chisq
+group_1701-group_628-pheT	9.81E-01	3.19E-01	5.32E-01	1.26E-01	2.01E-01	5.06E-02	bad-chisq
+lepA-group_647-group_1446	9.03E-02	8.24E-07	3.86E-01	1.89E-01	2.18E-01	7.00E-02	
+lepA-group_647-csn2	8.39E-02	5.81E-02	6.71E-01	1.23E-01	2.88E-01	3.44E-02	
+cas2_1-csn2-lepA	1.03E-01	2.02E-01	7.07E-01	6.96E-02	1.85E-01	3.04E-02	
+cas2_1-csn2-group_647	6.77E-01	9.98E-05	8.95E-01	-2.95E-02	2.23E-01	1.07E-02	
+group_127-group_662-group_1083	1.94E-02	3.19E-01	1.95E-01	-4.15E-01	3.19E-01	1.05E-01	bad-chisq
+group_893-group_662-group_1083	3.23E-02	8.11E-01	7.60E-01	-5.69E-02	1.86E-01	2.48E-02	bad-chisq
+group_161-seq~~~seq_1~~~seq_3~~~seq_2-group_517	7.68E-01	6.84E-06	1.17E-01	-2.61E-01	1.65E-01	1.26E-01	
+group_161-seq~~~seq_1~~~seq_3~~~seq_2-group_1096	4.52E-02	2.48E-01	8.39E-01	4.16E-02	2.05E-01	1.64E-02	bad-chisq
+group_142-seq~~~seq_1~~~seq_3~~~seq_2-group_517	7.10E-02	8.25E-01	6.65E-01	9.71E-02	2.24E-01	3.50E-02	
+group_142-seq~~~seq_1~~~seq_3~~~seq_2-group_1096	1.29E-02	1.25E-02	2.06E-01	5.12E-01	4.03E-01	1.02E-01	bad-chisq
+group_148-group_664-rlmH_2~~~rlmH_1~~~rlmH	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_148-group_664-group_1097	8.06E-01	3.72E-08	3.32E-05	-4.10E-01	9.60E-02	3.27E-01	
+group_148-group_664-group_1161	9.68E-02	7.75E-04	7.56E-01	-5.09E-02	1.64E-01	2.51E-02	
+group_178-group_670-group_1084	6.26E-01	2.68E-03	6.87E-01	4.01E-02	9.94E-02	3.26E-02	
+group_179-group_670-group_1084	5.16E-02	9.74E-01	7.93E-01	-5.18E-02	1.97E-01	2.13E-02	
+group_178-group_671-group_1160	6.19E-01	1.03E-03	8.93E-01	-1.38E-02	1.02E-01	1.09E-02	
+group_179-group_671-group_1160	5.16E-02	9.74E-01	7.93E-01	-5.18E-02	1.97E-01	2.13E-02	
+group_2090-group_673-group_1159	6.71E-01	8.17E-08	1.36E-01	-1.65E-01	1.10E-01	1.20E-01	
+tagU-rlmD_1~~~rlmD_2-clbS_2	4.52E-02	1.23E-01	1.66E-02	-6.33E-01	2.61E-01	1.92E-01	bad-chisq
+tagU-rlmD_1~~~rlmD_2-group_497	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+tagU-rlmD_1~~~rlmD_2-deoD_2	1.55E-01	1.08E-01	7.15E-01	-6.43E-02	1.76E-01	2.96E-02	
+tagU-rlmD_1~~~rlmD_2-group_1090	5.81E-02	8.69E-01	9.49E-01	-1.00E-02	1.56E-01	5.20E-03	
+tagU-rlmD_1~~~rlmD_2-group_1091	1.29E-02	1.25E-02	1.85E-01	4.16E-01	3.12E-01	1.07E-01	bad-chisq
+tagU-rlmD_1~~~rlmD_2-group_1093	7.10E-01	4.18E-01	1.86E-01	1.89E-01	1.42E-01	1.07E-01	
+group_17-group_678-group_749	6.45E-02	9.64E-09	4.35E-02	6.43E-01	3.16E-01	1.62E-01	bad-chisq
+group_749-group_678-group_995	9.35E-01	9.64E-09	4.35E-02	-6.43E-01	3.16E-01	1.62E-01	bad-chisq
+group_843-group_679-group_234	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_234-group_679-group_823	1.10E-01	2.20E-02	6.87E-01	8.38E-02	2.07E-01	3.26E-02	
+group_548-trmFO-oadA_2~~~oadA	5.81E-01	4.99E-06	9.02E-01	-2.45E-02	1.98E-01	1.00E-02	
+group_548-trmFO-oadA_2~~~oadA_1	3.61E-01	3.14E-04	3.33E-01	-2.12E-01	2.18E-01	7.83E-02	
+topA-trmFO-oadA_2~~~oadA_1	4.52E-02	3.15E-03	7.35E-02	4.89E-01	2.71E-01	1.44E-01	bad-chisq
+group_269-group_688-speC_1~~~seq_2	7.35E-01	3.27E-03	9.95E-01	6.12E-04	1.01E-01	4.92E-04	
+group_2207-group_694-purB	8.97E-01	1.23E-02	2.22E-01	-2.16E-01	1.76E-01	9.86E-02	
+purB-group_694-group_2202	9.03E-02	2.01E-02	2.39E-01	2.13E-01	1.80E-01	9.51E-02	
+yhfT-group_708-group_235	9.61E-01	1.39E-01	7.32E-01	-8.43E-02	2.46E-01	2.77E-02	bad-chisq
+yhfT-group_708-group_788	3.87E-02	1.39E-01	7.32E-01	8.43E-02	2.46E-01	2.77E-02	bad-chisq
+group_390-rlmH_2~~~rlmH_1~~~rlmH-group_664	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_390-rlmH_2~~~rlmH_1~~~rlmH-group_984	1.29E-02	3.99E-01	7.21E-01	1.23E-01	3.45E-01	2.89E-02	bad-chisq
+group_390-rlmH_2~~~rlmH_1~~~rlmH-group_1097	1.74E-01	9.61E-02	3.73E-01	-1.53E-01	1.71E-01	7.21E-02	
+group_390-rlmH_2~~~rlmH_1~~~rlmH-group_1161	7.61E-01	9.20E-05	4.59E-01	-1.04E-01	1.40E-01	5.99E-02	
+thiI-capA-rplU	9.61E-01	1.39E-01	7.25E-01	-9.75E-02	2.77E-01	2.85E-02	bad-chisq
+thiI-capA-group_735	1.29E-02	3.99E-01	9.86E-01	-6.25E-03	3.48E-01	1.45E-03	bad-chisq
+group_467-group_722-group_1099	6.13E-01	1.48E-03	7.07E-01	3.88E-02	1.03E-01	3.05E-02	
+group_462-group_722-group_1099	7.74E-02	4.60E-01	6.38E-01	8.03E-02	1.71E-01	3.80E-02	
+group_1369-group_726-group_1333	1.29E-02	1.25E-02	7.98E-01	6.89E-02	2.69E-01	2.07E-02	bad-chisq
+group_1135-group_726-group_1333	1.94E-02	7.20E-01	4.61E-01	-2.14E-01	2.89E-01	5.97E-02	bad-chisq
+citX-oadA_2~~~oadA-citC	4.06E-01	1.82E-06	5.00E-01	2.20E-01	3.25E-01	5.45E-02	
+trmFO-oadA_2~~~oadA-citC	5.81E-01	4.99E-06	9.02E-01	-2.45E-02	1.98E-01	1.00E-02	
+group_599-group_738-group_1104	1.29E-02	1.25E-02	2.06E-01	5.12E-01	4.03E-01	1.02E-01	bad-chisq
+group_591-group_738-group_1104	6.45E-02	9.64E-09	6.57E-02	5.30E-01	2.86E-01	1.48E-01	bad-chisq
+group_572-group_738-group_1104	1.29E-02	1.25E-02	1.01E-01	5.55E-01	3.37E-01	1.32E-01	bad-chisq
+group_574-group_738-group_1104	5.81E-02	8.69E-01	5.05E-01	-1.83E-01	2.73E-01	5.39E-02	
+group_596-group_738-group_1104	6.13E-01	1.51E-05	9.72E-01	-6.75E-03	1.92E-01	2.84E-03	
+group_578-group_738-group_1104	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_336-group_738-group_1104	5.81E-02	3.35E-01	2.53E-01	-3.22E-01	2.80E-01	9.24E-02	bad-chisq
+group_716-group_756-rplL	1.16E-01	6.82E-10	1.94E-02	4.62E-01	1.95E-01	1.88E-01	
+group_716-group_756-group_721	8.84E-01	6.82E-10	1.94E-02	-4.62E-01	1.95E-01	1.88E-01	
+nanA-group_758-group_1610	8.39E-02	5.84E-01	6.26E-01	-1.05E-01	2.14E-01	3.95E-02	
+nanA-group_758-ugpE_2	9.16E-01	5.84E-01	6.26E-01	1.05E-01	2.14E-01	3.95E-02	
+group_812-group_759-group_201	5.35E-01	2.15E-05	8.52E-01	-2.14E-02	1.14E-01	1.51E-02	
+group_812-group_759-group_831	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_812-group_759-group_1278	7.74E-02	1.75E-01	3.17E-02	-3.99E-01	1.84E-01	1.73E-01	bad-chisq
+whiA-group_761-adcA_2~~~adcA_1	4.13E-01	9.24E-05	9.88E-01	1.34E-03	8.65E-02	1.25E-03	
+group_1233-group_761-adcA_2~~~adcA_1	4.45E-01	2.62E-02	2.92E-01	8.02E-02	7.58E-02	8.52E-02	
+group_2170-group_762-group_1095	9.68E-02	4.04E-01	3.09E-02	-4.80E-01	2.20E-01	1.73E-01	
+group_764-group_762-group_1095	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+gph_1-gpmB-group_1745	2.58E-02	2.48E-01	2.69E-01	-3.89E-01	3.50E-01	8.93E-02	bad-chisq
+gph_1-gpmB-ybaK	9.74E-01	2.48E-01	2.69E-01	3.89E-01	3.50E-01	8.93E-02	bad-chisq
+era-rppH-group_539	9.81E-01	8.66E-02	5.18E-01	-1.81E-01	2.79E-01	5.23E-02	bad-chisq
+era-rppH-group_2065	1.94E-02	8.66E-02	5.18E-01	1.81E-01	2.79E-01	5.23E-02	bad-chisq
+group_852-group_764-group_2170	9.68E-02	4.04E-01	3.09E-02	-4.80E-01	2.20E-01	1.73E-01	
+group_852-group_764-group_376	3.87E-02	1.55E-01	6.30E-02	-4.69E-01	2.51E-01	1.50E-01	bad-chisq
+group_852-group_764-group_762	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+rsmH-proA-proB_2~~~proB_1~~~proB	4.52E-02	5.20E-01	3.43E-01	-2.23E-01	2.34E-01	7.67E-02	bad-chisq
+group_1799-proA-proB_2~~~proB_1~~~proB	9.55E-01	5.20E-01	3.43E-01	2.23E-01	2.34E-01	7.67E-02	bad-chisq
+group_1071-group_775-group_2088	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_1071-group_775-group_465	3.87E-01	1.01E-02	2.46E-01	9.34E-02	8.03E-02	9.37E-02	
+group_2088-group_775-group_1270	9.68E-02	2.89E-01	4.13E-02	-3.23E-01	1.57E-01	1.64E-01	
+group_2088-group_775-group_1335	1.29E-02	3.99E-01	8.79E-01	5.09E-02	3.34E-01	1.23E-02	bad-chisq
+uvrA-group_776-group_1233	2.58E-02	2.48E-01	2.59E-02	-4.18E-01	1.86E-01	1.79E-01	bad-chisq
+uvrA-group_776-group_1108	2.58E-02	1.74E-02	1.71E-02	4.97E-01	2.06E-01	1.91E-01	bad-chisq
+group_1765-group_779-group_1776	8.39E-02	5.81E-02	6.71E-01	1.23E-01	2.88E-01	3.44E-02	
+group_1776-group_779-group_245	9.10E-01	2.01E-02	3.14E-01	-2.83E-01	2.80E-01	8.13E-02	
+group_1588-group_782-group_1032	5.16E-02	4.17E-01	5.78E-01	-1.89E-01	3.40E-01	4.50E-02	bad-chisq
+group_1359-group_794-group_1389	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_1359-group_794-group_80	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_1359-group_794-group_1860	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_1389-group_794-group_80	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_1389-group_794-group_385	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1389-group_794-group_559	6.45E-02	6.77E-01	1.67E-02	-5.32E-01	2.20E-01	1.92E-01	
+group_1389-group_794-group_1051	2.58E-02	2.30E-01	7.67E-01	-6.68E-02	2.25E-01	2.40E-02	bad-chisq
+group_1389-group_794-group_1860	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_1389-group_794-group_534	3.23E-02	1.95E-01	2.27E-01	-3.39E-01	2.80E-01	9.76E-02	bad-chisq
+group_80-group_794-group_1860	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_385-group_794-group_1051	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_385-group_794-group_534	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1051-group_794-group_534	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_2181-group_1985-group_1120	2.58E-02	2.48E-01	2.69E-01	-3.89E-01	3.50E-01	8.93E-02	bad-chisq
+group_1077-group_1985-group_1120	9.29E-01	9.40E-02	4.44E-01	-1.75E-01	2.27E-01	6.20E-02	
+tmk-group_801-group_291	1.94E-01	2.81E-02	9.00E-01	-2.10E-02	1.68E-01	1.01E-02	
+tmk-group_801-yabA	8.06E-01	2.81E-02	9.00E-01	2.10E-02	1.68E-01	1.01E-02	
+group_1448-group_805-group_2013	2.00E-01	3.18E-02	7.27E-01	-2.89E-02	8.28E-02	2.82E-02	
+group_1464-group_808-speC	1.29E-02	3.99E-01	7.23E-01	-1.08E-01	3.04E-01	2.87E-02	bad-chisq
+group_1464-group_808-group_1233	5.81E-02	3.35E-01	4.08E-01	-2.08E-01	2.51E-01	6.69E-02	bad-chisq
+speC-group_808-group_902	1.29E-02	3.99E-01	7.35E-01	1.09E-01	3.22E-01	2.74E-02	bad-chisq
+group_1233-group_808-group_902	1.94E-02	2.15E-03	4.23E-02	5.68E-01	2.77E-01	1.63E-01	bad-chisq
+sel26-group_808-group_902	2.32E-01	2.54E-03	5.39E-02	-1.62E-01	8.33E-02	1.55E-01	
+group_902-group_808-group_1108	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+rpsD-group_810-group_1626	8.39E-02	9.00E-01	9.95E-02	3.12E-01	1.88E-01	1.33E-01	
+group_1911-group_811-group_1467	5.81E-02	8.69E-01	8.33E-01	2.71E-02	1.29E-01	1.70E-02	
+group_1467-group_811-group_1248	2.77E-01	2.89E-01	7.58E-01	2.29E-02	7.43E-02	2.49E-02	
+group_1468-group_813-group_988	8.65E-01	1.37E-06	1.08E-01	-3.03E-01	1.87E-01	1.30E-01	
+group_1468-group_813-group_987	7.74E-02	1.50E-01	3.79E-01	1.84E-01	2.09E-01	7.12E-02	
+group_1535-group_824-group_1833	1.94E-02	3.19E-01	1.95E-01	-4.15E-01	3.19E-01	1.05E-01	bad-chisq
+group_1568-group_827-group_825	9.03E-02	3.51E-01	2.91E-01	-2.35E-01	2.21E-01	8.54E-02	
+group_1568-group_827-group_1059	1.03E-01	2.54E-08	9.11E-02	3.18E-01	1.87E-01	1.36E-01	
+group_1576-group_830-group_1344	4.52E-02	1.23E-01	4.72E-03	-5.57E-01	1.94E-01	2.26E-01	bad-chisq
+group_771-group_830-group_1344	5.16E-02	3.46E-07	2.12E-01	2.66E-01	2.12E-01	1.01E-01	bad-chisq
+group_1593-group_831-group_2159	5.48E-01	2.59E-08	7.01E-04	-3.13E-01	9.05E-02	2.69E-01	
+group_1593-group_831-group_759	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1593-group_831-group_1274	1.29E-02	1.25E-02	1.09E-01	5.55E-01	3.45E-01	1.29E-01	bad-chisq
+group_1593-group_832-group_2121	3.87E-02	6.09E-01	3.77E-01	-1.89E-01	2.13E-01	7.15E-02	bad-chisq
+group_2121-group_832-group_1979	5.35E-01	7.80E-08	4.33E-03	-2.74E-01	9.47E-02	2.28E-01	
+group_1599-group_833-group_62	3.23E-02	1.95E-01	3.87E-01	-1.37E-01	1.58E-01	6.99E-02	bad-chisq
+group_1599-group_833-group_1140	2.65E-01	2.83E-03	5.29E-01	-5.24E-02	8.31E-02	5.10E-02	
+group_1675-group_845-group_2063	3.87E-02	1.39E-01	8.08E-01	4.93E-02	2.03E-01	1.96E-02	bad-chisq
+group_1675-group_845-group_2082	1.29E-02	3.99E-01	4.66E-01	2.49E-01	3.40E-01	5.90E-02	bad-chisq
+group_1675-group_846-group_2116	7.10E-02	2.17E-01	3.43E-01	-2.46E-01	2.58E-01	7.67E-02	bad-chisq
+group_1675-group_846-group_457	1.16E-01	2.31E-08	7.04E-02	3.38E-01	1.86E-01	1.46E-01	
+group_1682-deoD_2-rlmD_1~~~rlmD_2	1.55E-01	1.08E-01	7.15E-01	-6.43E-02	1.76E-01	2.96E-02	
+group_1682-deoD_2-group_1078	1.29E-02	4.17E-01	2.47E-01	-3.96E-01	3.41E-01	9.35E-02	bad-chisq
+group_1682-deoD_2-group_1093	7.35E-01	4.09E-01	2.06E-01	2.23E-01	1.75E-01	1.02E-01	
+group_1682-deoD_2-group_1132	1.29E-02	1.25E-02	1.85E-01	4.16E-01	3.12E-01	1.07E-01	bad-chisq
+group_1682-deoD_2-group_1273	8.39E-02	1.41E-01	1.83E-01	-2.98E-01	2.23E-01	1.08E-01	bad-chisq
+group_524-group_854-group_1709	3.23E-02	4.13E-01	7.70E-02	4.17E-01	2.34E-01	1.42E-01	bad-chisq
+group_1709-group_854-group_533	6.13E-01	1.48E-03	7.07E-01	3.88E-02	1.03E-01	3.05E-02	
+group_2077-group_855-group_1709	3.23E-02	4.13E-01	7.70E-02	4.17E-01	2.34E-01	1.42E-01	bad-chisq
+group_1709-group_855-group_401	6.06E-01	5.46E-04	6.87E-01	-4.02E-02	9.97E-02	3.26E-02	
+group_1747-group_857-group_1136	5.81E-02	1.52E-01	7.57E-01	6.64E-02	2.14E-01	2.51E-02	bad-chisq
+group_1050-group_857-group_1136	1.42E-01	4.08E-04	3.63E-01	1.76E-01	1.93E-01	7.36E-02	
+group_531-group_871-group_1761	2.58E-02	9.82E-01	8.88E-01	-3.30E-02	2.33E-01	1.14E-02	bad-chisq
+group_531-group_871-group_1139	6.45E-02	2.70E-01	2.74E-01	-2.41E-01	2.20E-01	8.84E-02	bad-chisq
+group_1113-group_871-group_1139	1.29E-02	3.99E-01	1.86E-01	3.86E-01	2.91E-01	1.07E-01	bad-chisq
+group_918-group_869-group_1164	1.48E-01	1.10E-04	5.04E-01	-1.06E-01	1.59E-01	5.40E-02	
+group_918-group_869-group_1228	5.16E-02	4.17E-01	5.78E-01	-1.89E-01	3.40E-01	4.50E-02	bad-chisq
+group_1155-group_869-group_1164	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1788-group_872-group_1140	5.35E-01	2.15E-05	8.70E-01	-1.88E-02	1.14E-01	1.33E-02	
+group_939-group_872-group_1140	5.81E-02	1.30E-04	8.90E-01	-2.70E-02	1.95E-01	1.12E-02	
+rpmG-group_874-cadC	9.87E-01	3.99E-01	9.12E-01	-3.67E-02	3.33E-01	8.93E-03	bad-chisq
+group_1806-group_881-group_864	6.19E-01	1.43E-06	8.92E-01	-1.62E-02	1.19E-01	1.10E-02	
+group_1806-group_881-group_1138	3.87E-02	6.48E-01	4.90E-02	-3.62E-01	1.83E-01	1.58E-01	bad-chisq
+ftsL-rsmH-proA	4.52E-02	5.20E-01	3.43E-01	-2.23E-01	2.34E-01	7.67E-02	bad-chisq
+ftsL-rsmH-group_991	7.55E-01	3.53E-06	7.59E-01	-5.53E-02	1.80E-01	2.49E-02	
+ftsL-rsmH-group_1799	1.74E-01	3.22E-07	3.72E-01	1.65E-01	1.84E-01	7.22E-02	
+group_1822-group_883-group_2176	4.06E-01	3.30E-04	6.08E-01	-3.85E-02	7.48E-02	4.16E-02	
+group_1822-group_883-group_1882	1.23E-01	8.00E-03	6.54E-02	-1.71E-01	9.22E-02	1.48E-01	bad-chisq
+group_1822-group_883-group_918	1.94E-02	3.19E-01	1.95E-01	-4.15E-01	3.19E-01	1.05E-01	bad-chisq
+group_1827-group_1476-group_1368	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+group_1827-group_1476-QRSL1	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+QRSL1-group_1476-prmA	3.87E-02	1.44E-02	2.83E-01	2.57E-01	2.39E-01	8.68E-02	bad-chisq
+menF-group_1476-prmA	2.58E-01	1.73E-01	4.89E-01	-1.27E-01	1.83E-01	5.60E-02	
+prmA-group_1476-group_1182	3.87E-02	6.48E-01	3.87E-01	-2.40E-01	2.77E-01	7.00E-02	bad-chisq
+group_1832-group_887-group_1267	1.94E-02	2.15E-03	7.22E-04	7.68E-01	2.23E-01	2.69E-01	bad-chisq
+group_1832-group_887-group_1268	7.10E-02	4.99E-02	8.82E-03	-4.64E-01	1.75E-01	2.10E-01	bad-chisq
+group_1832-group_887-group_1290	4.52E-02	5.20E-01	1.84E-01	-2.28E-01	1.71E-01	1.07E-01	bad-chisq
+group_2016-group_893-group_1144	1.94E-02	3.19E-01	1.95E-01	-4.15E-01	3.19E-01	1.05E-01	bad-chisq
+group_662-group_893-group_1144	3.23E-02	8.11E-01	7.60E-01	-5.69E-02	1.86E-01	2.48E-02	bad-chisq
+group_1846-group_891-group_2131	1.29E-02	1.25E-02	1.09E-01	5.55E-01	3.45E-01	1.29E-01	bad-chisq
+group_1846-group_891-group_2156	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_1846-group_891-group_61	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1859-group_897-group_1263	7.74E-02	4.60E-01	3.83E-01	1.07E-01	1.22E-01	7.06E-02	
+group_1859-group_897-group_1280	2.58E-02	3.77E-04	6.77E-01	9.16E-02	2.19E-01	3.37E-02	bad-chisq
+group_2020-group_897-group_1263	1.29E-02	1.25E-02	1.84E-04	8.98E-01	2.34E-01	2.96E-01	bad-chisq
+group_1263-group_897-group_1317	1.87E-01	3.44E-03	2.55E-01	-1.03E-01	8.97E-02	9.20E-02	bad-chisq
+group_1874-group_900-group_1464	1.29E-02	1.25E-02	1.87E-01	4.25E-01	3.21E-01	1.06E-01	bad-chisq
+group_1874-group_900-group_1156	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1464-group_900-sel26_2	1.35E-01	1.85E-04	5.09E-01	-1.14E-01	1.72E-01	5.34E-02	
+sel26_2-group_900-group_628	1.94E-02	3.19E-01	5.32E-01	-1.26E-01	2.01E-01	5.06E-02	bad-chisq
+group_1894-group_902-pyrDA	6.58E-01	4.33E-01	2.17E-01	1.00E-01	8.07E-02	9.98E-02	
+pyrDA-group_902-group_808	3.42E-01	4.33E-01	2.17E-01	-1.00E-01	8.07E-02	9.98E-02	
+group_1934-group_904-group_1205	2.58E-02	9.82E-01	1.89E-01	3.51E-01	2.66E-01	1.06E-01	bad-chisq
+group_1893-group_904-group_1205	6.06E-01	5.46E-04	6.87E-01	-4.02E-02	9.97E-02	3.26E-02	
+group_918-group_910-group_1149	1.94E-02	3.19E-01	1.95E-01	-4.15E-01	3.19E-01	1.05E-01	bad-chisq
+group_1150-group_910-group_1149	1.94E-02	3.19E-01	9.87E-02	-4.57E-01	2.75E-01	1.33E-01	bad-chisq
+group_1150-group_910-group_1341	1.94E-02	7.20E-01	2.66E-01	-3.14E-01	2.82E-01	8.99E-02	bad-chisq
+group_1907-group_913-group_1293	1.29E-02	4.17E-01	1.91E-01	-3.93E-01	2.99E-01	1.06E-01	bad-chisq
+group_1988-group_913-group_1467	2.45E-01	5.68E-01	2.90E-01	8.36E-02	7.88E-02	8.55E-02	
+group_1467-group_913-group_1293	7.10E-02	2.17E-01	2.47E-01	-1.57E-01	1.35E-01	9.35E-02	bad-chisq
+group_1965-group_918-group_869	1.55E-01	5.65E-01	9.22E-02	-3.07E-01	1.81E-01	1.36E-01	
+group_869-group_918-group_955	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_883-group_918-group_910	1.94E-02	3.19E-01	1.95E-01	-4.15E-01	3.19E-01	1.05E-01	bad-chisq
+group_2005-group_921-group_308	3.87E-02	1.55E-01	5.27E-02	-4.86E-01	2.49E-01	1.56E-01	bad-chisq
+group_2005-group_921-sel26_2	1.42E-01	4.08E-04	3.03E-01	-1.70E-01	1.64E-01	8.33E-02	
+group_1798-group_923-group_1303	1.87E-01	3.44E-03	9.79E-02	-1.42E-01	8.54E-02	1.33E-01	bad-chisq
+group_1263-group_923-group_1303	1.29E-02	1.25E-02	1.84E-04	8.98E-01	2.34E-01	2.96E-01	bad-chisq
+group_2026-group_926-group_1287	1.29E-02	3.99E-01	9.63E-01	1.62E-02	3.45E-01	3.79E-03	bad-chisq
+group_2026-group_926-lexA	6.45E-02	2.70E-01	2.74E-01	-2.41E-01	2.20E-01	8.84E-02	bad-chisq
+group_2049-group_927-group_1438	1.29E-02	3.99E-01	9.63E-01	1.62E-02	3.45E-01	3.79E-03	bad-chisq
+group_1998-group_927-group_2060	2.58E-02	2.48E-01	2.59E-02	-4.18E-01	1.86E-01	1.79E-01	bad-chisq
+group_2054-group_930-group_1141	1.03E-01	1.23E-02	3.74E-01	1.94E-01	2.18E-01	7.18E-02	
+group_2180-group_930-group_1141	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_2066-group_931-group_1594	1.29E-02	1.25E-02	1.09E-01	5.55E-01	3.45E-01	1.29E-01	bad-chisq
+group_2066-group_931-group_1405	7.74E-02	5.10E-01	2.80E-01	-2.00E-01	1.85E-01	8.73E-02	
+group_2072-group_933-group_1919	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_2072-group_933-group_1948	4.52E-02	7.99E-01	3.96E-01	1.21E-01	1.42E-01	6.87E-02	bad-chisq
+group_2072-group_933-group_564	7.10E-02	6.12E-01	7.88E-01	-3.68E-02	1.37E-01	2.17E-02	
+group_2070-group_941-group_1021	2.58E-02	9.82E-01	8.04E-02	-4.86E-01	2.76E-01	1.41E-01	bad-chisq
+group_463-group_941-group_1021	6.00E-01	1.88E-04	3.33E-01	-9.97E-02	1.03E-01	7.83E-02	
+group_872-group_939-group_940	5.16E-02	2.12E-05	8.49E-01	4.04E-02	2.12E-01	1.54E-02	bad-chisq
+group_1546-group_939-group_1269	6.45E-02	5.28E-02	1.41E-01	3.30E-01	2.23E-01	1.19E-01	bad-chisq
+group_609-group_940-group_939	5.16E-02	2.12E-05	6.35E-01	9.21E-02	1.94E-01	3.84E-02	bad-chisq
+group_609-group_940-group_1269	6.45E-02	2.70E-01	8.55E-01	-2.16E-02	1.18E-01	1.48E-02	bad-chisq
+group_1031-group_940-group_1269	1.29E-02	4.17E-01	1.91E-01	-3.93E-01	2.99E-01	1.06E-01	bad-chisq
+group_1312-group_943-group_2141	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_2141-group_943-group_513	9.68E-01	4.13E-01	6.57E-01	1.20E-01	2.71E-01	3.59E-02	bad-chisq
+group_2167-group_946-group_915	5.16E-02	4.17E-01	5.78E-01	-1.89E-01	3.40E-01	4.50E-02	bad-chisq
+group_2171-group_947-group_2033	1.29E-02	1.25E-02	1.10E-01	5.33E-01	3.32E-01	1.29E-01	bad-chisq
+group_2171-group_947-group_1356	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+group_2205-group_949-group_478	7.10E-02	2.17E-01	2.49E-01	-1.33E-01	1.15E-01	9.32E-02	bad-chisq
+group_478-group_949-group_1394	1.29E-02	1.25E-02	1.87E-01	4.25E-01	3.21E-01	1.06E-01	bad-chisq
+group_478-group_949-group_2052	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+group_588-group_949-group_959	1.94E-02	3.19E-01	1.04E-02	-7.23E-01	2.79E-01	2.05E-01	bad-chisq
+group_2186-group_949-group_2052	1.29E-02	1.25E-02	1.10E-01	5.33E-01	3.32E-01	1.29E-01	bad-chisq
+group_1533-group_949-group_959	3.23E-02	4.13E-01	8.30E-01	4.40E-02	2.04E-01	1.74E-02	bad-chisq
+group_1545-group_949-group_959	2.58E-02	9.82E-01	1.89E-01	3.51E-01	2.66E-01	1.06E-01	bad-chisq
+group_51-group_951-group_1895	1.29E-02	4.17E-01	2.47E-02	-7.70E-01	3.39E-01	1.80E-01	bad-chisq
+group_1895-group_951-group_600	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_1895-group_951-group_1153	3.35E-01	7.62E-03	5.99E-01	-4.22E-02	8.00E-02	4.26E-02	
+group_75-group_951-group_1153	1.29E-02	3.99E-01	4.66E-01	2.49E-01	3.40E-01	5.90E-02	bad-chisq
+group_953-group_951-group_1153	1.87E-01	1.44E-02	3.86E-01	-7.77E-02	8.93E-02	7.02E-02	
+group_56-group_953-group_57	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_56-group_953-group_64	1.94E-02	7.20E-01	4.61E-01	-2.14E-01	2.89E-01	5.97E-02	bad-chisq
+group_56-group_953-group_951	1.87E-01	1.44E-02	3.86E-01	-7.77E-02	8.93E-02	7.02E-02	
+group_56-group_953-group_961	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_56-group_953-group_1060	3.87E-02	6.48E-01	8.53E-01	3.70E-02	1.99E-01	1.50E-02	bad-chisq
+group_57-group_953-group_961	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_57-group_953-group_1060	3.23E-02	6.08E-02	2.82E-03	5.72E-01	1.88E-01	2.38E-01	bad-chisq
+group_961-group_953-group_1060	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_2126-group_954-group_62	1.94E-02	7.20E-01	9.33E-01	2.65E-02	3.17E-01	6.77E-03	bad-chisq
+group_62-group_954-group_1342	1.81E-01	8.64E-04	6.36E-02	-1.68E-01	8.97E-02	1.49E-01	bad-chisq
+group_1140-group_954-group_1342	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_1254-group_954-group_1342	1.29E-02	3.99E-01	7.68E-01	9.86E-02	3.34E-01	2.38E-02	bad-chisq
+group_62-group_955-group_1155	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_918-group_955-group_1149	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_64-group_956-group_1305	1.94E-02	7.20E-01	4.61E-01	-2.14E-01	2.89E-01	5.97E-02	bad-chisq
+group_961-group_956-group_1206	1.94E-02	3.19E-01	1.76E-01	-4.73E-01	3.47E-01	1.09E-01	bad-chisq
+group_961-group_956-group_1305	1.29E-02	1.25E-02	7.98E-01	6.89E-02	2.69E-01	2.07E-02	bad-chisq
+group_1061-group_956-group_1332	1.29E-02	4.17E-01	1.91E-01	-3.93E-01	2.99E-01	1.06E-01	bad-chisq
+group_1206-group_956-group_1332	5.81E-02	1.52E-01	2.14E-01	1.61E-01	1.29E-01	1.00E-01	bad-chisq
+group_66-group_957-group_479	1.61E-01	9.22E-03	1.65E-01	-1.28E-01	9.21E-02	1.12E-01	bad-chisq
+group_66-group_957-group_1060	1.94E-02	8.66E-02	6.06E-02	4.65E-01	2.46E-01	1.51E-01	bad-chisq
+group_58-group_959-group_949	3.23E-02	1.95E-01	5.18E-04	-7.56E-01	2.13E-01	2.76E-01	bad-chisq
+group_66-group_959-group_949	2.58E-02	2.30E-01	1.56E-01	3.14E-01	2.20E-01	1.15E-01	bad-chisq
+group_949-group_959-group_56	2.58E-02	9.82E-01	1.89E-01	3.51E-01	2.66E-01	1.06E-01	bad-chisq
+group_76-group_961-group_956	6.45E-02	6.46E-07	4.47E-01	2.17E-01	2.85E-01	6.15E-02	bad-chisq
+group_76-group_961-group_1173	2.58E-02	2.48E-01	2.59E-02	-4.18E-01	1.86E-01	1.79E-01	bad-chisq
+group_956-group_961-group_953	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_65-group_961-group_1173	1.94E-02	3.19E-01	1.04E-02	-7.23E-01	2.79E-01	2.05E-01	bad-chisq
+group_102-group_964-group_484	9.42E-01	2.57E-02	5.63E-01	-1.35E-01	2.34E-01	4.68E-02	bad-chisq
+group_102-group_964-group_965	5.16E-02	1.03E-02	2.81E-01	2.85E-01	2.64E-01	8.72E-02	bad-chisq
+group_485-group_965-group_964	3.23E-02	3.37E-03	1.40E-01	4.11E-01	2.77E-01	1.19E-01	bad-chisq
+group_535-group_965-group_964	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_109-group_972-group_1175	1.29E-02	4.17E-01	2.79E-01	-3.15E-01	2.90E-01	8.75E-02	bad-chisq
+group_109-group_972-group_1211	1.29E-02	4.17E-01	1.81E-01	-4.59E-01	3.42E-01	1.08E-01	bad-chisq
+pheS-pheT-group_628	9.81E-01	3.19E-01	5.32E-01	1.26E-01	2.01E-01	5.06E-02	bad-chisq
+pheS-pheT-group_388	1.94E-02	3.19E-01	5.32E-01	-1.26E-01	2.01E-01	5.06E-02	bad-chisq
+resA-msrB_1~~~msrB_2-group_388	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+resA-msrB_1~~~msrB_2-group_1156	9.74E-01	9.82E-01	1.68E-01	-3.61E-01	2.60E-01	1.11E-01	bad-chisq
+group_980-dcuS-dcuR	9.61E-01	6.48E-01	6.26E-01	1.76E-01	3.61E-01	3.94E-02	bad-chisq
+dcuR-dcuS-group_573	3.87E-02	6.48E-01	6.26E-01	-1.76E-01	3.61E-01	3.94E-02	bad-chisq
+group_1610-ugpE_2-group_195	8.39E-02	5.84E-01	6.26E-01	-1.05E-01	2.14E-01	3.95E-02	
+group_195-ugpE_2-group_758	9.16E-01	5.84E-01	6.26E-01	1.05E-01	2.14E-01	3.95E-02	
+group_201-group_982-group_1159	6.06E-01	4.15E-06	3.10E-01	-1.11E-01	1.09E-01	8.21E-02	
+group_1159-group_982-group_1160	1.10E-01	4.85E-01	1.14E-01	-2.50E-01	1.57E-01	1.27E-01	
+group_695-purK-purE	1.35E-01	6.42E-01	1.11E-01	-3.39E-01	2.12E-01	1.29E-01	
+group_233-purK-purE	1.16E-01	8.10E-01	5.70E-01	-1.11E-01	1.95E-01	4.59E-02	
+group_577-purK-purE	5.55E-01	2.47E-01	8.60E-02	1.52E-01	8.79E-02	1.38E-01	
+group_212-purK-purE	6.45E-02	9.64E-09	4.54E-02	5.73E-01	2.84E-01	1.61E-01	bad-chisq
+group_218-group_984-group_994	5.87E-01	4.15E-04	4.35E-01	-8.60E-02	1.10E-01	6.31E-02	
+group_218-group_984-group_1161	1.94E-02	8.66E-02	3.82E-01	2.80E-01	3.19E-01	7.07E-02	bad-chisq
+group_813-group_988-group_987	8.65E-01	1.37E-06	1.08E-01	-3.03E-01	1.87E-01	1.30E-01	
+group_1468-group_988-group_987	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+group_988-group_987-group_432	9.23E-01	1.50E-01	3.79E-01	-1.84E-01	2.09E-01	7.12E-02	
+group_432-group_987-group_813	7.74E-02	1.50E-01	3.79E-01	1.84E-01	2.09E-01	7.12E-02	
+group_254-ide-group_740	9.03E-01	6.69E-01	2.47E-01	2.14E-01	1.84E-01	9.36E-02	
+group_740-ide-group_797	3.87E-02	6.48E-01	1.29E-01	-3.37E-01	2.21E-01	1.22E-01	bad-chisq
+group_740-ide-group_1380	5.16E-02	4.17E-01	5.78E-01	-1.89E-01	3.40E-01	4.50E-02	bad-chisq
+lacC_1~~~lacC_2-lacB_1-lacA_1	9.61E-01	1.39E-01	8.32E-01	-4.65E-02	2.20E-01	1.71E-02	bad-chisq
+lacC_1-lacB_1-lacA_1	2.58E-02	2.30E-01	8.43E-01	5.33E-02	2.69E-01	1.60E-02	bad-chisq
+lacD_1~~~lacD_2-lacB_1-lacA_1	1.29E-02	3.99E-01	9.39E-01	2.59E-02	3.38E-01	6.18E-03	bad-chisq
+group_1622-group_999-cadC	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_319-group_999-cadC	9.61E-01	6.09E-01	8.26E-01	-5.07E-02	2.30E-01	1.78E-02	bad-chisq
+group_1585-group_999-cadC	1.29E-02	3.99E-01	7.61E-01	1.05E-01	3.43E-01	2.47E-02	bad-chisq
+group_1972-group_1004-srtA	1.10E-01	9.06E-02	7.22E-01	-8.36E-02	2.35E-01	2.88E-02	
+srtA-group_1004-group_503	7.55E-01	9.94E-12	2.90E-04	-5.71E-01	1.54E-01	2.87E-01	
+group_407-group_1009-group_864	6.19E-01	1.94E-07	2.45E-01	-1.39E-01	1.19E-01	9.39E-02	
+nudL-group_1011-xerC~~~xerC_1	3.23E-02	8.11E-01	7.68E-01	-7.63E-02	2.59E-01	2.39E-02	bad-chisq
+nudL-group_1011-group_296	9.55E-01	2.48E-01	5.27E-01	-1.33E-01	2.09E-01	5.12E-02	bad-chisq
+group_423-group_1012-group_557	2.26E-01	3.41E-07	4.22E-01	1.39E-01	1.73E-01	6.49E-02	
+group_423-group_1012-group_558	2.58E-02	2.30E-01	8.41E-01	5.36E-02	2.67E-01	1.62E-02	bad-chisq
+ybjI-group_1012-group_557	4.52E-02	7.99E-01	7.27E-01	1.03E-01	2.96E-01	2.82E-02	bad-chisq
+group_430-group_1016-group_2088	6.45E-02	2.70E-01	2.74E-01	-2.41E-01	2.20E-01	8.84E-02	bad-chisq
+group_2112-group_1016-group_433	1.29E-02	1.25E-02	1.09E-01	5.55E-01	3.45E-01	1.29E-01	bad-chisq
+group_2112-group_1016-group_1344	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_1264-group_1016-group_1344	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_1389-group_1017-group_1051	7.74E-02	9.68E-01	9.09E-01	1.66E-02	1.45E-01	9.23E-03	
+group_1389-group_1017-group_310	4.52E-02	7.99E-01	7.04E-01	1.11E-01	2.91E-01	3.07E-02	bad-chisq
+group_1389-group_1017-group_534	5.16E-02	3.81E-01	3.97E-01	2.13E-01	2.51E-01	6.85E-02	bad-chisq
+group_385-group_1017-group_1051	2.13E-01	9.67E-01	3.83E-01	-9.15E-02	1.05E-01	7.06E-02	
+group_1051-group_1017-group_310	4.52E-02	7.99E-01	7.04E-01	1.11E-01	2.91E-01	3.07E-02	bad-chisq
+group_1051-group_1017-group_534	4.52E-02	7.99E-01	7.04E-01	1.11E-01	2.91E-01	3.07E-02	bad-chisq
+group_310-group_1017-group_534	4.52E-02	7.99E-01	7.04E-01	1.11E-01	2.91E-01	3.07E-02	bad-chisq
+group_1902-group_1021-group_1166	9.03E-02	9.44E-02	9.24E-02	2.64E-01	1.56E-01	1.36E-01	
+group_941-group_1021-group_1166	6.26E-01	1.61E-04	1.27E-01	-1.48E-01	9.65E-02	1.23E-01	
+group_449-group_1022-group_1082	2.58E-02	9.82E-01	6.58E-01	-1.00E-01	2.26E-01	3.58E-02	bad-chisq
+group_451-group_1023-group_1329	4.52E-02	5.20E-01	1.72E-01	-3.47E-01	2.53E-01	1.10E-01	bad-chisq
+group_451-group_1024-kduD~~~idnO_2~~~ygcW	6.58E-01	3.06E-07	9.66E-02	-3.06E-01	1.83E-01	1.34E-01	
+kduD~~~idnO_2~~~ygcW-group_1024-group_1555	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+kduD~~~idnO_2~~~ygcW-group_1024-group_2150	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+kduD~~~idnO_2~~~ygcW-group_1024-group_169	5.81E-02	8.69E-01	5.05E-01	-1.83E-01	2.73E-01	5.39E-02	
+kduD~~~idnO_2~~~ygcW-group_1024-group_915	5.16E-02	4.17E-01	5.78E-01	-1.89E-01	3.40E-01	4.50E-02	bad-chisq
+kduD~~~idnO_2~~~ygcW-group_1024-group_1258	1.29E-02	3.99E-01	7.50E-01	1.03E-01	3.24E-01	2.58E-02	bad-chisq
+kduD~~~idnO_2~~~ygcW-group_1024-group_1262	9.03E-02	2.01E-02	2.54E-01	3.14E-01	2.74E-01	9.21E-02	
+kduD~~~idnO_2~~~ygcW-group_1024-group_1329	3.87E-02	1.44E-02	5.27E-01	1.42E-01	2.24E-01	5.12E-02	bad-chisq
+group_2022-group_1026-group_454	1.29E-02	1.25E-02	7.45E-02	6.09E-01	3.39E-01	1.44E-01	bad-chisq
+group_454-group_1026-group_234	1.23E-01	2.91E-05	6.06E-01	1.01E-01	1.96E-01	4.18E-02	
+group_2000-group_1026-group_234	1.94E-02	7.20E-01	4.61E-01	-2.14E-01	2.89E-01	5.97E-02	bad-chisq
+mccF-hisZ-group_1047	1.94E-01	1.69E-03	8.70E-01	-2.44E-02	1.49E-01	1.33E-02	
+group_558-hisZ-group_1047	6.97E-01	4.38E-08	9.75E-02	-3.19E-01	1.91E-01	1.34E-01	
+group_465-group_1029-group_1692	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_465-group_1029-group_1168	4.52E-01	7.53E-01	8.77E-02	1.24E-01	7.23E-02	1.38E-01	
+group_465-group_1029-group_1205	3.23E-02	8.11E-01	8.90E-02	-3.68E-01	2.15E-01	1.37E-01	bad-chisq
+group_476-group_1031-group_609	5.16E-02	3.46E-07	2.12E-01	2.66E-01	2.12E-01	1.01E-01	bad-chisq
+group_609-group_1031-group_1028	7.10E-02	6.12E-01	8.80E-01	1.72E-02	1.13E-01	1.23E-02	
+group_940-group_1031-group_1028	1.29E-02	4.17E-01	1.91E-01	-3.93E-01	2.99E-01	1.06E-01	bad-chisq
+group_495-group_1032-group_1579	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_495-group_1032-group_1522	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_495-group_1032-group_1617	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_495-group_1032-group_1623	2.58E-02	9.82E-01	6.09E-01	1.33E-01	2.59E-01	4.14E-02	bad-chisq
+group_495-group_1032-group_415	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+group_495-group_1032-group_595	1.29E-02	4.17E-01	3.44E-01	-2.70E-01	2.85E-01	7.66E-02	bad-chisq
+group_495-group_1032-group_1639	5.03E-01	3.27E-05	4.77E-01	-7.25E-02	1.02E-01	5.76E-02	
+group_495-group_1032-group_1633	1.94E-02	2.15E-03	6.86E-02	5.83E-01	3.18E-01	1.47E-01	bad-chisq
+group_495-group_1032-group_1652	1.94E-02	7.20E-01	6.70E-01	-1.68E-01	3.93E-01	3.45E-02	bad-chisq
+group_495-group_1032-group_782	5.81E-02	8.69E-01	7.75E-01	8.04E-02	2.80E-01	2.32E-02	
+group_495-group_1032-group_1169	1.10E-01	4.85E-01	7.05E-01	3.85E-02	1.02E-01	3.06E-02	
+group_500-vraD-vraE	2.58E-01	1.78E-06	4.29E-01	1.25E-01	1.57E-01	6.40E-02	
+vraE-vraD-msbA_2~~~btuD_1	7.29E-01	8.81E-07	3.94E-01	-1.32E-01	1.54E-01	6.90E-02	
+group_516-group_1037-group_2189	2.58E-02	2.48E-01	2.69E-01	-3.89E-01	3.50E-01	8.93E-02	bad-chisq
+group_516-group_1037-group_975	3.23E-02	4.13E-01	8.03E-01	-6.07E-02	2.43E-01	2.02E-02	bad-chisq
+group_520-group_1040-group_436	1.03E-01	1.83E-03	1.03E-01	3.77E-01	2.30E-01	1.32E-01	
+group_520-group_1040-group_536	5.87E-01	3.04E-06	7.49E-01	-7.63E-02	2.38E-01	2.59E-02	
+group_520-group_1040-group_1165	2.71E-01	1.21E-03	6.45E-01	-6.52E-02	1.41E-01	3.73E-02	
+mutL-mutS-group_625	1.94E-01	7.63E-03	6.22E-01	8.41E-02	1.70E-01	4.00E-02	
+mutL-mutS-argR_1	6.06E-01	6.17E-07	2.30E-01	-2.91E-01	2.41E-01	9.70E-02	
+group_625-mutS-group_1461	3.87E-02	6.48E-01	2.67E-01	-2.14E-01	1.93E-01	8.96E-02	bad-chisq
+group_625-mutS-group_626	2.58E-02	2.30E-01	7.64E-01	9.24E-02	3.08E-01	2.43E-02	bad-chisq
+argR_1-mutS-group_626	7.74E-02	2.31E-05	5.53E-01	1.57E-01	2.64E-01	4.80E-02	
+dinD-group_1044-mutL	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+mutL-group_1044-group_1198	9.68E-02	7.75E-04	7.77E-01	-5.09E-02	1.79E-01	2.29E-02	
+mutL-group_1044-group_1550	1.29E-02	3.99E-01	4.66E-01	2.49E-01	3.40E-01	5.90E-02	bad-chisq
+mutL-group_1044-group_1408	3.23E-02	6.08E-02	6.39E-01	9.47E-02	2.02E-01	3.80E-02	bad-chisq
+group_553-group_1045-group_580	6.32E-01	1.88E-03	3.91E-02	4.02E-01	1.93E-01	1.66E-01	
+group_553-group_1045-group_1057	1.35E-01	1.20E-01	8.59E-01	3.73E-02	2.10E-01	1.43E-02	
+group_554-group_1047-hisZ	8.71E-01	7.73E-05	3.92E-01	-1.34E-01	1.56E-01	6.92E-02	
+group_554-group_1047-group_1331	3.23E-02	6.65E-05	6.10E-01	1.10E-01	2.15E-01	4.13E-02	bad-chisq
+hisZ-group_1047-ybjI	2.58E-02	2.30E-01	7.71E-01	7.81E-02	2.68E-01	2.35E-02	bad-chisq
+group_385-group_1051-group_1017	4.52E-02	7.99E-01	7.04E-01	1.11E-01	2.91E-01	3.07E-02	bad-chisq
+group_385-group_1051-group_310	4.52E-02	7.99E-01	7.04E-01	1.11E-01	2.91E-01	3.07E-02	bad-chisq
+group_385-group_1051-group_534	4.52E-02	7.99E-01	7.04E-01	1.11E-01	2.91E-01	3.07E-02	bad-chisq
+group_198-group_1051-group_794	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_198-group_1051-group_1017	8.39E-02	5.84E-01	1.95E-02	-4.56E-01	1.93E-01	1.87E-01	
+group_559-group_1051-group_1017	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1017-group_1051-group_310	5.81E-02	8.69E-01	8.35E-01	-4.25E-02	2.04E-01	1.69E-02	
+group_1017-group_1051-group_534	6.45E-02	6.77E-01	7.96E-01	4.93E-02	1.90E-01	2.09E-02	
+group_310-group_1051-group_534	5.16E-02	9.74E-01	9.40E-01	-1.92E-02	2.53E-01	6.14E-03	
+group_562-group_1050-group_857	6.45E-02	9.64E-09	4.35E-02	6.43E-01	3.16E-01	1.62E-01	bad-chisq
+group_857-group_1050-group_457	7.74E-02	5.10E-01	7.22E-01	-8.08E-02	2.27E-01	2.88E-02	
+group_457-group_1050-group_1747	4.52E-02	2.48E-01	8.88E-01	-2.86E-02	2.03E-01	1.14E-02	bad-chisq
+group_1747-group_1050-group_2160	1.29E-02	3.99E-01	4.66E-01	2.49E-01	3.40E-01	5.90E-02	bad-chisq
+slo-group_1053-group_1964	7.29E-01	6.91E-06	3.08E-01	-1.96E-01	1.91E-01	8.25E-02	
+slo-group_1053-group_1175	2.13E-01	3.09E-04	9.39E-01	1.24E-02	1.61E-01	6.24E-03	
+group_553-group_1057-group_585	2.58E-02	2.48E-01	2.69E-01	-3.89E-01	3.50E-01	8.93E-02	bad-chisq
+group_585-group_1057-group_1045	1.35E-01	1.20E-01	8.59E-01	3.73E-02	2.10E-01	1.43E-02	
+group_585-group_1057-group_580	8.00E-01	1.12E-01	8.46E-01	3.37E-02	1.73E-01	1.58E-02	
+group_585-group_1057-group_1823	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_2192-group_1058-group_588	2.58E-02	9.82E-01	2.47E-01	-3.68E-01	3.17E-01	9.35E-02	bad-chisq
+group_592-copY-group_1109	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_592-copY-group_635	1.94E-01	7.63E-03	6.30E-01	-8.30E-02	1.72E-01	3.90E-02	
+group_592-copY-group_1069	7.94E-01	1.74E-02	4.04E-01	1.38E-01	1.64E-01	6.75E-02	
+group_1941-group_1059-group_825	7.10E-02	2.17E-01	3.43E-01	-2.46E-01	2.58E-01	7.67E-02	bad-chisq
+group_1941-group_1059-group_827	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_825-group_1059-group_1171	1.94E-02	7.20E-01	6.70E-01	-1.68E-01	3.93E-01	3.45E-02	bad-chisq
+group_827-group_1059-group_1171	9.03E-02	2.39E-08	7.87E-02	3.53E-01	1.99E-01	1.42E-01	
+group_600-group_1060-group_957	1.94E-02	8.66E-02	6.06E-02	4.65E-01	2.46E-01	1.51E-01	bad-chisq
+group_600-group_1060-group_953	5.16E-02	8.53E-02	1.12E-03	4.95E-01	1.49E-01	2.59E-01	bad-chisq
+group_600-group_1060-group_58	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_600-group_1061-group_1832	2.58E-02	9.82E-01	4.32E-01	1.90E-01	2.41E-01	6.35E-02	bad-chisq
+group_600-group_1061-group_1206	1.29E-02	1.25E-02	1.84E-04	8.98E-01	2.34E-01	2.96E-01	bad-chisq
+group_600-group_1061-group_1285	3.23E-02	1.95E-01	4.41E-01	-1.33E-01	1.72E-01	6.23E-02	bad-chisq
+group_1832-group_1061-group_51	5.16E-02	4.17E-01	5.78E-01	-1.89E-01	3.40E-01	4.50E-02	bad-chisq
+group_1832-group_1061-group_1173	2.58E-02	2.30E-01	1.35E-01	3.02E-01	2.01E-01	1.21E-01	bad-chisq
+group_51-group_1061-group_1173	1.29E-02	4.17E-01	2.47E-02	-7.70E-01	3.39E-01	1.80E-01	bad-chisq
+group_1173-group_1061-group_1238	1.29E-02	4.17E-01	7.08E-01	-9.22E-02	2.46E-01	3.03E-02	bad-chisq
+group_1173-group_1061-group_1285	1.74E-01	2.30E-02	1.34E-01	-1.31E-01	8.68E-02	1.21E-01	
+group_617-group_1066-group_908	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_617-group_1066-group_1271	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1629-group_1069-rbfA	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+rbfA-group_1069-copY	7.94E-01	1.74E-02	4.04E-01	1.38E-01	1.64E-01	6.75E-02	
+group_637-group_1077-group_1985	9.29E-01	9.40E-02	4.44E-01	-1.75E-01	2.27E-01	6.20E-02	
+group_637-group_1077-group_2181	2.58E-02	2.48E-01	2.69E-01	-3.89E-01	3.50E-01	8.93E-02	bad-chisq
+group_637-topA-dprA	9.48E-01	6.53E-04	4.09E-02	-4.81E-01	2.33E-01	1.64E-01	
+dprA-topA-trmFO	4.52E-02	3.15E-03	7.35E-02	4.89E-01	2.71E-01	1.44E-01	bad-chisq
+group_648-group_1078-deoD_2	1.29E-02	4.17E-01	2.47E-01	-3.96E-01	3.41E-01	9.35E-02	bad-chisq
+group_648-group_1078-group_1093	1.94E-02	3.19E-01	7.45E-02	-4.31E-01	2.40E-01	1.44E-01	bad-chisq
+group_662-group_1083-group_1179	4.52E-02	1.23E-01	1.34E-02	-4.64E-01	1.85E-01	1.98E-01	bad-chisq
+group_2068-uvrB_2-group_665	1.94E-02	3.19E-01	1.04E-02	-7.23E-01	2.79E-01	2.05E-01	bad-chisq
+group_665-uvrB_2-group_1448	2.13E-01	1.59E-01	5.14E-01	5.35E-02	8.17E-02	5.28E-02	
+group_665-group_1082-group_1022	2.58E-02	9.82E-01	6.58E-01	-1.00E-01	2.26E-01	3.58E-02	bad-chisq
+group_665-group_1082-group_1655	2.06E-01	7.61E-02	9.32E-01	6.91E-03	8.11E-02	6.88E-03	
+garK-group_1758-group_672	2.65E-01	2.54E-05	6.23E-01	9.07E-02	1.84E-01	3.98E-02	
+garK-group_1758-group_669	7.35E-01	2.54E-05	6.23E-01	-9.07E-02	1.84E-01	3.98E-02	
+group_674-group_1085-group_1988	2.52E-01	8.09E-01	1.46E-01	1.13E-01	7.73E-02	1.17E-01	
+group_674-group_1085-group_1293	8.39E-02	1.41E-01	9.72E-02	-2.13E-01	1.27E-01	1.34E-01	bad-chisq
+rlmD_1~~~rlmD_2-group_1093-deoD_2	7.10E-01	4.18E-01	1.86E-01	1.89E-01	1.42E-01	1.07E-01	
+deoD_2-group_1093-group_1078	1.94E-02	3.19E-01	7.45E-02	-4.31E-01	2.40E-01	1.44E-01	bad-chisq
+group_376-group_1095-group_699	3.87E-02	1.55E-01	6.30E-02	-4.69E-01	2.51E-01	1.50E-01	bad-chisq
+group_699-group_1095-group_762	1.42E-01	4.08E-04	3.03E-01	-1.70E-01	1.64E-01	8.33E-02	
+pabA-menF-group_1476	2.58E-01	1.73E-01	4.89E-01	-1.27E-01	1.83E-01	5.60E-02	
+pabA-menF-QRSL1	5.16E-02	1.03E-02	3.11E-01	2.18E-01	2.15E-01	8.18E-02	bad-chisq
+pabA-menF-group_1966	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+pabA-menF-group_1182	6.32E-01	4.56E-07	2.56E-01	-2.49E-01	2.18E-01	9.19E-02	
+pabA-group_1096-group_766	9.35E-01	7.00E-03	2.26E-01	-2.33E-01	1.92E-01	9.79E-02	
+pabA-group_1096-seq~~~seq_1~~~seq_3~~~seq_2	5.81E-02	2.57E-02	4.22E-01	1.57E-01	1.95E-01	6.50E-02	bad-chisq
+rlmH_2~~~rlmH_1~~~rlmH-group_1097-group_383	1.29E-02	4.17E-01	2.47E-02	-7.70E-01	3.39E-01	1.80E-01	bad-chisq
+rlmH_2~~~rlmH_1~~~rlmH-group_1097-rplU	1.29E-02	4.17E-01	2.47E-02	-7.70E-01	3.39E-01	1.80E-01	bad-chisq
+rlmH_2~~~rlmH_1~~~rlmH-group_1097-group_664	1.55E-01	1.08E-01	8.04E-01	-4.92E-02	1.98E-01	2.01E-02	
+group_383-group_1097-rplU	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_994-group_1097-group_218	1.94E-02	2.15E-03	1.08E-01	5.03E-01	3.11E-01	1.30E-01	bad-chisq
+group_218-group_1097-group_1161	1.94E-02	8.66E-02	4.03E-03	5.70E-01	1.95E-01	2.30E-01	bad-chisq
+group_664-group_1097-group_1161	6.32E-01	4.32E-11	1.05E-06	-5.32E-01	1.05E-01	3.80E-01	
+group_610-group_1098-atoE_2~~~atoE_1~~~atoE	8.39E-02	5.81E-02	5.97E-01	1.53E-01	2.88E-01	4.28E-02	
+group_711-group_1098-atoE_2~~~atoE_1~~~atoE	3.87E-02	1.44E-02	2.62E-01	3.06E-01	2.73E-01	9.06E-02	bad-chisq
+atoE_2~~~atoE_1~~~atoE-group_1098-group_1183	8.19E-01	1.27E-02	5.93E-01	-9.05E-02	1.69E-01	4.33E-02	
+atoE_2~~~atoE_1~~~atoE-group_1098-group_1184	5.16E-02	9.74E-01	8.86E-01	-3.16E-02	2.20E-01	1.16E-02	
+group_722-group_1099-group_928	6.58E-01	3.92E-04	6.13E-01	-4.42E-02	8.72E-02	4.10E-02	
+group_722-group_1099-group_1065	1.29E-02	1.25E-02	2.29E-02	6.93E-01	3.02E-01	1.83E-01	bad-chisq
+group_1065-group_1099-group_1854	3.23E-02	4.13E-01	7.80E-01	-8.90E-02	3.18E-01	2.26E-02	bad-chisq
+group_175-group_1104-group_738	9.68E-02	3.92E-09	4.94E-02	4.57E-01	2.31E-01	1.58E-01	
+group_738-group_1104-group_1048	7.55E-01	3.95E-07	3.44E-01	-1.41E-01	1.49E-01	7.65E-02	
+group_753-prmA-group_1476	9.29E-01	1.09E-07	2.02E-01	-3.62E-01	2.82E-01	1.03E-01	bad-chisq
+group_753-prmA-group_530	7.10E-02	1.09E-07	2.02E-01	3.62E-01	2.82E-01	1.03E-01	bad-chisq
+group_545-scpA-group_1187	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_1187-scpA-ennX_2~~~ennX~~~arp4~~~ennX_1	2.06E-01	9.65E-04	9.44E-01	-7.86E-03	1.12E-01	5.68E-03	
+group_1187-scpA-smc_1~~~emm5~~~smc_2~~~emm6~~~arp4~~~smc_3	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_1745-ybaK-thiT	2.58E-02	2.48E-01	2.69E-01	-3.89E-01	3.50E-01	8.93E-02	bad-chisq
+thiT-ybaK-gpmB	9.74E-01	2.48E-01	2.69E-01	3.89E-01	3.50E-01	8.93E-02	bad-chisq
+proA-group_1799-rsmH	1.74E-01	3.22E-07	3.72E-01	1.65E-01	1.84E-01	7.22E-02	
+proA-group_1799-group_991	7.61E-01	1.37E-05	9.60E-01	8.80E-03	1.77E-01	4.02E-03	
+group_82-group_1108-group_776	2.58E-02	2.30E-01	2.22E-02	5.13E-01	2.22E-01	1.84E-01	bad-chisq
+group_776-group_1108-group_308	6.45E-02	2.39E-01	3.30E-01	1.25E-01	1.28E-01	7.87E-02	
+group_308-group_1108-group_808	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_308-group_1108-group_1276	3.87E-02	1.55E-01	5.27E-02	-4.86E-01	2.49E-01	1.56E-01	bad-chisq
+xerS-group_1120-group_1985	1.29E-02	4.17E-01	7.23E-01	-8.71E-02	2.45E-01	2.87E-02	bad-chisq
+group_1985-group_1120-group_548	9.42E-01	2.57E-02	3.54E-01	-1.70E-01	1.82E-01	7.49E-02	bad-chisq
+group_871-group_1113-group_1279	1.29E-02	3.99E-01	1.86E-01	3.86E-01	2.91E-01	1.07E-01	bad-chisq
+group_1920-group_1113-group_1279	6.00E-01	1.07E-06	2.37E-02	-2.24E-01	9.79E-02	1.82E-01	
+group_1227-group_1115-group_1189	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_626-group_1115-group_1189	1.10E-01	4.46E-05	7.19E-01	6.70E-02	1.86E-01	2.92E-02	
+group_1461-group_1115-group_1189	6.45E-02	7.31E-01	6.36E-01	-9.93E-02	2.10E-01	3.83E-02	
+group_1189-group_1115-group_1190	1.29E-02	3.99E-01	7.21E-01	1.23E-01	3.45E-01	2.89E-02	bad-chisq
+group_834-group_1121-group_1228	1.94E-02	3.19E-01	2.66E-01	-2.96E-01	2.65E-01	8.99E-02	bad-chisq
+group_834-group_1121-group_1339	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_1715-group_1122-group_1917	9.68E-02	4.04E-01	3.09E-02	-4.80E-01	2.20E-01	1.73E-01	
+group_1715-group_1122-group_398	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_812-group_1122-group_63	1.10E-01	1.95E-01	7.40E-01	3.19E-02	9.60E-02	2.68E-02	
+group_812-group_1122-group_1192	1.94E-02	3.19E-01	1.17E-01	-4.46E-01	2.82E-01	1.27E-01	bad-chisq
+group_2193-group_1122-group_63	1.61E-01	1.12E-01	6.84E-01	3.42E-02	8.37E-02	3.30E-02	
+group_1723-noc-group_1637	2.58E-02	2.48E-01	7.72E-03	-6.52E-01	2.41E-01	2.13E-01	bad-chisq
+group_1723-noc-group_1122	1.94E-02	8.66E-02	3.08E-02	5.04E-01	2.31E-01	1.74E-01	bad-chisq
+group_1637-noc-group_1582	2.19E-01	5.04E-02	6.07E-01	-4.30E-02	8.35E-02	4.16E-02	
+group_1582-noc-group_1274	1.29E-02	1.25E-02	1.84E-04	8.98E-01	2.34E-01	2.96E-01	bad-chisq
+group_2155-group_1130-group_1160	5.81E-02	1.52E-01	9.43E-01	1.39E-02	1.93E-01	5.82E-03	bad-chisq
+group_1902-group_1130-group_1160	2.58E-02	9.82E-01	1.89E-01	3.51E-01	2.66E-01	1.06E-01	bad-chisq
+group_2070-group_1130-group_1160	6.32E-01	4.74E-04	4.26E-01	-7.97E-02	9.99E-02	6.44E-02	
+group_241-group_1135-group_856	1.29E-02	1.25E-02	7.45E-02	6.09E-01	3.39E-01	1.44E-01	bad-chisq
+group_726-group_1135-group_856	1.94E-02	7.20E-01	4.61E-01	-2.14E-01	2.89E-01	5.97E-02	bad-chisq
+group_856-group_1135-group_1305	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_863-group_1138-group_881	3.87E-02	6.48E-01	4.90E-02	-3.62E-01	1.83E-01	1.58E-01	bad-chisq
+group_871-group_1139-group_1940	7.74E-02	5.10E-01	9.32E-01	-1.65E-02	1.94E-01	6.90E-03	
+group_1920-group_1139-group_862	3.23E-02	8.11E-01	8.90E-02	-3.68E-01	2.15E-01	1.37E-01	bad-chisq
+group_1920-group_1139-group_1940	5.74E-01	1.29E-06	7.00E-02	-2.09E-01	1.14E-01	1.46E-01	
+group_872-group_1140-group_833	2.65E-01	2.83E-03	5.29E-01	-5.24E-02	8.31E-02	5.10E-02	
+group_872-group_1140-group_954	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_874-cadC-group_999	9.87E-01	3.99E-01	9.12E-01	-3.67E-02	3.33E-01	8.93E-03	bad-chisq
+group_910-group_1149-group_1281	1.94E-02	3.19E-01	1.95E-01	-4.15E-01	3.19E-01	1.05E-01	bad-chisq
+group_910-group_1149-group_1338	1.29E-02	4.17E-01	5.72E-01	-1.79E-01	3.16E-01	4.58E-02	bad-chisq
+group_1705-group_1149-group_955	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_945-group_1154-group_1572	1.23E-01	4.45E-01	2.35E-02	-4.15E-01	1.81E-01	1.82E-01	
+group_1572-group_1154-group_1753	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_1572-group_1154-group_1240	2.58E-02	9.82E-01	1.68E-01	3.61E-01	2.60E-01	1.11E-01	bad-chisq
+group_896-group_1153-group_1206	1.29E-02	3.99E-01	7.68E-01	9.86E-02	3.34E-01	2.38E-02	bad-chisq
+group_896-group_1153-group_1305	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_951-group_1153-group_1206	5.35E-01	2.15E-05	2.22E-01	-1.05E-01	8.60E-02	9.87E-02	
+group_1206-group_1153-group_1283	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_1755-group_1155-group_955	1.29E-02	3.99E-01	7.74E-02	4.68E-01	2.63E-01	1.42E-01	bad-chisq
+group_955-group_1155-group_869	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+msrB_1~~~msrB_2-group_1156-group_977	9.74E-01	9.82E-01	1.68E-01	-3.61E-01	2.60E-01	1.11E-01	bad-chisq
+group_977-group_1156-group_900	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1181-ennX_1~~~emm5~~~ennX_2~~~ennX-arp4	2.65E-01	3.27E-03	7.10E-01	-6.19E-02	1.66E-01	3.01E-02	
+group_1181-ennX_1~~~emm5~~~ennX_2~~~ennX-smc_1~~~emm5~~~smc_2~~~emm6~~~arp4~~~smc_3	5.16E-02	1.03E-02	3.25E-01	2.11E-01	2.14E-01	7.96E-02	bad-chisq
+group_1048-group_1157-group_174	2.65E-01	8.63E-02	6.23E-01	-3.51E-02	7.12E-02	3.98E-02	
+vraD-msbA_2~~~btuD_1-salA	7.29E-01	8.81E-07	3.94E-01	-1.32E-01	1.54E-01	6.90E-02	
+salA-msbA_2~~~btuD_1-group_500	2.52E-01	7.07E-06	5.08E-01	9.62E-02	1.45E-01	5.35E-02	
+group_982-group_1159-group_673	6.71E-01	8.37E-09	1.32E-02	-2.56E-01	1.02E-01	1.99E-01	
+group_982-group_1159-group_1208	3.87E-02	6.09E-01	8.70E-01	-3.08E-02	1.88E-01	1.32E-02	bad-chisq
+group_2091-group_1160-group_982	6.45E-02	2.70E-01	2.74E-01	-2.41E-01	2.20E-01	8.84E-02	bad-chisq
+group_982-group_1160-group_1130	3.87E-02	6.09E-01	5.59E-01	-1.35E-01	2.30E-01	4.73E-02	bad-chisq
+group_671-group_1160-group_1130	6.71E-01	7.34E-04	8.05E-01	-2.29E-02	9.29E-02	2.00E-02	
+group_984-group_1161-group_994	1.94E-02	8.66E-02	3.82E-01	2.80E-01	3.19E-01	7.07E-02	bad-chisq
+group_664-group_1161-rlmH_2~~~rlmH_1~~~rlmH	8.39E-02	1.02E-02	6.58E-01	-6.88E-02	1.55E-01	3.58E-02	
+rlmH_2~~~rlmH_1~~~rlmH-group_1161-group_1097	6.71E-01	8.17E-08	3.58E-01	-1.91E-01	2.07E-01	7.44E-02	
+group_1755-group_1164-ssb_2~~~ssb_3~~~ssb_1	2.58E-02	9.82E-01	1.68E-01	3.61E-01	2.60E-01	1.11E-01	bad-chisq
+ssb_2~~~ssb_3~~~ssb_1-group_1164-group_869	1.74E-01	2.80E-04	3.53E-01	-1.36E-01	1.46E-01	7.51E-02	
+group_1018-group_1165-group_1040	2.65E-01	3.27E-03	4.62E-01	-1.01E-01	1.37E-01	5.95E-02	
+group_1018-group_1165-group_536	4.52E-01	7.21E-03	1.15E-01	1.29E-01	8.12E-02	1.27E-01	
+group_1021-group_1166-group_1892	6.00E-01	1.88E-04	3.33E-01	-9.97E-02	1.03E-01	7.83E-02	
+group_1021-group_1166-group_629	1.03E-01	5.08E-01	5.93E-01	-8.21E-02	1.53E-01	4.33E-02	
+group_52-group_1168-group_1029	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_1029-group_1168-group_1230	5.81E-01	1.40E-04	9.99E-01	7.49E-05	1.19E-01	5.08E-05	
+group_1032-group_1169-group_1639	9.03E-02	3.51E-01	6.05E-01	5.44E-02	1.05E-01	4.18E-02	
+group_1032-group_1169-group_1202	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_961-group_1173-group_1061	4.52E-02	1.23E-01	9.52E-04	-5.12E-01	1.52E-01	2.63E-01	bad-chisq
+group_1061-group_1173-group_479	2.19E-01	1.32E-01	5.30E-01	-5.08E-02	8.07E-02	5.08E-02	
+slo-group_1175-group_1211	4.52E-02	3.15E-03	9.92E-02	4.08E-01	2.46E-01	1.33E-01	bad-chisq
+group_1053-group_1175-group_972	1.29E-02	4.17E-01	2.79E-01	-3.15E-01	2.90E-01	8.75E-02	bad-chisq
+group_1053-group_1175-group_1211	1.81E-01	7.87E-05	5.73E-01	8.00E-02	1.42E-01	4.56E-02	
+group_1083-group_1179-group_1216	3.87E-02	1.55E-01	5.69E-03	-6.18E-01	2.20E-01	2.21E-01	bad-chisq
+group_1094-group_1181-ennX_1~~~emm5~~~ennX_2~~~ennX	3.23E-01	9.98E-05	9.59E-01	1.14E-02	2.22E-01	4.14E-03	
+group_1094-group_1181-smc_1~~~emm5~~~smc_2~~~emm6~~~arp4~~~smc_3	6.58E-01	3.92E-04	7.07E-01	5.63E-02	1.50E-01	3.04E-02	
+group_1476-group_1182-menF	3.87E-02	6.48E-01	3.87E-01	-2.40E-01	2.77E-01	7.00E-02	bad-chisq
+menF-group_1182-group_207	3.87E-02	1.55E-01	3.46E-01	-1.37E-01	1.45E-01	7.63E-02	bad-chisq
+menF-group_1182-group_505	3.23E-01	1.24E-02	9.70E-01	2.79E-03	7.44E-02	3.04E-03	
+group_1125-group_1186-group_1289	5.61E-01	5.29E-07	5.72E-03	-2.38E-01	8.49E-02	2.21E-01	
+group_936-group_1189-group_1115	1.29E-02	3.99E-01	9.67E-01	-1.43E-02	3.45E-01	3.35E-03	bad-chisq
+group_1115-group_1189-group_1568	1.94E-01	3.03E-04	4.98E-01	1.11E-01	1.63E-01	5.49E-02	
+group_2088-group_1191-group_430	1.29E-02	3.99E-01	8.79E-01	5.09E-02	3.34E-01	1.23E-02	bad-chisq
+group_1344-group_1191-group_1350	1.94E-02	3.19E-01	1.39E-01	-4.14E-01	2.78E-01	1.20E-01	bad-chisq
+group_1119-arp4-ennX_1~~~emm5~~~ennX_2~~~ennX	3.87E-02	6.09E-01	6.72E-01	-9.75E-02	2.30E-01	3.43E-02	bad-chisq
+ennX_1~~~emm5~~~ennX_2~~~ennX-arp4-ennX_2~~~ennX~~~arp4~~~ennX_1	2.19E-01	2.64E-03	8.93E-01	2.08E-02	1.54E-01	1.09E-02	
+group_1122-group_1192-group_72	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_1122-group_1192-group_71	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_72-group_1192-group_1637	1.87E-01	6.64E-04	2.27E-02	-1.98E-01	8.60E-02	1.83E-01	bad-chisq
+group_72-group_1192-group_1297	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_1127-IntTn-group_728	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1127-IntTn-btuD_2	1.94E-02	3.19E-01	2.45E-02	-6.18E-01	2.72E-01	1.81E-01	bad-chisq
+group_2182-group_1196-group_1273	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1273-group_1196-group_1300	5.16E-02	4.17E-01	5.78E-01	-1.89E-01	3.40E-01	4.50E-02	bad-chisq
+group_1273-group_1196-group_1348	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1139-group_1940-group_1757	1.94E-02	3.19E-01	1.35E-02	-5.52E-01	2.21E-01	1.98E-01	bad-chisq
+group_1139-group_1940-group_407	6.26E-01	1.05E-07	1.56E-01	-1.65E-01	1.16E-01	1.15E-01	
+group_1150-group_1201-group_312	1.29E-02	1.25E-02	1.09E-01	5.55E-01	3.45E-01	1.29E-01	bad-chisq
+group_1150-group_1201-group_1228	3.87E-02	1.55E-01	9.66E-03	-5.03E-01	1.92E-01	2.07E-01	bad-chisq
+group_617-group_1202-group_1169	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_1621-group_1202-group_1284	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+group_1639-group_1202-group_1284	5.94E-01	1.82E-06	5.00E-01	-2.20E-01	3.25E-01	5.45E-02	
+group_1271-group_1202-group_1284	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1008-group_1207-group_1151	1.29E-02	1.25E-02	1.10E-01	5.33E-01	3.32E-01	1.29E-01	bad-chisq
+group_1151-group_1207-group_1990	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+group_1029-group_1205-group_1152	3.23E-02	8.11E-01	8.90E-02	-3.68E-01	2.15E-01	1.37E-01	bad-chisq
+group_1152-group_1205-group_904	6.32E-01	4.74E-04	9.35E-01	7.70E-03	9.41E-02	6.62E-03	
+group_1153-group_1206-group_1238	4.77E-01	5.66E-06	4.28E-02	-1.59E-01	7.81E-02	1.63E-01	
+group_1153-group_1206-group_1285	3.87E-02	1.39E-01	2.81E-01	1.92E-01	1.77E-01	8.71E-02	bad-chisq
+group_1061-group_1206-group_1238	1.29E-02	1.25E-02	1.84E-04	8.98E-01	2.34E-01	2.96E-01	bad-chisq
+group_956-group_1206-group_1238	7.10E-02	3.43E-01	3.64E-01	1.14E-01	1.26E-01	7.34E-02	
+group_1159-group_1208-group_1291	3.23E-02	8.11E-01	8.90E-02	-3.68E-01	2.15E-01	1.37E-01	bad-chisq
+group_1170-group_1209-group_2030	3.87E-02	6.48E-01	3.86E-01	-1.38E-01	1.58E-01	7.00E-02	bad-chisq
+group_1170-group_1209-group_52	5.16E-02	9.74E-01	5.65E-01	7.87E-02	1.37E-01	4.66E-02	
+group_1170-group_1209-group_1230	4.52E-02	5.20E-01	6.41E-01	-7.63E-02	1.63E-01	3.77E-02	bad-chisq
+group_1171-group_1210-group_1136	1.03E-01	7.16E-07	2.63E-01	2.27E-01	2.02E-01	9.05E-02	
+group_446-group_1210-group_1136	9.03E-02	7.78E-01	7.60E-01	-6.38E-02	2.09E-01	2.47E-02	
+group_1175-group_1211-group_969	2.58E-02	1.74E-02	1.92E-01	3.54E-01	2.70E-01	1.05E-01	bad-chisq
+group_1175-group_1211-group_109	2.58E-02	1.74E-02	2.87E-01	2.52E-01	2.36E-01	8.60E-02	bad-chisq
+group_1175-group_1211-group_1866	3.23E-02	8.11E-01	6.18E-01	1.14E-01	2.27E-01	4.03E-02	bad-chisq
+group_1175-group_1211-group_1881	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1175-group_1211-group_966	6.45E-02	9.64E-09	4.64E-02	5.66E-01	2.82E-01	1.60E-01	bad-chisq
+group_1175-group_1211-group_967	2.58E-02	9.82E-01	6.23E-01	-1.38E-01	2.79E-01	3.98E-02	bad-chisq
+group_1175-group_1211-group_972	1.29E-02	4.17E-01	1.81E-01	-4.59E-01	3.42E-01	1.08E-01	bad-chisq
+group_1964-group_1211-group_109	7.29E-01	6.91E-06	3.08E-01	-1.96E-01	1.91E-01	8.25E-02	
+ecfT_2~~~ecfT_1-group_1215-group_2206	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1179-group_1216-group_1974	4.52E-02	5.20E-01	3.54E-01	-1.79E-01	1.92E-01	7.50E-02	bad-chisq
+group_1180-topB~~~dnaI_2~~~dnaI_1-group_1962	5.16E-02	4.17E-01	3.39E-01	-1.61E-01	1.68E-01	7.73E-02	bad-chisq
+arp4-ennX_2~~~ennX~~~arp4~~~ennX_1-scpA	1.74E-01	8.08E-03	2.29E-01	-1.62E-01	1.34E-01	9.72E-02	
+scpA-ennX_2~~~ennX~~~arp4~~~ennX_1-group_1119	1.94E-02	7.20E-01	8.29E-01	5.47E-02	2.53E-01	1.75E-02	bad-chisq
+scpA-ennX_2~~~ennX~~~arp4~~~ennX_1-smc_1~~~emm5~~~smc_2~~~emm6~~~arp4~~~smc_3	3.87E-02	6.36E-04	1.92E-02	4.89E-01	2.07E-01	1.88E-01	bad-chisq
+group_1200-group_1224-group_1828	3.87E-02	6.09E-01	5.59E-01	-1.35E-01	2.30E-01	4.73E-02	bad-chisq
+group_1121-group_1228-group_1201	3.23E-02	1.95E-01	1.11E-01	-4.57E-01	2.85E-01	1.29E-01	bad-chisq
+group_1201-group_1228-group_1339	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_894-group_1228-group_869	5.81E-02	8.69E-01	9.83E-01	-5.59E-03	2.66E-01	1.70E-03	
+group_894-group_1228-group_1323	1.29E-02	4.17E-01	3.44E-01	-2.70E-01	2.85E-01	7.66E-02	bad-chisq
+group_73-group_1229-group_1234	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1209-group_1230-group_1240	4.52E-02	5.20E-01	6.41E-01	-7.63E-02	1.63E-01	3.77E-02	bad-chisq
+group_1168-group_1230-group_1240	5.74E-01	2.09E-04	7.66E-01	3.63E-02	1.22E-01	2.40E-02	
+group_911-group_1974-group_1216	1.29E-02	3.99E-01	1.09E-01	4.62E-01	2.87E-01	1.29E-01	bad-chisq
+group_1216-group_1974-group_919	3.87E-02	1.55E-01	2.38E-02	-4.50E-01	1.97E-01	1.82E-01	bad-chisq
+group_16-group_1234-group_1217	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1217-group_1234-group_1229	3.23E-02	4.13E-01	7.46E-01	7.66E-02	2.36E-01	2.63E-02	bad-chisq
+group_1206-group_1238-group_1268	1.29E-02	1.25E-02	1.87E-01	4.25E-01	3.21E-01	1.06E-01	bad-chisq
+group_1206-group_1238-group_1290	4.06E-01	3.85E-02	5.01E-01	5.09E-02	7.54E-02	5.45E-02	
+group_1061-group_1238-group_1290	1.29E-02	4.17E-01	7.08E-01	-9.22E-02	2.46E-01	3.03E-02	bad-chisq
+group_1154-group_1240-group_1230	2.58E-02	9.82E-01	1.68E-01	3.61E-01	2.60E-01	1.11E-01	bad-chisq
+group_1230-group_1240-group_944	5.94E-01	1.12E-05	1.91E-01	-1.51E-01	1.15E-01	1.06E-01	
+group_1585-group_1241-group_1235	1.29E-02	3.99E-01	7.61E-01	1.05E-01	3.43E-01	2.47E-02	bad-chisq
+group_1235-group_1241-group_1622	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1236-group_1243-group_1245	3.23E-02	4.13E-01	9.87E-01	-3.82E-03	2.39E-01	1.29E-03	bad-chisq
+group_1236-group_1243-group_1292	5.35E-01	7.80E-08	1.97E-03	-2.76E-01	8.77E-02	2.47E-01	
+group_1911-group_1248-group_1246	5.81E-02	8.69E-01	8.33E-01	2.71E-02	1.29E-01	1.70E-02	
+group_1246-group_1248-group_811	2.77E-01	2.89E-01	7.58E-01	2.29E-02	7.43E-02	2.49E-02	
+group_8-group_1247-group_1290	1.74E-01	2.41E-01	7.99E-02	1.43E-01	8.11E-02	1.41E-01	
+group_8-group_1247-group_1292	1.94E-02	8.66E-02	7.21E-01	9.41E-02	2.63E-01	2.90E-02	bad-chisq
+group_1290-group_1247-group_1292	3.81E-01	3.56E-02	9.72E-01	2.72E-03	7.64E-02	2.88E-03	
+group_479-group_1250-group_1256	1.94E-02	7.20E-01	6.22E-01	1.16E-01	2.34E-01	3.99E-02	bad-chisq
+group_896-group_1250-group_1256	5.16E-02	3.46E-07	2.41E-01	2.58E-01	2.19E-01	9.48E-02	bad-chisq
+group_1256-group_1250-group_1283	6.19E-01	1.43E-06	4.65E-01	-9.26E-02	1.26E-01	5.91E-02	
+group_1945-group_1254-group_1303	1.94E-02	3.19E-01	1.04E-02	-7.23E-01	2.79E-01	2.05E-01	bad-chisq
+group_1586-group_1254-group_954	1.94E-02	7.20E-01	5.45E-01	-1.56E-01	2.58E-01	4.90E-02	bad-chisq
+group_1586-group_1254-group_1304	5.16E-02	9.74E-01	5.65E-01	7.87E-02	1.37E-01	4.66E-02	
+group_1882-group_1254-group_62	5.29E-01	1.32E-07	7.90E-03	-2.60E-01	9.68E-02	2.13E-01	
+group_1250-group_1256-group_466	5.55E-01	1.52E-04	2.72E-01	1.23E-01	1.11E-01	8.88E-02	
+group_1250-group_1256-group_1265	1.29E-01	4.53E-03	5.60E-01	-8.12E-02	1.39E-01	4.71E-02	
+group_72-group_1263-group_1342	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_897-group_1263-group_923	1.29E-02	1.25E-02	1.84E-04	8.98E-01	2.34E-01	2.96E-01	bad-chisq
+group_897-group_1263-group_1304	4.52E-02	7.99E-01	3.96E-01	1.21E-01	1.42E-01	6.87E-02	bad-chisq
+group_897-group_1263-group_1342	2.19E-01	1.61E-02	3.25E-01	-8.43E-02	8.54E-02	7.96E-02	
+group_496-group_1257-group_2191	1.94E-01	2.67E-03	1.35E-01	-1.32E-01	8.77E-02	1.21E-01	bad-chisq
+group_496-group_1257-group_1265	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_185-group_1258-group_1284	1.94E-02	7.20E-01	6.70E-01	-1.68E-01	3.93E-01	3.45E-02	bad-chisq
+group_1024-group_1258-group_1284	1.29E-02	3.99E-01	7.50E-01	1.03E-01	3.24E-01	2.58E-02	bad-chisq
+group_1960-group_1258-group_1284	3.87E-02	6.48E-01	6.26E-01	-1.76E-01	3.61E-01	3.94E-02	bad-chisq
+group_1394-group_1259-group_2205	1.29E-02	1.25E-02	1.87E-01	4.25E-01	3.21E-01	1.06E-01	bad-chisq
+group_1533-group_1259-group_56	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_57-group_1259-group_308	7.10E-02	3.43E-01	1.40E-01	-3.85E-01	2.60E-01	1.19E-01	
+group_308-group_1259-group_1265	1.29E-02	3.99E-01	4.73E-01	2.05E-01	2.85E-01	5.80E-02	bad-chisq
+group_309-group_1260-group_1269	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_451-group_1261-group_1284	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_1024-group_1262-sel26_3~~~sel26~~~sel26_1	8.39E-02	5.81E-02	5.28E-01	2.03E-01	3.21E-01	5.10E-02	
+group_616-group_1264-group_1016	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_2046-group_1264-group_1270	3.94E-01	7.86E-03	4.64E-01	-5.94E-02	8.09E-02	5.92E-02	
+group_460-group_1264-group_1270	7.10E-02	6.12E-01	5.05E-01	-1.31E-01	1.96E-01	5.39E-02	
+group_1256-group_1265-group_466	8.39E-02	9.00E-01	6.10E-01	-9.50E-02	1.86E-01	4.13E-02	
+group_1256-group_1265-group_1282	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_1257-group_1265-group_57	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_703-group_1266-group_57	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_2196-group_1266-group_1875	1.94E-02	7.20E-01	6.70E-01	-1.68E-01	3.93E-01	3.45E-02	bad-chisq
+group_887-group_1267-group_1200	1.94E-02	2.15E-03	7.22E-04	7.68E-01	2.23E-01	2.69E-01	bad-chisq
+group_1188-group_1268-group_1285	1.29E-02	1.25E-02	1.10E-01	5.33E-01	3.32E-01	1.29E-01	bad-chisq
+group_1143-group_1268-group_887	7.10E-02	4.99E-02	8.82E-03	-4.64E-01	1.75E-01	2.10E-01	bad-chisq
+group_1143-group_1268-group_1238	1.94E-02	8.66E-02	6.45E-01	1.28E-01	2.78E-01	3.73E-02	bad-chisq
+group_1143-group_1268-group_1333	5.29E-01	1.57E-04	4.50E-01	8.34E-02	1.10E-01	6.12E-02	
+group_939-group_1269-group_1260	7.10E-02	9.40E-02	3.09E-01	2.09E-01	2.05E-01	8.22E-02	
+group_1586-group_1269-group_940	7.10E-02	8.25E-01	8.21E-01	2.75E-02	1.22E-01	1.83E-02	
+group_1264-group_1270-group_2154	3.55E-01	3.49E-03	5.82E-01	-4.68E-02	8.48E-02	4.46E-02	
+group_1264-group_1270-group_775	9.68E-02	2.89E-01	4.13E-02	-3.23E-01	1.57E-01	1.64E-01	
+group_1264-group_1270-group_1275	1.29E-02	1.25E-02	8.11E-03	7.63E-01	2.84E-01	2.12E-01	bad-chisq
+group_617-group_1271-group_1202	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1066-group_1271-group_1284	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+deoD_2-group_1273-group_1196	8.39E-02	1.41E-01	1.83E-01	-2.98E-01	2.23E-01	1.08E-01	bad-chisq
+group_2020-group_1274-group_831	1.29E-02	1.25E-02	1.09E-01	5.55E-01	3.45E-01	1.29E-01	bad-chisq
+group_2020-group_1274-noc	1.29E-02	1.25E-02	1.84E-04	8.98E-01	2.34E-01	2.96E-01	bad-chisq
+group_812-group_1274-group_63	6.45E-02	2.70E-01	2.74E-01	-2.41E-01	2.20E-01	8.84E-02	bad-chisq
+group_2007-group_1275-group_1609	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+mutX-group_1276-group_1108	3.87E-02	1.55E-01	5.27E-02	-4.86E-01	2.49E-01	1.56E-01	bad-chisq
+group_2099-group_1277-group_1303	3.23E-02	4.13E-01	4.23E-01	1.94E-01	2.42E-01	6.48E-02	bad-chisq
+group_2013-group_1277-group_1303	2.00E-01	3.18E-02	7.27E-01	-2.89E-02	8.28E-02	2.82E-02	
+group_2091-group_1278-group_759	7.74E-02	1.75E-01	3.17E-02	-3.99E-01	1.84E-01	1.73E-01	bad-chisq
+group_2091-group_1278-group_996	5.03E-01	9.56E-07	3.13E-02	-1.94E-01	8.92E-02	1.73E-01	
+group_1526-group_1279-group_531	6.45E-02	2.70E-01	2.74E-01	-2.41E-01	2.20E-01	8.84E-02	bad-chisq
+group_1526-group_1279-group_1113	6.13E-01	2.46E-06	8.52E-02	-1.63E-01	9.41E-02	1.39E-01	
+group_1456-group_1279-group_531	1.94E-02	7.20E-01	9.33E-01	2.65E-02	3.17E-01	6.77E-03	bad-chisq
+group_1705-group_1280-group_897	2.58E-02	3.77E-04	6.77E-01	9.16E-02	2.19E-01	3.37E-02	bad-chisq
+group_1678-group_1280-group_1325	1.29E-02	4.17E-01	6.69E-01	-1.06E-01	2.46E-01	3.46E-02	bad-chisq
+group_1325-group_1280-group_1326	7.10E-02	8.25E-01	8.93E-01	-2.74E-02	2.03E-01	1.09E-02	
+group_2061-group_1281-group_1149	1.94E-02	3.19E-01	1.95E-01	-4.15E-01	3.19E-01	1.05E-01	bad-chisq
+group_1520-group_1282-group_478	1.29E-02	4.17E-01	1.91E-01	-3.93E-01	2.99E-01	1.06E-01	bad-chisq
+seq_2~~~seq_1-group_1282-group_1265	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_2186-group_1282-speC_1	1.94E-01	3.96E-02	7.06E-01	-3.16E-02	8.35E-02	3.05E-02	
+speC_1-group_1282-group_57	3.42E-01	4.94E-02	4.52E-01	6.27E-02	8.31E-02	6.09E-02	
+group_1648-group_1283-group_75	1.29E-02	1.25E-02	7.45E-02	6.09E-01	3.39E-01	1.44E-01	bad-chisq
+group_51-group_1283-group_1250	6.06E-01	6.17E-07	4.30E-01	-1.04E-01	1.32E-01	6.38E-02	
+group_1153-group_1283-group_1250	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_1504-group_1284-group_1258	3.23E-02	1.95E-01	1.80E-02	-6.65E-01	2.78E-01	1.90E-01	bad-chisq
+group_1258-group_1284-group_1652	1.94E-02	7.20E-01	6.70E-01	-1.68E-01	3.93E-01	3.45E-02	bad-chisq
+group_1612-group_1284-group_1261	1.29E-02	3.99E-01	9.32E-01	3.48E-02	4.08E-01	6.90E-03	bad-chisq
+group_908-group_1284-group_1329	1.94E-02	7.20E-01	6.30E-01	-1.94E-01	4.01E-01	3.90E-02	bad-chisq
+group_1555-group_1284-group_1588	5.16E-02	4.17E-01	5.78E-01	-1.89E-01	3.40E-01	4.50E-02	bad-chisq
+group_1555-group_1284-group_1202	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+group_1633-group_1284-group_1329	1.94E-02	2.15E-03	6.86E-02	5.83E-01	3.18E-01	1.47E-01	bad-chisq
+group_1440-group_1284-group_1202	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1522-group_1284-group_447	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+group_447-group_1284-group_1202	5.94E-01	1.82E-06	5.00E-01	-2.20E-01	3.25E-01	5.45E-02	
+group_1271-group_1284-group_1329	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1061-group_1285-group_481	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1061-group_1285-group_1268	1.29E-02	1.25E-02	1.10E-01	5.33E-01	3.32E-01	1.29E-01	bad-chisq
+group_1061-group_1285-group_1290	1.10E-01	1.28E-02	9.79E-02	-1.60E-01	9.63E-02	1.33E-01	bad-chisq
+group_481-group_1285-group_1206	2.58E-02	1.74E-02	4.95E-02	5.05E-01	2.55E-01	1.58E-01	bad-chisq
+group_1206-group_1285-group_1267	1.29E-02	4.17E-01	7.08E-01	-9.22E-02	2.46E-01	3.03E-02	bad-chisq
+ennX_1~~~emm5~~~ennX_2~~~ennX-smc_1~~~emm5~~~smc_2~~~emm6~~~arp4~~~smc_3-ennX_2~~~ennX~~~arp4~~~ennX_1	3.87E-02	6.36E-04	1.92E-02	4.89E-01	2.07E-01	1.88E-01	bad-chisq
+ennX_1~~~emm5~~~ennX_2~~~ennX-smc_1~~~emm5~~~smc_2~~~emm6~~~arp4~~~smc_3-scpA	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_1181-smc_1~~~emm5~~~smc_2~~~emm6~~~arp4~~~smc_3-group_675	5.81E-02	5.26E-01	1.52E-01	-2.93E-01	2.04E-01	1.16E-01	
+group_1181-smc_1~~~emm5~~~smc_2~~~emm6~~~arp4~~~smc_3-group_1691	3.81E-01	3.56E-02	1.17E-01	1.15E-01	7.29E-02	1.26E-01	
+group_841-group_1287-group_926	1.29E-02	3.99E-01	9.63E-01	1.62E-02	3.45E-01	3.79E-03	bad-chisq
+group_841-group_1287-group_1340	2.58E-02	2.48E-01	2.59E-02	-4.18E-01	1.86E-01	1.79E-01	bad-chisq
+group_862-group_1288-group_1301	3.87E-02	6.09E-01	5.59E-01	-1.35E-01	2.30E-01	4.73E-02	bad-chisq
+group_1186-group_1289-clpP_2~~~clpP_1	5.61E-01	5.29E-07	5.72E-03	-2.38E-01	8.49E-02	2.21E-01	
+group_1285-group_1290-group_1247	4.52E-02	5.20E-01	6.97E-01	-5.66E-02	1.45E-01	3.15E-02	bad-chisq
+group_1285-group_1290-group_1238	1.94E-02	3.19E-01	5.32E-01	-1.26E-01	2.01E-01	5.06E-02	bad-chisq
+group_1285-group_1290-group_1637	2.58E-02	2.48E-01	8.43E-02	-4.46E-01	2.57E-01	1.39E-01	bad-chisq
+group_1247-group_1290-group_1238	4.19E-01	2.67E-01	2.90E-02	1.72E-01	7.82E-02	1.75E-01	
+group_1247-group_1290-group_887	4.52E-02	5.20E-01	1.84E-01	-2.28E-01	1.71E-01	1.07E-01	bad-chisq
+group_2090-group_1291-group_1526	6.39E-01	2.91E-08	2.84E-02	-2.31E-01	1.04E-01	1.76E-01	
+group_1526-group_1291-group_1208	3.23E-02	8.11E-01	8.90E-02	-3.68E-01	2.15E-01	1.37E-01	bad-chisq
+group_1245-group_1292-group_1247	3.23E-02	4.13E-01	9.87E-01	-3.82E-03	2.39E-01	1.29E-03	bad-chisq
+group_472-group_1292-group_1247	1.29E-02	4.17E-01	6.69E-01	-1.06E-01	2.46E-01	3.46E-02	bad-chisq
+group_1243-group_1292-group_1247	3.35E-01	7.62E-03	4.83E-01	-5.69E-02	8.08E-02	5.68E-02	
+group_913-group_1293-group_1085	8.39E-02	1.41E-01	9.72E-02	-2.13E-01	1.27E-01	1.34E-01	bad-chisq
+group_2131-group_1294-group_2174	1.29E-02	1.25E-02	1.09E-01	5.55E-01	3.45E-01	1.29E-01	bad-chisq
+group_59-group_1294-group_61	9.03E-02	9.44E-02	7.06E-01	-9.10E-02	2.41E-01	3.05E-02	
+group_61-group_1294-group_2156	1.94E-02	7.20E-01	6.51E-01	1.16E-01	2.57E-01	3.66E-02	bad-chisq
+group_1495-group_1295-group_2135	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1144-group_1295-group_1962	5.16E-02	4.17E-01	3.39E-01	-1.61E-01	1.68E-01	7.73E-02	bad-chisq
+group_1710-group_1297-group_1192	4.52E-02	2.02E-06	4.37E-01	1.82E-01	2.34E-01	6.29E-02	bad-chisq
+group_1752-group_1297-group_842	3.23E-02	6.08E-02	5.43E-01	1.41E-01	2.31E-01	4.92E-02	bad-chisq
+group_629-group_1298-group_1307	9.68E-02	4.04E-01	6.80E-01	-6.06E-02	1.47E-01	3.34E-02	
+group_1892-group_1298-group_1307	5.87E-01	1.63E-03	9.30E-01	8.62E-03	9.78E-02	7.13E-03	
+group_37-group_1299-group_780	1.29E-02	1.25E-02	9.93E-02	6.33E-01	3.82E-01	1.33E-01	bad-chisq
+group_774-group_1299-group_111	6.45E-02	6.77E-01	5.26E-01	-9.82E-02	1.54E-01	5.14E-02	
+group_2182-group_1300-group_1310	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1196-group_1300-group_1310	5.16E-02	4.17E-01	5.78E-01	-1.89E-01	3.40E-01	4.50E-02	bad-chisq
+group_1288-group_1301-group_1544	3.87E-02	6.09E-01	5.59E-01	-1.35E-01	2.30E-01	4.73E-02	bad-chisq
+group_919-group_1302-group_1314	2.58E-02	2.48E-01	5.25E-02	-4.17E-01	2.13E-01	1.56E-01	bad-chisq
+group_919-group_1302-group_1313	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1254-group_1303-group_1277	3.23E-02	4.13E-01	4.23E-01	1.94E-01	2.42E-01	6.48E-02	bad-chisq
+group_1277-group_1303-group_923	2.00E-01	3.18E-02	7.27E-01	-2.89E-02	8.28E-02	2.82E-02	
+group_68-group_1304-group_1326	3.87E-02	1.17E-05	5.32E-01	1.37E-01	2.19E-01	5.05E-02	bad-chisq
+group_1254-group_1304-group_1263	5.16E-02	9.74E-01	5.65E-01	7.87E-02	1.37E-01	4.66E-02	
+group_1648-group_1305-group_651	1.29E-02	1.25E-02	7.45E-02	6.09E-01	3.39E-01	1.44E-01	bad-chisq
+group_956-group_1305-group_1333	3.23E-02	6.08E-02	7.49E-01	-6.43E-02	2.00E-01	2.59E-02	bad-chisq
+group_600-group_1305-group_1135	7.74E-02	1.50E-01	8.09E-01	-8.54E-02	3.52E-01	1.96E-02	
+clpP_2~~~clpP_1-group_1306-group_472	5.61E-01	5.29E-07	5.72E-03	-2.38E-01	8.49E-02	2.21E-01	
+group_462-group_1308-group_1307	1.10E-01	2.74E-01	8.83E-01	-2.26E-02	1.53E-01	1.19E-02	
+group_1307-group_1308-group_1685	6.06E-01	5.46E-04	8.56E-01	-1.93E-02	1.06E-01	1.47E-02	
+group_111-group_2103-group_1318	5.16E-02	4.17E-01	1.53E-01	-2.44E-01	1.70E-01	1.15E-01	bad-chisq
+group_2011-group_1317-group_68	3.87E-02	1.17E-05	5.32E-01	1.37E-01	2.19E-01	5.05E-02	bad-chisq
+group_63-group_1317-group_1325	1.29E-02	4.17E-01	5.62E-02	-5.00E-01	2.60E-01	1.54E-01	bad-chisq
+group_897-group_1317-group_274	1.94E-02	7.20E-01	1.25E-01	3.68E-01	2.39E-01	1.24E-01	bad-chisq
+group_897-group_1317-group_1360	1.68E-01	1.45E-03	8.31E-02	-1.57E-01	9.00E-02	1.40E-01	bad-chisq
+group_1325-group_1317-group_1360	1.94E-02	3.19E-01	5.96E-01	-1.08E-01	2.03E-01	4.29E-02	bad-chisq
+group_1762-group_1319-group_1311	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1311-group_1319-group_1824	5.16E-02	4.17E-01	5.78E-01	-1.89E-01	3.40E-01	4.50E-02	bad-chisq
+group_1313-group_1320-group_1423	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1316-group_1321-group_1322	3.23E-02	8.11E-01	7.60E-01	-5.69E-02	1.86E-01	2.48E-02	bad-chisq
+group_2011-group_1323-group_1325	1.29E-02	1.25E-02	1.10E-01	5.33E-01	3.32E-01	1.29E-01	bad-chisq
+group_63-group_1323-group_1228	1.29E-02	4.17E-01	3.44E-01	-2.70E-01	2.85E-01	7.66E-02	bad-chisq
+group_63-group_1323-group_1325	5.16E-02	4.17E-01	5.78E-01	-1.89E-01	3.40E-01	4.50E-02	bad-chisq
+group_1322-group_1324-group_1328	3.87E-02	6.48E-01	5.50E-01	-1.05E-01	1.75E-01	4.84E-02	bad-chisq
+group_13-group_1324-group_1328	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1912-group_1325-group_1323	1.29E-02	1.25E-02	1.10E-01	5.33E-01	3.32E-01	1.29E-01	bad-chisq
+group_1323-group_1325-group_1280	5.16E-02	4.17E-01	5.78E-01	-1.89E-01	3.40E-01	4.50E-02	bad-chisq
+group_444-group_1325-group_1280	1.29E-02	3.99E-01	7.54E-01	-9.03E-02	2.88E-01	2.54E-02	bad-chisq
+group_1280-group_1325-group_1317	1.29E-02	4.17E-01	6.69E-01	-1.06E-01	2.46E-01	3.46E-02	bad-chisq
+group_1625-group_1326-group_1912	1.29E-02	1.25E-02	1.10E-01	5.33E-01	3.32E-01	1.29E-01	bad-chisq
+group_1965-group_1326-group_1280	7.74E-02	4.60E-01	2.38E-01	2.07E-01	1.75E-01	9.54E-02	
+group_1304-group_1326-group_1346	5.16E-02	3.46E-07	3.09E-01	2.72E-01	2.67E-01	8.22E-02	bad-chisq
+group_544-group_1327-group_1353	2.58E-02	9.82E-01	2.47E-01	-3.68E-01	3.17E-01	9.35E-02	bad-chisq
+group_1718-group_1327-group_388	1.10E-01	9.20E-01	6.44E-01	4.56E-02	9.85E-02	3.74E-02	
+group_1937-group_1328-group_1237	1.29E-02	1.25E-02	1.85E-01	4.16E-01	3.12E-01	1.07E-01	bad-chisq
+group_1429-group_1328-group_1324	1.29E-02	3.99E-01	1.09E-01	4.62E-01	2.87E-01	1.29E-01	bad-chisq
+group_1324-group_1328-group_1111	3.87E-02	1.55E-01	2.38E-02	-4.50E-01	1.97E-01	1.82E-01	bad-chisq
+group_1450-group_1329-group_2042	3.23E-02	1.95E-01	1.80E-02	-6.65E-01	2.78E-01	1.90E-01	bad-chisq
+group_1023-group_1329-group_1284	4.52E-02	5.20E-01	1.72E-01	-3.47E-01	2.53E-01	1.10E-01	bad-chisq
+group_1024-group_1329-group_1284	3.87E-02	1.44E-02	5.27E-01	1.42E-01	2.24E-01	5.12E-02	bad-chisq
+group_50-group_1330-group_1443	5.03E-01	3.27E-05	5.47E-01	-5.93E-02	9.83E-02	4.87E-02	
+group_1443-group_1330-group_1332	5.81E-02	1.52E-01	4.61E-01	1.26E-01	1.70E-01	5.97E-02	bad-chisq
+group_76-group_1332-group_956	7.10E-02	3.43E-01	5.32E-01	7.48E-02	1.19E-01	5.06E-02	
+group_1852-group_1332-group_50	5.10E-01	2.18E-05	4.81E-01	-7.11E-02	1.01E-01	5.70E-02	
+group_1852-group_1332-group_1330	8.39E-02	5.84E-01	1.86E-01	-2.37E-01	1.78E-01	1.07E-01	
+group_726-group_1333-group_1305	3.87E-02	1.44E-02	8.34E-01	-3.91E-02	1.86E-01	1.69E-02	bad-chisq
+group_952-group_1333-group_1268	4.97E-01	4.86E-05	6.72E-01	-3.99E-02	9.39E-02	3.43E-02	
+group_2130-group_1335-group_2037	3.23E-02	4.13E-01	7.80E-01	-8.90E-02	3.18E-01	2.26E-02	bad-chisq
+group_2037-group_1335-group_775	1.29E-02	3.99E-01	8.79E-01	5.09E-02	3.34E-01	1.23E-02	bad-chisq
+group_1919-group_1335-group_1987	5.68E-01	1.29E-05	7.43E-01	5.14E-02	1.57E-01	2.65E-02	
+group_2081-group_1336-group_1959	8.39E-02	9.00E-01	9.95E-02	3.12E-01	1.88E-01	1.33E-01	
+group_380-group_1337-group_1491	1.29E-02	1.25E-02	5.92E-04	8.78E-01	2.50E-01	2.73E-01	bad-chisq
+group_1121-group_1339-group_1228	1.29E-02	4.17E-01	2.67E-02	-7.50E-01	3.35E-01	1.78E-01	bad-chisq
+group_1822-group_1339-group_402	5.48E-01	2.59E-08	3.09E-03	-2.79E-01	9.28E-02	2.36E-01	
+group_2136-group_1340-group_1287	2.58E-02	2.48E-01	2.59E-02	-4.18E-01	1.86E-01	1.79E-01	bad-chisq
+group_59-group_1340-group_2026	6.45E-02	2.70E-01	2.74E-01	-2.41E-01	2.20E-01	8.84E-02	bad-chisq
+group_2026-group_1340-group_1438	2.58E-02	9.82E-01	5.64E-01	-1.57E-01	2.71E-01	4.67E-02	bad-chisq
+group_1438-group_1340-group_1272	3.55E-01	3.49E-03	5.82E-01	-4.68E-02	8.48E-02	4.46E-02	
+group_2134-group_1342-group_1263	1.94E-02	7.20E-01	9.33E-01	2.65E-02	3.17E-01	6.77E-03	bad-chisq
+group_954-group_1342-group_1263	2.39E-01	6.39E-01	1.74E-01	-1.14E-01	8.36E-02	1.10E-01	
+group_1601-group_1343-group_2208	5.10E-01	5.95E-07	1.14E-02	-2.56E-01	1.00E-01	2.03E-01	
+group_1601-group_1343-group_1409	1.94E-02	3.19E-01	1.95E-01	-4.15E-01	3.19E-01	1.05E-01	bad-chisq
+group_1981-group_1344-group_1349	3.23E-02	4.13E-01	4.23E-01	1.94E-01	2.42E-01	6.48E-02	bad-chisq
+group_830-group_1344-group_1016	5.81E-02	1.30E-04	5.39E-01	-1.21E-01	1.96E-01	4.98E-02	
+group_830-group_1344-group_465	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_830-group_1344-group_1191	2.58E-02	9.82E-01	5.00E-01	-1.66E-01	2.46E-01	5.46E-02	bad-chisq
+group_1954-group_1344-group_1349	5.16E-01	2.45E-06	7.59E-02	-1.86E-01	1.04E-01	1.43E-01	
+group_1064-lexA-group_926	6.45E-02	2.70E-01	2.74E-01	-2.41E-01	2.20E-01	8.84E-02	bad-chisq
+group_324-lexA-group_2031	3.87E-02	1.17E-05	5.32E-01	1.37E-01	2.19E-01	5.05E-02	bad-chisq
+group_324-lexA-group_61	2.58E-02	2.30E-01	3.72E-01	2.03E-01	2.27E-01	7.22E-02	bad-chisq
+group_324-lexA-group_1987	5.48E-01	4.77E-05	5.48E-01	7.62E-02	1.27E-01	4.86E-02	
+group_61-lexA-group_839	9.03E-02	9.44E-02	7.06E-01	-9.10E-02	2.41E-01	3.05E-02	
+group_2184-group_1346-group_1354	1.29E-02	1.25E-02	1.10E-01	5.33E-01	3.32E-01	1.29E-01	bad-chisq
+group_1326-group_1346-group_1354	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+group_272-group_1348-group_648	1.29E-02	3.99E-01	1.09E-01	4.62E-01	2.87E-01	1.29E-01	bad-chisq
+group_648-group_1348-mepA	2.58E-02	2.48E-01	5.25E-02	-4.17E-01	2.13E-01	1.56E-01	bad-chisq
+mepA-group_1348-group_1196	1.29E-02	4.17E-01	3.54E-01	-3.80E-01	4.08E-01	7.50E-02	bad-chisq
+group_1958-group_1349-group_1344	3.23E-02	4.13E-01	4.23E-01	1.94E-01	2.42E-01	6.48E-02	bad-chisq
+group_1344-group_1349-group_2097	5.16E-01	2.45E-06	7.59E-02	-1.86E-01	1.04E-01	1.43E-01	
+group_1981-group_1350-group_1352	2.58E-02	9.82E-01	2.47E-01	-3.68E-01	3.17E-01	9.35E-02	bad-chisq
+group_1191-group_1350-group_1352	3.87E-02	1.55E-01	6.30E-02	-4.69E-01	2.51E-01	1.50E-01	bad-chisq
+group_1762-group_1351-group_1889	1.94E-02	3.19E-01	4.44E-01	-2.89E-01	3.76E-01	6.19E-02	bad-chisq
+group_1327-group_1353-group_1352	2.58E-02	9.82E-01	2.47E-01	-3.68E-01	3.17E-01	9.35E-02	bad-chisq
+group_1352-group_1353-group_2149	3.87E-02	1.55E-01	6.30E-02	-4.69E-01	2.51E-01	1.50E-01	bad-chisq
+group_231-group_1353-group_1784	1.94E-02	8.66E-02	4.01E-01	2.36E-01	2.81E-01	6.79E-02	bad-chisq
+group_1784-group_1353-group_118	3.23E-02	4.13E-01	7.80E-01	-8.90E-02	3.18E-01	2.26E-02	bad-chisq
+group_1221-group_1354-group_1346	1.29E-02	1.25E-02	1.10E-01	5.33E-01	3.32E-01	1.29E-01	bad-chisq
+group_1346-group_1354-group_1296	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+group_412-group_1357-group_425	8.39E-02	5.81E-02	5.28E-01	2.03E-01	3.21E-01	5.10E-02	
+group_412-group_1357-group_1014	7.94E-01	1.29E-09	4.01E-02	-3.71E-01	1.79E-01	1.65E-01	
+group_1221-dnaB_2-group_1355	1.29E-02	1.25E-02	1.10E-01	5.33E-01	3.32E-01	1.29E-01	bad-chisq
+group_1296-dnaB_2-group_1355	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+group_2010-group_1356-group_1355	1.29E-02	1.25E-02	1.10E-01	5.33E-01	3.32E-01	1.29E-01	bad-chisq
+group_1355-group_1356-group_947	5.81E-02	5.83E-08	1.29E-01	5.35E-01	3.51E-01	1.22E-01	bad-chisq
+holA-comEC_1~~~comEC_2~~~comEC-group_1420	9.74E-01	1.74E-02	6.39E-03	-5.12E-01	1.85E-01	2.18E-01	bad-chisq
+holA-comEC_1~~~comEC_2~~~comEC-group_1491	1.29E-02	1.25E-02	5.92E-04	8.78E-01	2.50E-01	2.73E-01	bad-chisq
+group_1551-group_1360-group_1122	1.94E-02	7.20E-01	1.42E-01	3.61E-01	2.45E-01	1.18E-01	bad-chisq
+group_274-group_1360-group_1317	1.81E-01	8.64E-04	6.31E-02	-1.65E-01	8.83E-02	1.50E-01	bad-chisq

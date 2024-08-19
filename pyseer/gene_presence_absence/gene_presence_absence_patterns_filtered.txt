@@ -1,0 +1,2 @@
+variant	af	filter-pvalue	lrt-pvalue	beta	beta-std-err	variant_h2	notes
+group_2020	2.58E-02	3.77E-04	6.02E-05	7.85E-01	1.90E-01	3.16E-01	bad-chisq
