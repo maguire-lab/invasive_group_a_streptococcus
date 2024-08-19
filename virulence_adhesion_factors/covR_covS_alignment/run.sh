@@ -1,0 +1,2 @@
+cat covR_reference_seq.fas covR.fas | minimap2 -a -x asm20 --sam-hit-only --secondary=no --score-N=0 -t 4 covR_reference_seq.fas - -o covR_mapped.sam; gofasta sam toMultiAlign -s covR_mapped.sam -t 4 --reference covR_reference_seq.fas > covR_aligned.fas
+cat covS_reference_seq.fas covS.fas | minimap2 -a -x asm20 --sam-hit-only --secondary=no --score-N=0 -t 4 covS_reference_seq.fas - -o covS_mapped.sam; gofasta sam toMultiAlign -s covS_mapped.sam -t 4 --reference covS_reference_seq.fas > covS_aligned.fas
