@@ -1,17 +1,19 @@
 # Invasive Group A Streptococcus Shared Hospital Laboratory
 
+[![DOI](https://zenodo.org/badge/844735688.svg)](https://zenodo.org/doi/10.5281/zenodo.13345999)
+
 Our goal is to perform genomic analyses of all Streptococcus pyogenes isolates sequenced at the Shared Hospital Laboratory as of 2024-01-22. 
 
 ## Bactopia 
 To do this we performed a bactopia run on all SHL samples (listed in `bactopia_sample_sheet.csv`).
 
-`bactopia --samples 20240122_gas_sample_sheet.csv --outdir 20240122_gas --run_name 20240122_gas -profile docker
+    bactopia --samples bactopia_sample_sheet.csv --outdir bactopia --run_name 20240122_gas -profile docker
 
 We also performed emmtyping and traditional MLST within bactopia.
 
 Then we generated a pangenome of these samples:
 
-`bactopia --wf pangenome --bactopia 20240122_gas --outdir 20240122_gas_pangenome --run_name 20240122_gas_pangenome -profile docker --use_panaroo`
+    bactopia --wf pangenome --bactopia bactopia --outdir 20240122_gas_pangenome --run_name 20240122_gas_pangenome -profile docker --use_panaroo
 
 These can be recreated with `run.sh` at the toplevel of the repository.
 
@@ -20,11 +22,17 @@ The following manual analyses were then performed (with a `run.sh` within each f
 
 - `assembly_typer/` - m1uk SNP calling
 
-- `poppunk/` - poppunk clustering
+- `poppunk/` - poppunk variable length k-mer clustering
 
-- `pyseer/` - genome wide association studies of invasiveness and unitigs
+- `pyseer/` - genome wide association studies of gene presence/absence and struct presence/absence vs invasiveness 
 
-- `virulence_adhesion_factors/` - BLAST based identification of a curated set of viruluence and adhesion factors
+- `virulence_adhesion_factors/` - BLAST based identification of a curated set of viruluence and adhesion factors (and covRS deletion analysis).
+
+- `data_analysis.ipynb`
+
+- `table/` - final metadata table
+
+- `figures/` - final figures
 
 ## Methods
 
@@ -38,7 +46,7 @@ Both the core genome phylogeny of SHL samples and the minimum spanning tree of S
 A customised set of virulence and adhesion factors was retrieved from Virulence Factor Database (VFDB)[^14] and RefSeq[^15]. These were annotated using BLASTN+ v2.15.0[^16] with a minimum identity and query coverage of 80%.
 Alignments were also generated using minimap2[^17] and gofasta[^18] against the MGAS8232 covR and covS reference sequences.
 
-Finally, gene presence absence and struct GWAS analyses were performed using pyseer with the core genome K matrix and LMM mode.
+Finally, gene presence absence and struct GWAS analyses were performed using pyseer v3.11[^20] using random effect linear mixed model[^21] and core-genome phylogeny kinship matrix for both panaroo-inferred gene presence/absence data and sttruct presence/absence. 
 
 [^1]: Petit III, Robert A., and Timothy D. Read. "Bactopia: a flexible pipeline for complete analysis of bacterial genomes." Msystems 5.4 (2020): 10-1128.
 
@@ -77,3 +85,7 @@ Finally, gene presence absence and struct GWAS analyses were performed using pys
 [^18]: Jackson, Ben. "gofasta: command-line utilities for genomic epidemiology research." Bioinformatics 38.16 (2022): 4033-4035.
 
 [^19]: Davies, Mark R., et al. "Atlas of group A streptococcal vaccine candidates compiled using large-scale comparative genomics." Nature genetics 51.6 (2019): 1035-1043.
+
+[^20]: Lees, John A., et al. "Pyseer: a comprehensive tool for microbial pangenome-wide association studies." Bioinformatics 34.24 (2018): 4310-4312.
+
+[^21]: Lees, John A., et al. "Improved prediction of bacterial genotype-phenotype associations using interpretable pangenome-spanning regressions." MBio 11.4 (2020): 10-1128.
