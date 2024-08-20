@@ -30,7 +30,7 @@ The following manual analyses were then performed (with a `run.sh` within each f
 
 - `data_analysis.ipynb`
 
-- `table/` - final metadata table
+- `gas_metadata_and_analysis_results.csv` - final metadata table
 
 - `figures/` - final figures
 
