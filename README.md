@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/844735688.svg)](https://zenodo.org/doi/10.5281/zenodo.13345999)
 
+All samples uploaded to SRA under BioProject PRJNA1149826
+
 Our goal is to perform genomic analyses of all Streptococcus pyogenes isolates sequenced at the Shared Hospital Laboratory as of 2024-01-22. 
 
 ## Bactopia 
